@@ -1,0 +1,341 @@
+{
+  "stage": 2,
+  "input_dir": "C:\\Users\\Lenovo\\Desktop\\WORK\\Python workenvironment testing 1 version\\handover\\youtube_out",
+  "total_records": 55,
+  "curated_count": 10,
+  "search_count": 45,
+  "records_with_errors": 0,
+  "records_with_view_warning": 0,
+  "per_record_validation": [
+    {
+      "post_id": "dItUGF8GdTw",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "qMrnVkDH2Ak",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "vNDYUlxNIAA",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "Bry8J78Awq0",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "NHjgKe7JMNE",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "Cum3k-Wglfw",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "pvWzQ1MmSns",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "3lPnN8omdPA",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "m8WomdCLBqE",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "ZkXrTHpnQrQ",
+      "provenance": "curated_mentor_list",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "dItUGF8GdTw",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "HnJ1bqXUnIM",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "qMrnVkDH2Ak",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "x0vUsxhMczI",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "vNDYUlxNIAA",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "XFLcHOA-Q0g",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "Cum3k-Wglfw",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "shNDOQxNvYk",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "t62FZR5baZ4",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "rn_7aJP5BTw",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "wq5o1CCeXQw",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "Bry8J78Awq0",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "JOFrjc6u47U",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "ETQwiYQYoSg",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "M5Ul29QtZl4",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "0hoE8mtUS1E",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "5i__NqoAI7Y",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "3lPnN8omdPA",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "LqelpONZvpw",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "-eEBuqwY-nE",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "kpFfde3rNFs",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "J0yEAE5owWw",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "5cDl0I3zusk",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "lsarAAg8IRc",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "RyAsI0LmQxc",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "OIIJvqTHHrU",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "z-F7mZ8A3Vs",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "6TNQnE2GVDI",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "-FxVjgbV2rQ",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "6OLPL5p0fMg",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "QVwTVM1Iv1c",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "cuQ2LMld1Dg",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "gxglts0Sw5I",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "5AFZgnxXK24",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "tOFPtiM48qg",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "cHbQdS2sY0c",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "m2eINI4WXkc",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "zhDKyJM59TQ",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "xppCGRZ1Rvc",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "iOGvwPmKOqQ",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "ntPzlY0A1P8",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "jAiba2Di260",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "otOmBj5PASE",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "eJnvehWcrhY",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "post_id": "RyqFD5OAJ40",
+      "provenance": "search:critical thinking",
+      "issues": [],
+      "valid": true
+    }
+  ]
+}

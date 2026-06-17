@@ -1,0 +1,3026 @@
+{
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "sjDs80m-1lCnQV62gtnsnFGjJ0E",
+      "id": "UCr3cBLTYmIK9kY0F_OdFWFQ",
+      "snippet": {
+        "title": "Casually Explained",
+        "description": "If you're looking for the answers to life's questions and Wikipedia was under scheduled maintenance, look no further, Casually Explained is here to help.\n\n",
+        "customUrl": "@casuallyexplained",
+        "publishedAt": "2015-12-07T22:39:35Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lAO_lHZfWaYLuWbSBxQzUkPLQ-2xRvPdSC8KpvfUWzfX4=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lAO_lHZfWaYLuWbSBxQzUkPLQ-2xRvPdSC8KpvfUWzfX4=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lAO_lHZfWaYLuWbSBxQzUkPLQ-2xRvPdSC8KpvfUWzfX4=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Casually Explained",
+          "description": "If you're looking for the answers to life's questions and Wikipedia was under scheduled maintenance, look no further, Casually Explained is here to help.\n\n"
+        },
+        "country": "CA"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUr3cBLTYmIK9kY0F_OdFWFQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "524400407",
+        "subscriberCount": "4190000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "107"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Casually Explained",
+          "description": "If you're looking for the answers to life's questions and Wikipedia was under scheduled maintenance, look no further, Casually Explained is here to help.\n\n",
+          "keywords": "explanations satire parody funny casually explained",
+          "unsubscribedTrailer": "xa-4IAR_9Yw",
+          "country": "CA"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/ULGwLbnXjMUAiScq0nH0WxrViR1fAiBd8Uf8CNxNrrB7HmGXJhk6og-b9RrZoRWZWFm-ahZeYg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "xMUmt0YkoKzN8qnuRbr172yENww",
+      "id": "UC_keKSGNMdbEQ4DrfL1mrfA",
+      "snippet": {
+        "title": "Academic English UK",
+        "description": "Academic English Channel for International Students and EAP Teachers",
+        "customUrl": "@academicenglishuk",
+        "publishedAt": "2012-05-13T19:52:50Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_moobO9zyHN3tVP4qXMS2J4f2EZojwxU7rzz0daKv2jdQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_moobO9zyHN3tVP4qXMS2J4f2EZojwxU7rzz0daKv2jdQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_moobO9zyHN3tVP4qXMS2J4f2EZojwxU7rzz0daKv2jdQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Academic English UK",
+          "description": "Academic English Channel for International Students and EAP Teachers"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU_keKSGNMdbEQ4DrfL1mrfA"
+        }
+      },
+      "statistics": {
+        "viewCount": "1227673",
+        "subscriberCount": "22100",
+        "hiddenSubscriberCount": false,
+        "videoCount": "132"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Academic English UK",
+          "description": "Academic English Channel for International Students and EAP Teachers",
+          "keywords": "\"Academic English\" \"Academic Language\" \"English for university\" \"EAP Teacher\" EAPTutor",
+          "unsubscribedTrailer": "c3_VoWd_Ai0",
+          "country": "GB"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/lyeUg7-fTaCQUbgnsGre4vVk7zjtZw0OtW_l7qKvjeJKRJV79KQ0RTdyJv_aL8jT-LVRAp1R_Q"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "UXCkkK00naX6Wwa76UR0_NXYLHI",
+      "id": "UCpBRZ6j0oAkjyd3FLr4yPtA",
+      "snippet": {
+        "title": "GYRUS SULCUS",
+        "description": "Hi I am here to share my experiences .....most of the shorts are clips from live online or offline classroom batches. So speed can be adjusted accordingly, your suggestions are always welcome 🤗",
+        "customUrl": "@gyrussulcus1908",
+        "publishedAt": "2016-09-11T03:44:03Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/dVGr7prOtwBMNCZf4L91KSFulKrhmcO2q6BomhlpSKyBoXF89DAZGEzl15rNGiieEbwZLncqrg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/dVGr7prOtwBMNCZf4L91KSFulKrhmcO2q6BomhlpSKyBoXF89DAZGEzl15rNGiieEbwZLncqrg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/dVGr7prOtwBMNCZf4L91KSFulKrhmcO2q6BomhlpSKyBoXF89DAZGEzl15rNGiieEbwZLncqrg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "GYRUS SULCUS",
+          "description": "Hi I am here to share my experiences .....most of the shorts are clips from live online or offline classroom batches. So speed can be adjusted accordingly, your suggestions are always welcome 🤗"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUpBRZ6j0oAkjyd3FLr4yPtA"
+        }
+      },
+      "statistics": {
+        "viewCount": "357095885",
+        "subscriberCount": "1330000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "401"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/0kt51",
+          "/m/01k8wb",
+          "/m/098wr",
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Health",
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Society",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "GYRUS SULCUS",
+          "description": "Hi I am here to share my experiences .....most of the shorts are clips from live online or offline classroom batches. So speed can be adjusted accordingly, your suggestions are always welcome 🤗",
+          "keywords": "\"Dharmendra Sir\" RAS \"Science and technology\" \"RAS best coaching\" \"General Science\" IAS UPSC \"SCIENCE AND TECHNOLOGY\"",
+          "country": "IN"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/4e9NL2S0fuEoECrx4hKycFyl2SuHakQuC8z6dqXM-sB6tsWJV0TI32j-3Zg82YZlD5_HY824sQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "4thzlDrNUY6zK6Gb6siNl2OkrRY",
+      "id": "UC6iOzmjzne02G018D-tUjDA",
+      "snippet": {
+        "title": "Star Tutorials",
+        "description": "  🌟StarTutorials is your ultimate destination for High school and freshman students. Dive into captivating lessons that make learning fun and exciting.Let us Discover clever study hacks, inspiring content, and practical tips to ace your exams and unlock your potential. Subscribe now and embark on your journey to success! \n\n🌟STAR TUTORIALS\n\nFor Business Enquiries only \n    \nEmail :  aimoneytube@gmail.com\n",
+        "customUrl": "@startutorialstm",
+        "publishedAt": "2024-06-25T12:13:19.577049Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/p_rMUFJPHk2C4C1Q132LfEJPc6h5_SdKl-Po7SV-Ff1y2n5WOkwR3jDjD6s3FJDgDhlXbanGGMw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/p_rMUFJPHk2C4C1Q132LfEJPc6h5_SdKl-Po7SV-Ff1y2n5WOkwR3jDjD6s3FJDgDhlXbanGGMw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/p_rMUFJPHk2C4C1Q132LfEJPc6h5_SdKl-Po7SV-Ff1y2n5WOkwR3jDjD6s3FJDgDhlXbanGGMw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Star Tutorials",
+          "description": "  🌟StarTutorials is your ultimate destination for High school and freshman students. Dive into captivating lessons that make learning fun and exciting.Let us Discover clever study hacks, inspiring content, and practical tips to ace your exams and unlock your potential. Subscribe now and embark on your journey to success! \n\n🌟STAR TUTORIALS\n\nFor Business Enquiries only \n    \nEmail :  aimoneytube@gmail.com\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU6iOzmjzne02G018D-tUjDA"
+        }
+      },
+      "statistics": {
+        "viewCount": "308236",
+        "subscriberCount": "9840",
+        "hiddenSubscriberCount": false,
+        "videoCount": "7"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb",
+          "/m/098wr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Star Tutorials",
+          "description": "  🌟StarTutorials is your ultimate destination for High school and freshman students. Dive into captivating lessons that make learning fun and exciting.Let us Discover clever study hacks, inspiring content, and practical tips to ace your exams and unlock your potential. Subscribe now and embark on your journey to success! \n\n🌟STAR TUTORIALS\n\nFor Business Enquiries only \n    \nEmail :  aimoneytube@gmail.com\n",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/zpfooV6HXgHCuHfzRaaGT_N9EerI4uk4pAQqrrQsvJ8t-lGuuhmu-9KD34gYP_9TCQqikRAW"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "4A7dZrsNwk-WYqSj_Bq3n12dNf4",
+      "id": "UCVEbUWk96dmaDFwenptsx5Q",
+      "snippet": {
+        "title": "Fayetteville State University",
+        "description": "Awarding degrees at the baccalaureate and master's levels, and the doctorate in educational leadership, FSU offers programs in teacher education, the arts and sciences, health professions, business and economics, and unique and emerging fields.",
+        "customUrl": "@fayettevillestateuniversitync",
+        "publishedAt": "2009-05-05T19:23:34Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kgGngrhtbPtuZfvp5JvMBQKtM8blefPPR5Wgn397_ehg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kgGngrhtbPtuZfvp5JvMBQKtM8blefPPR5Wgn397_ehg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kgGngrhtbPtuZfvp5JvMBQKtM8blefPPR5Wgn397_ehg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Fayetteville State University",
+          "description": "Awarding degrees at the baccalaureate and master's levels, and the doctorate in educational leadership, FSU offers programs in teacher education, the arts and sciences, health professions, business and economics, and unique and emerging fields."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUVEbUWk96dmaDFwenptsx5Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "3723317",
+        "subscriberCount": "9850",
+        "hiddenSubscriberCount": false,
+        "videoCount": "421"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/098wr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Fayetteville State University",
+          "description": "Awarding degrees at the baccalaureate and master's levels, and the doctorate in educational leadership, FSU offers programs in teacher education, the arts and sciences, health professions, business and economics, and unique and emerging fields.",
+          "keywords": "Fayetteville State University"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/_83W8_dMqqMh9a3rwXEZ-9sHUd7u8q13T3iUr8U0b-1ug7zsT_FKqD2jueBjGxvSC9cOBy_jXQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "W0jOAn950lls8rvas7ZnMLqOWzk",
+      "id": "UCafEZMU5s8geb9oIly6xTrg",
+      "snippet": {
+        "title": "Robin Waldun",
+        "description": "Rediscover the pleasure of reading. ",
+        "customUrl": "@rcwaldun",
+        "publishedAt": "2017-03-06T10:20:25Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/JkkTmiJU5sOu7O0OYbalXXgKxxTvCskBtoN8j2qbWMPokmGuo9Uq7jrYrSDm2PFjB5OnDqUN=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/JkkTmiJU5sOu7O0OYbalXXgKxxTvCskBtoN8j2qbWMPokmGuo9Uq7jrYrSDm2PFjB5OnDqUN=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/JkkTmiJU5sOu7O0OYbalXXgKxxTvCskBtoN8j2qbWMPokmGuo9Uq7jrYrSDm2PFjB5OnDqUN=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Robin Waldun",
+          "description": "Rediscover the pleasure of reading. "
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUafEZMU5s8geb9oIly6xTrg"
+        }
+      },
+      "statistics": {
+        "viewCount": "18498707",
+        "subscriberCount": "410000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "287"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Robin Waldun",
+          "description": "Rediscover the pleasure of reading. "
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/uMl1ELUrtVoTtwG5jk1EGga3f1sggmXP9m0AMa6-RkCWPG1m29KiWbyuySAuaSfDLBE8eSrgi00"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "NZPOrkdF26QutCCdOGkDIIGWHNs",
+      "id": "UCSm6LfBZ-jOghQ_UEM6fzOA",
+      "snippet": {
+        "title": "HRDQ-U",
+        "description": "HRDQ-U is a learning community for organizational trainers and facilitators, coaches and independent consultants, organization development professionals, managers responsible for training their teams; really anyone who shares our passion for soft-skills training and performance improvement.\n\nWe bring exciting content to you through live webinars and on-demand webinars from subject matter experts and thought leaders to help you explore new ideas, gain industry insight, and improve people skills in your workplace. Many webinars provide insights into practical tools and resources for you to use in your own organization.\n\nWe also offer virtual seminars for training your employees including a full curriculum of soft-skills training courses offered live and for replay on demand.\n\nDon't forget to subscribe to our channel and if you watch a video that you find helpful, please give us a like.\n",
+        "customUrl": "@hrdqu",
+        "publishedAt": "2014-05-30T18:40:11Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lrCAO9GaXb71Lq1q3F67XqJX5oqimXuTa4xJbrtwr6-Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lrCAO9GaXb71Lq1q3F67XqJX5oqimXuTa4xJbrtwr6-Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lrCAO9GaXb71Lq1q3F67XqJX5oqimXuTa4xJbrtwr6-Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "HRDQ-U",
+          "description": "HRDQ-U is a learning community for organizational trainers and facilitators, coaches and independent consultants, organization development professionals, managers responsible for training their teams; really anyone who shares our passion for soft-skills training and performance improvement.\n\nWe bring exciting content to you through live webinars and on-demand webinars from subject matter experts and thought leaders to help you explore new ideas, gain industry insight, and improve people skills in your workplace. Many webinars provide insights into practical tools and resources for you to use in your own organization.\n\nWe also offer virtual seminars for training your employees including a full curriculum of soft-skills training courses offered live and for replay on demand.\n\nDon't forget to subscribe to our channel and if you watch a video that you find helpful, please give us a like.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUSm6LfBZ-jOghQ_UEM6fzOA"
+        }
+      },
+      "statistics": {
+        "viewCount": "179352",
+        "subscriberCount": "1980",
+        "hiddenSubscriberCount": false,
+        "videoCount": "114"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "HRDQ-U",
+          "description": "HRDQ-U is a learning community for organizational trainers and facilitators, coaches and independent consultants, organization development professionals, managers responsible for training their teams; really anyone who shares our passion for soft-skills training and performance improvement.\n\nWe bring exciting content to you through live webinars and on-demand webinars from subject matter experts and thought leaders to help you explore new ideas, gain industry insight, and improve people skills in your workplace. Many webinars provide insights into practical tools and resources for you to use in your own organization.\n\nWe also offer virtual seminars for training your employees including a full curriculum of soft-skills training courses offered live and for replay on demand.\n\nDon't forget to subscribe to our channel and if you watch a video that you find helpful, please give us a like.\n",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/P_rWMtCtDJNK3qW8F6wIBUENmMqYu3lGn8UWjTRhYsUkNrxXBMrP7ohYquxveS-tgBt5i1kJ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "UHUfiFFTLfHhHwV6ZocMj_YtodA",
+      "id": "UCpyvWfo9diMIMi_wX5LUbSQ",
+      "snippet": {
+        "title": "The Foundation for Critical Thinking",
+        "description": "\nThe Foundation for Critical Thinking, a 501(c)(3) non-profit, is the world's oldest think tank dedicated to critical thinking. We and our sister organization, The Center for Critical Thinking, aim to foster robust, comprehensive, ethical critical thinking throughout human life and human societies. The Paul-Elder Framework for Critical Thinking is used by educators around the world, in businesses, and in intelligence analysis in the US military.\n\r\nFor hundreds of hours of additional footage, the world's largest written library of critical thinking resources, nearly 100 interactive exercises, guided study groups, and more, join us at The Center for Critical Thinking Community Online:\nwww.criticalthinkingcommunity.org\n\nTo learn more about the Foundation and its direct learning opportunities, including professional development for organizations, visit:\nwww.criticalthinking.org\n",
+        "customUrl": "@criticalthinkingorg",
+        "publishedAt": "2008-04-15T17:50:41Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/jQGjHehDnlUJrfv8v-NAfMzTqF6MTvrzuTa6fAoS5LvoMoh8Vu2IAZ0Pi9eCgKa7vUAMBkBvdg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/jQGjHehDnlUJrfv8v-NAfMzTqF6MTvrzuTa6fAoS5LvoMoh8Vu2IAZ0Pi9eCgKa7vUAMBkBvdg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/jQGjHehDnlUJrfv8v-NAfMzTqF6MTvrzuTa6fAoS5LvoMoh8Vu2IAZ0Pi9eCgKa7vUAMBkBvdg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Foundation for Critical Thinking",
+          "description": "\nThe Foundation for Critical Thinking, a 501(c)(3) non-profit, is the world's oldest think tank dedicated to critical thinking. We and our sister organization, The Center for Critical Thinking, aim to foster robust, comprehensive, ethical critical thinking throughout human life and human societies. The Paul-Elder Framework for Critical Thinking is used by educators around the world, in businesses, and in intelligence analysis in the US military.\n\r\nFor hundreds of hours of additional footage, the world's largest written library of critical thinking resources, nearly 100 interactive exercises, guided study groups, and more, join us at The Center for Critical Thinking Community Online:\nwww.criticalthinkingcommunity.org\n\nTo learn more about the Foundation and its direct learning opportunities, including professional development for organizations, visit:\nwww.criticalthinking.org\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUpyvWfo9diMIMi_wX5LUbSQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "1670667",
+        "subscriberCount": "19700",
+        "hiddenSubscriberCount": false,
+        "videoCount": "217"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/098wr",
+          "/m/01k8wb",
+          "/m/06bvp"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society",
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Religion"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "The Foundation for Critical Thinking",
+          "description": "\nThe Foundation for Critical Thinking, a 501(c)(3) non-profit, is the world's oldest think tank dedicated to critical thinking. We and our sister organization, The Center for Critical Thinking, aim to foster robust, comprehensive, ethical critical thinking throughout human life and human societies. The Paul-Elder Framework for Critical Thinking is used by educators around the world, in businesses, and in intelligence analysis in the US military.\n\r\nFor hundreds of hours of additional footage, the world's largest written library of critical thinking resources, nearly 100 interactive exercises, guided study groups, and more, join us at The Center for Critical Thinking Community Online:\nwww.criticalthinkingcommunity.org\n\nTo learn more about the Foundation and its direct learning opportunities, including professional development for organizations, visit:\nwww.criticalthinking.org\n",
+          "keywords": "critical thinking education reform college university K-12 faculty socratic questioning teaching",
+          "unsubscribedTrailer": "xs1-mL2ty8A"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/sd_dTs38gG-qApe0esD5o8PRGDJX-xuoseDW8XzkREdwj2T6-u6VYKh80pHxIN0kL8CTKWyL7-w"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "xx1B8sS_CAgY2d5jrXbhFPVkfSQ",
+      "id": "UC6zbKG1pqq2do-_oa9QFliA",
+      "snippet": {
+        "title": "Critical Thinking - Bug Bounty Podcast",
+        "description": "A \"by Hackers for Hackers\" podcast focused on technical content ranging from bug bounty tips, to write-up explanations, to the latest hacking techniques.",
+        "customUrl": "@criticalthinkingpodcast",
+        "publishedAt": "2022-12-07T18:43:45.646809Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/n2hJKuDUu0LAI2_lImiZgPIrSuhFUCCBGrg6g1MirKJaDr1bnKZ6m3z8-WWR19uC2ZHti5Ab=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/n2hJKuDUu0LAI2_lImiZgPIrSuhFUCCBGrg6g1MirKJaDr1bnKZ6m3z8-WWR19uC2ZHti5Ab=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/n2hJKuDUu0LAI2_lImiZgPIrSuhFUCCBGrg6g1MirKJaDr1bnKZ6m3z8-WWR19uC2ZHti5Ab=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Critical Thinking - Bug Bounty Podcast",
+          "description": "A \"by Hackers for Hackers\" podcast focused on technical content ranging from bug bounty tips, to write-up explanations, to the latest hacking techniques."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU6zbKG1pqq2do-_oa9QFliA"
+        }
+      },
+      "statistics": {
+        "viewCount": "1194921",
+        "subscriberCount": "25100",
+        "hiddenSubscriberCount": false,
+        "videoCount": "451"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/02jjt",
+          "/m/07c1v",
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Technology",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Critical Thinking - Bug Bounty Podcast",
+          "description": "A \"by Hackers for Hackers\" podcast focused on technical content ranging from bug bounty tips, to write-up explanations, to the latest hacking techniques."
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/D4RYZjl0mRb-shkmbofkpTwGFoB4XFAIcAYAUdT8BkK4pKUdqrxG3rihmpqgRVY3ah5aZ59K"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Qqm4uiZ7i62ks9NAyvsg1k4qMyY",
+      "id": "UCd_XOjIb81hCJyWux1pn4Mg",
+      "snippet": {
+        "title": "Psychlopaedia.org",
+        "description": "Psychology to live by, bought to you by the Australian Psychological Society.   Learn how the science of psychology is changing the world for the better at www.psychlopaedia.org",
+        "customUrl": "@psychlopaediaorg",
+        "publishedAt": "2017-01-20T01:35:30Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nj8fL91qgIcT9B-0k_tUsllAVWni-YMM9LjNP1_nYLbQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nj8fL91qgIcT9B-0k_tUsllAVWni-YMM9LjNP1_nYLbQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nj8fL91qgIcT9B-0k_tUsllAVWni-YMM9LjNP1_nYLbQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Psychlopaedia.org",
+          "description": "Psychology to live by, bought to you by the Australian Psychological Society.   Learn how the science of psychology is changing the world for the better at www.psychlopaedia.org"
+        },
+        "country": "AU"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUd_XOjIb81hCJyWux1pn4Mg"
+        }
+      },
+      "statistics": {
+        "viewCount": "5968007",
+        "subscriberCount": "66100",
+        "hiddenSubscriberCount": false,
+        "videoCount": "8"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/01k8wb",
+          "/m/0kt51",
+          "/m/098wr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Health",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Psychlopaedia.org",
+          "description": "Psychology to live by, bought to you by the Australian Psychological Society.   Learn how the science of psychology is changing the world for the better at www.psychlopaedia.org",
+          "country": "AU"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/5HNQBWWgdznsJjd7P3PKWU0I3Wl-EscKdLWAksuxyJ3YpinNTQFl-0crhggAxqpNjrBxZXC_kWY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "fuLY7gE5N4_PfqKSAzwhqgb5-y8",
+      "id": "UCpvhlSLzg2LT89FNUuN-Sig",
+      "snippet": {
+        "title": "Wireless Philosophy",
+        "description": "Learn about Philosophy with professors from Yale, Stanford, Oxford, MIT, and more!  130+ animated videos.  An official Khan Academy Partner.\n\nOur mission is to introduce people to the practice of philosophy by making videos that are freely available in a form that is entertaining, interesting and accessible to people with no background in the subject.",
+        "customUrl": "@wirelessphilosophy",
+        "publishedAt": "2013-04-16T12:51:08Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lx2Vtld02rrLV4cBc5XpTStzNYT1paKiMy3o1k66R7E9c=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lx2Vtld02rrLV4cBc5XpTStzNYT1paKiMy3o1k66R7E9c=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lx2Vtld02rrLV4cBc5XpTStzNYT1paKiMy3o1k66R7E9c=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Wireless Philosophy",
+          "description": "Learn about Philosophy with professors from Yale, Stanford, Oxford, MIT, and more!  130+ animated videos.  An official Khan Academy Partner.\n\nOur mission is to introduce people to the practice of philosophy by making videos that are freely available in a form that is entertaining, interesting and accessible to people with no background in the subject."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUpvhlSLzg2LT89FNUuN-Sig"
+        }
+      },
+      "statistics": {
+        "viewCount": "29046435",
+        "subscriberCount": "364000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "223"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Wireless Philosophy",
+          "description": "Learn about Philosophy with professors from Yale, Stanford, Oxford, MIT, and more!  130+ animated videos.  An official Khan Academy Partner.\n\nOur mission is to introduce people to the practice of philosophy by making videos that are freely available in a form that is entertaining, interesting and accessible to people with no background in the subject.",
+          "keywords": "\"philosophy education\" \"philosophy videos\" \"critical thinking\" \"wireless philosophy\" philosophy wphi",
+          "trackingAnalyticsAccountId": "UA-41088917-2",
+          "unsubscribedTrailer": "PqjdRAERWLc",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/2R8Fmk0jExRe3c6fQHUhhyl2YORFOaaxmVq879eqQZi0QrDW5oE9jFwT5SNaS-H9yA0TxPtrLms"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "2Y-fU0gg8znROs0O-DHeDBcLrbc",
+      "id": "UC6g61Cqdkk3zQGXH6EPVgAQ",
+      "snippet": {
+        "title": "Shae",
+        "description": "I’m a PhD Candidate at Harvard, Founder, Humanist, and Historian helping you be and stay human in the age of AI.\n\n",
+        "customUrl": "@iamshaeo",
+        "publishedAt": "2024-05-07T06:48:35.707671Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/1HxQ18F3wTGGaNyygmgLVV0SlyQtwCnDDK-yzifSsotNpHWBU0uS-iNaHElWftlKx5iCGou9=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/1HxQ18F3wTGGaNyygmgLVV0SlyQtwCnDDK-yzifSsotNpHWBU0uS-iNaHElWftlKx5iCGou9=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/1HxQ18F3wTGGaNyygmgLVV0SlyQtwCnDDK-yzifSsotNpHWBU0uS-iNaHElWftlKx5iCGou9=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Shae",
+          "description": "I’m a PhD Candidate at Harvard, Founder, Humanist, and Historian helping you be and stay human in the age of AI.\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU6g61Cqdkk3zQGXH6EPVgAQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "706968",
+        "subscriberCount": "23800",
+        "hiddenSubscriberCount": false,
+        "videoCount": "714"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/07c1v",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Technology",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Shae",
+          "description": "I’m a PhD Candidate at Harvard, Founder, Humanist, and Historian helping you be and stay human in the age of AI.\n\n",
+          "keywords": "\"critical thinking\" \"humanities and AI\" \"human intelligence\" \"philosophy of technology\" \"intellectual history\" \"digital culture\" \"human centered technology\" \"AI ethics\" \"AI alignment\" \"technology and society\" \"slow thinking\" \"deep reading\" \"attention economy\" \"digital overload\" \"future of education\" \"learning how to think\" \"human values\" \"can AI think\" \"human vs artificial intelligence\" \"meaning in a digital world\" \"thinking skills\" \"anti intellectualism\" \"history of ideas\" ai"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/s0RbFEEfGPBH9wmDdilxup0H2IQ9yn_dYvDEFMNMrW0vvlxDmaTPCitDyp9_VJKrjPcHe7rQBeM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "zoKW37vgOgE0wbUyY-UKFqJxH28",
+      "id": "UCvf3duzvoSMzVLtqLE12jSQ",
+      "snippet": {
+        "title": "Phil McKinney",
+        "description": "Phil McKinney has spent forty years making high-stakes innovation decisions — and watching smart leaders get them wrong.\n\nAs CTO of Hewlett-Packard, he led the innovation strategy that earned HP three consecutive Fast Company Most Innovative Company rankings. He co-founded a company and took it public. Now he runs CableLabs, the R&D engine behind the global broadband industry.\n\nEvery week on The Innovators Studio, Phil shares what those decisions actually looked like — the real stories behind breakthrough innovations, expensive failures, and the leadership calls that separated them. No theory. No consultants. Just pattern recognition built from four decades inside the room where the decisions happened.\n\nIf you're a business leader, entrepreneur, or executive trying to make better innovation and strategy decisions, this is the podcast built for you.\n\nRunning since 2005. Tens of millions of downloads. New episodes every Wednesday.\n\n#Innovation #Leadership #BusinessStrategy \n",
+        "customUrl": "@philmckinney",
+        "publishedAt": "2006-03-26T07:06:30Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/kZZmvD6vXBuKnlDvhALktj2jKtWuiD1lB9K8ZFaIq7AH7qUs7dbIc8qr8xxcXnM8KjOroDQZVw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/kZZmvD6vXBuKnlDvhALktj2jKtWuiD1lB9K8ZFaIq7AH7qUs7dbIc8qr8xxcXnM8KjOroDQZVw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/kZZmvD6vXBuKnlDvhALktj2jKtWuiD1lB9K8ZFaIq7AH7qUs7dbIc8qr8xxcXnM8KjOroDQZVw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Phil McKinney",
+          "description": "Phil McKinney has spent forty years making high-stakes innovation decisions — and watching smart leaders get them wrong.\n\nAs CTO of Hewlett-Packard, he led the innovation strategy that earned HP three consecutive Fast Company Most Innovative Company rankings. He co-founded a company and took it public. Now he runs CableLabs, the R&D engine behind the global broadband industry.\n\nEvery week on The Innovators Studio, Phil shares what those decisions actually looked like — the real stories behind breakthrough innovations, expensive failures, and the leadership calls that separated them. No theory. No consultants. Just pattern recognition built from four decades inside the room where the decisions happened.\n\nIf you're a business leader, entrepreneur, or executive trying to make better innovation and strategy decisions, this is the podcast built for you.\n\nRunning since 2005. Tens of millions of downloads. New episodes every Wednesday.\n\n#Innovation #Leadership #BusinessStrategy \n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUvf3duzvoSMzVLtqLE12jSQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "451834",
+        "subscriberCount": "10900",
+        "hiddenSubscriberCount": false,
+        "videoCount": "250"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb",
+          "/m/098wr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Phil McKinney",
+          "description": "Phil McKinney has spent forty years making high-stakes innovation decisions — and watching smart leaders get them wrong.\n\nAs CTO of Hewlett-Packard, he led the innovation strategy that earned HP three consecutive Fast Company Most Innovative Company rankings. He co-founded a company and took it public. Now he runs CableLabs, the R&D engine behind the global broadband industry.\n\nEvery week on The Innovators Studio, Phil shares what those decisions actually looked like — the real stories behind breakthrough innovations, expensive failures, and the leadership calls that separated them. No theory. No consultants. Just pattern recognition built from four decades inside the room where the decisions happened.\n\nIf you're a business leader, entrepreneur, or executive trying to make better innovation and strategy decisions, this is the podcast built for you.\n\nRunning since 2005. Tens of millions of downloads. New episodes every Wednesday.\n\n#Innovation #Leadership #BusinessStrategy \n",
+          "keywords": "innovation creativity ideas invention invent ingenuity mckinney \"phil mckinney\" philmckinney workshop speaker",
+          "trackingAnalyticsAccountId": "UA-43447937-1",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/1k-lgG7gMiwss-TAzVgX1UQfHHNRZzXLD5rLl0RrJ4DWOQP4nUudxNJiNstF1ew8LEWMC-jd"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "8Q7DtJmTFHdUpr4-xtSInpDIE2M",
+      "id": "UCIdMuFFD42OKezEDsxzYqcA",
+      "snippet": {
+        "title": "Macat",
+        "description": "Critical thinking is about to become one of the most in-demand set of skills in the global jobs market.* Are you ready?\n\nLearn to plan more efficiently, tackle risks or problems more effectively, and make quicker, more informed and more creative decisions with Macat’s suite of resources designed to develop this essential set of skills.\n\nOur experts have already compiled the 180 books you feel you should know—but will never have time to read—and explained them in a way that helps you think smarter. Dip in and learn in 3 minutes or 10 minutes a day, or dive in for 3 hours, wherever you are on whatever device you have. And there’s so much more to come: we’re working with the University of Cambridge and UCL to develop tools that will empower anyone to think more critically. \n\nOur philosophy is simple: the world’s greatest ideas can prepare us for the AI revolution and save humanity. Skynet is coming — only the smartest thinkers will survive.\n\n* “Future of Jobs Report\", WEF,  Jan 16",
+        "customUrl": "@macatedu",
+        "publishedAt": "2015-03-23T09:54:47Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_l_MVfqYDHiWQmotIGljAseF9t8YdxmEf7vNRyqDd0tfjc=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_l_MVfqYDHiWQmotIGljAseF9t8YdxmEf7vNRyqDd0tfjc=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_l_MVfqYDHiWQmotIGljAseF9t8YdxmEf7vNRyqDd0tfjc=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Macat",
+          "description": "Critical thinking is about to become one of the most in-demand set of skills in the global jobs market.* Are you ready?\n\nLearn to plan more efficiently, tackle risks or problems more effectively, and make quicker, more informed and more creative decisions with Macat’s suite of resources designed to develop this essential set of skills.\n\nOur experts have already compiled the 180 books you feel you should know—but will never have time to read—and explained them in a way that helps you think smarter. Dip in and learn in 3 minutes or 10 minutes a day, or dive in for 3 hours, wherever you are on whatever device you have. And there’s so much more to come: we’re working with the University of Cambridge and UCL to develop tools that will empower anyone to think more critically. \n\nOur philosophy is simple: the world’s greatest ideas can prepare us for the AI revolution and save humanity. Skynet is coming — only the smartest thinkers will survive.\n\n* “Future of Jobs Report\", WEF,  Jan 16"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUIdMuFFD42OKezEDsxzYqcA"
+        }
+      },
+      "statistics": {
+        "viewCount": "5990744",
+        "subscriberCount": "96000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "32"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Macat",
+          "description": "Critical thinking is about to become one of the most in-demand set of skills in the global jobs market.* Are you ready?\n\nLearn to plan more efficiently, tackle risks or problems more effectively, and make quicker, more informed and more creative decisions with Macat’s suite of resources designed to develop this essential set of skills.\n\nOur experts have already compiled the 180 books you feel you should know—but will never have time to read—and explained them in a way that helps you think smarter. Dip in and learn in 3 minutes or 10 minutes a day, or dive in for 3 hours, wherever you are on whatever device you have. And there’s so much more to come: we’re working with the University of Cambridge and UCL to develop tools that will empower anyone to think more critically. \n\nOur philosophy is simple: the world’s greatest ideas can prepare us for the AI revolution and save humanity. Skynet is coming — only the smartest thinkers will survive.\n\n* “Future of Jobs Report\", WEF,  Jan 16",
+          "keywords": "Education Learning \"Social Sciences\" Humanities Students Professors \"Lifelong Learners\"",
+          "trackingAnalyticsAccountId": "UA-60993993-1"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/LhKNyhZisRpHCCiXJGtGfXO4_wN1SVaBq9mFR6MgAxG9TKqm0BGzXz-1D_d0LfnnPfU7pUUE8Xo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "3rpsqHixiFbLYU4wB5kLgi99ieA",
+      "id": "UCoO1dS6Eml7VwK8eIc64Lwg",
+      "snippet": {
+        "title": "The Kitab Official",
+        "description": "",
+        "customUrl": "@thekitabofficial",
+        "publishedAt": "2024-01-01T12:13:03.358611Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/_r1uR5EyfNg8qUxZJHa1hW1I74D8azYD_mMMRyawBIvZYkMDw9lSCY9nHPiuYSG9BAQ-pBUKqg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/_r1uR5EyfNg8qUxZJHa1hW1I74D8azYD_mMMRyawBIvZYkMDw9lSCY9nHPiuYSG9BAQ-pBUKqg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/_r1uR5EyfNg8qUxZJHa1hW1I74D8azYD_mMMRyawBIvZYkMDw9lSCY9nHPiuYSG9BAQ-pBUKqg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Kitab Official",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUoO1dS6Eml7VwK8eIc64Lwg"
+        }
+      },
+      "statistics": {
+        "viewCount": "20621577",
+        "subscriberCount": "73900",
+        "hiddenSubscriberCount": false,
+        "videoCount": "703"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/02jjt",
+          "/m/019_rr",
+          "/m/02vxn"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "The Kitab Official"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "2osSPWONYUXpaqTeNdQOnTVX7qA",
+      "id": "UCv1V80afSeqIRQHH0v5mOMw",
+      "snippet": {
+        "title": "Focused Felix",
+        "description": "Welcome to Focused Felix — the home of intentional living, deep focus, and systems that help you do less, but better.\n\nIf you're tired of distractions, burnout, and aimless grinding, this channel is your blueprint to a more productive, meaningful life.\n\nEvery week, you'll find videos on:\n\nDeep work & time-blocking strategies\n\nProductivity apps & digital planning tools\n\nHabits that actually stick\n\nBuilding systems for a calm, focused lifestyle\n\nSelf-improvement from a practical, no-hype lens\n\nWhether you're a student, creator, entrepreneur, or 9-to-5 grinder — Focused Felix will help you take control of your time and energy.\n\n🎯 Stay focused. Think clearly. Live intentionally.\n📅 New videos every week.\n",
+        "customUrl": "@focused_felix",
+        "publishedAt": "2022-07-12T23:13:16.265369Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/VWPiKvTaksAi56bc63L-npGSqp_MSqrMlTd4l_ubKNCDRURsiVJKjHPWqIl_UtxZviRusw-d6gs=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/VWPiKvTaksAi56bc63L-npGSqp_MSqrMlTd4l_ubKNCDRURsiVJKjHPWqIl_UtxZviRusw-d6gs=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/VWPiKvTaksAi56bc63L-npGSqp_MSqrMlTd4l_ubKNCDRURsiVJKjHPWqIl_UtxZviRusw-d6gs=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Focused Felix",
+          "description": "Welcome to Focused Felix — the home of intentional living, deep focus, and systems that help you do less, but better.\n\nIf you're tired of distractions, burnout, and aimless grinding, this channel is your blueprint to a more productive, meaningful life.\n\nEvery week, you'll find videos on:\n\nDeep work & time-blocking strategies\n\nProductivity apps & digital planning tools\n\nHabits that actually stick\n\nBuilding systems for a calm, focused lifestyle\n\nSelf-improvement from a practical, no-hype lens\n\nWhether you're a student, creator, entrepreneur, or 9-to-5 grinder — Focused Felix will help you take control of your time and energy.\n\n🎯 Stay focused. Think clearly. Live intentionally.\n📅 New videos every week.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUv1V80afSeqIRQHH0v5mOMw"
+        }
+      },
+      "statistics": {
+        "viewCount": "30919",
+        "subscriberCount": "145",
+        "hiddenSubscriberCount": false,
+        "videoCount": "21"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb",
+          "/m/02jjt"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Focused Felix",
+          "description": "Welcome to Focused Felix — the home of intentional living, deep focus, and systems that help you do less, but better.\n\nIf you're tired of distractions, burnout, and aimless grinding, this channel is your blueprint to a more productive, meaningful life.\n\nEvery week, you'll find videos on:\n\nDeep work & time-blocking strategies\n\nProductivity apps & digital planning tools\n\nHabits that actually stick\n\nBuilding systems for a calm, focused lifestyle\n\nSelf-improvement from a practical, no-hype lens\n\nWhether you're a student, creator, entrepreneur, or 9-to-5 grinder — Focused Felix will help you take control of your time and energy.\n\n🎯 Stay focused. Think clearly. Live intentionally.\n📅 New videos every week.\n",
+          "keywords": "\"Focused Felix\" productivity \"self improvement\" \"personal growth\" motivation \"daily motivation\" \"time management\" discipline \"morning routine\" consistency \"build better habits\" \"no more procrastination\" clarity \"goal setting\" \"productivity hacks\" \"self discipline\" \"mental clarity\" \"deep work\" \"study motivation\" \"organize your life\" \"atomic habits\" \"success mindset\" DeepWork MorningMotivation BetterHabits DailyFocus MindsetMatters SelfImprovement NoMoreProcrastination DisciplineEqualsFreedom",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/ojpg9L7gxKnrXljfx_DcFj4y_gUZxb7m_nfUHiO-gskr2tl-oy2zcX2mwOahVNHXNu4BDsLn1g"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "JTpg6sdPeGyzURCosGSY1bbX7ko",
+      "id": "UCO5QSoES5yn2Dw7YixDYT5Q",
+      "snippet": {
+        "title": "Aperture",
+        "description": "Your window to the Bigger Picture. This channel is about philosophy, psychology, and society, where we explore the deep questions of existence and where humanity is headed.\n\nHere’s what you’ll find:\n- Big ideas about consciousness, meaning, and what it means to be alive\n- Discussions about life, death, purpose, and what we value\n- Explorations of the impact of artificial intelligence, the singularity, and technological change\n- Theories and stories that help you see how the present links to our future\n\nIf you’ve ever wondered why we exist, what shapes our reality, or where all of this is going, this is for you. Subscribe to Aperture and be part of thinking about humanity’s next chapters.\n\nA show by Underknown.\n",
+        "customUrl": "@aperturethinking",
+        "publishedAt": "2017-07-01T03:31:54Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Ntwtc-3AiEfMkBlYmnS-FBnTpaNmUDpEMfMnPgjyOd_q4VVhVAarDGCgB3lx4kofkQyjyDNeTw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Ntwtc-3AiEfMkBlYmnS-FBnTpaNmUDpEMfMnPgjyOd_q4VVhVAarDGCgB3lx4kofkQyjyDNeTw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Ntwtc-3AiEfMkBlYmnS-FBnTpaNmUDpEMfMnPgjyOd_q4VVhVAarDGCgB3lx4kofkQyjyDNeTw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Aperture",
+          "description": "Your window to the Bigger Picture. This channel is about philosophy, psychology, and society, where we explore the deep questions of existence and where humanity is headed.\n\nHere’s what you’ll find:\n- Big ideas about consciousness, meaning, and what it means to be alive\n- Discussions about life, death, purpose, and what we value\n- Explorations of the impact of artificial intelligence, the singularity, and technological change\n- Theories and stories that help you see how the present links to our future\n\nIf you’ve ever wondered why we exist, what shapes our reality, or where all of this is going, this is for you. Subscribe to Aperture and be part of thinking about humanity’s next chapters.\n\nA show by Underknown.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUO5QSoES5yn2Dw7YixDYT5Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "225088567",
+        "subscriberCount": "2520000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "558"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Aperture",
+          "description": "Your window to the Bigger Picture. This channel is about philosophy, psychology, and society, where we explore the deep questions of existence and where humanity is headed.\n\nHere’s what you’ll find:\n- Big ideas about consciousness, meaning, and what it means to be alive\n- Discussions about life, death, purpose, and what we value\n- Explorations of the impact of artificial intelligence, the singularity, and technological change\n- Theories and stories that help you see how the present links to our future\n\nIf you’ve ever wondered why we exist, what shapes our reality, or where all of this is going, this is for you. Subscribe to Aperture and be part of thinking about humanity’s next chapters.\n\nA show by Underknown.\n",
+          "keywords": "aperture \"aperture science\" facts space \"space videos\" philosophy psychology technology society \"big ideas\" stoicism \"media critic\" self-compassion motivation \"video essay\" \"Self Improvement\" Media Escape \"Alexander Books\"",
+          "unsubscribedTrailer": "_aL_hY8DjMU",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/h_RvXrqn8M7Yrd-gkJ174j-IozwrEKDee9RM3nNqu4TUUiVw7FZGSYJNDh8gwH7W4QshYerUKOk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ZiCoc97iRHx8Meir1F0vfIVoIDE",
+      "id": "UCAuUUnT6oDeKwE6v1NGQxug",
+      "snippet": {
+        "title": "TED",
+        "description": "The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "customUrl": "@ted",
+        "publishedAt": "2006-12-06T23:27:08Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "TED",
+          "description": "The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUAuUUnT6oDeKwE6v1NGQxug"
+        }
+      },
+      "statistics": {
+        "viewCount": "3125244008",
+        "subscriberCount": "27300000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "5561"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/098wr",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "TED",
+          "description": "The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+          "keywords": "TED talks ideas worth spreading technology entertainment design \"TED Conferences\" \"TED Talks\" \"TED talks\" \"ted talks\" ted \"TED Talk\" \"TED talk\" \"ted talk\" science \"climate change\" health business education arts politics \"social issues\" \"social change\" psychology \"personal growth\" \"mental health\" relationships work collaboration innovation future \"the future\" activism humanity society community \"artificial intelligence\" astronomy knowledge truth storytelling \"spoken word\" music performance poetry",
+          "trackingAnalyticsAccountId": "UA-170299-25",
+          "unsubscribedTrailer": "YJc-3AGX1JA",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/Rz_7ARuknq_Pi3EkPvIB_2IuBoYUgrfsXaqPz_Oi0D9D55JZFB89NMnpB_UVgE72oEi8EL5V"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "UgDYUF4_Hnsn8f0aJx_ToIYtNqM",
+      "id": "UCsooa4yRKGN_zEE8iknghZA",
+      "snippet": {
+        "title": "TED-Ed",
+        "description": "TED-Ed’s mission is to create lessons worth sharing. Feed and expand your curiosity with our award-winning animated shorts - published on YouTube and available with supplemental learning materials on ed.ted.com.\n\nWant to suggest an idea for a TED-Ed animation, nominate an educator or animator? Visit our website at: http://ed.ted.com/get_involved.\n\nConsider backing us on Patreon. By doing so, you directly support our nonprofit mission to create free, high-quality educational content: https://www.patreon.com/teded\n\nFor more information on using TED-Ed content for commercial purposes (e.g. employee learning, in a film, or in an online course), please submit a Media Request using this link: https://media-requests.ted.com/ \n",
+        "customUrl": "@teded",
+        "publishedAt": "2011-03-01T20:33:10Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/PKUi-Lc3VFjUfsIhjK3n-FJDNBf-XQLdg4G4bv4fPFF96D3MVnkbub9ePpLoWdmdFgl5I1Zd=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/PKUi-Lc3VFjUfsIhjK3n-FJDNBf-XQLdg4G4bv4fPFF96D3MVnkbub9ePpLoWdmdFgl5I1Zd=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/PKUi-Lc3VFjUfsIhjK3n-FJDNBf-XQLdg4G4bv4fPFF96D3MVnkbub9ePpLoWdmdFgl5I1Zd=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "TED-Ed",
+          "description": "TED-Ed’s mission is to create lessons worth sharing. Feed and expand your curiosity with our award-winning animated shorts - published on YouTube and available with supplemental learning materials on ed.ted.com.\n\nWant to suggest an idea for a TED-Ed animation, nominate an educator or animator? Visit our website at: http://ed.ted.com/get_involved.\n\nConsider backing us on Patreon. By doing so, you directly support our nonprofit mission to create free, high-quality educational content: https://www.patreon.com/teded\n\nFor more information on using TED-Ed content for commercial purposes (e.g. employee learning, in a film, or in an online course), please submit a Media Request using this link: https://media-requests.ted.com/ \n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUsooa4yRKGN_zEE8iknghZA"
+        }
+      },
+      "statistics": {
+        "viewCount": "4564917292",
+        "subscriberCount": "22500000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2338"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/0kt51",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Health",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "TED-Ed",
+          "description": "TED-Ed’s mission is to create lessons worth sharing. Feed and expand your curiosity with our award-winning animated shorts - published on YouTube and available with supplemental learning materials on ed.ted.com.\n\nWant to suggest an idea for a TED-Ed animation, nominate an educator or animator? Visit our website at: http://ed.ted.com/get_involved.\n\nConsider backing us on Patreon. By doing so, you directly support our nonprofit mission to create free, high-quality educational content: https://www.patreon.com/teded\n\nFor more information on using TED-Ed content for commercial purposes (e.g. employee learning, in a film, or in an online course), please submit a Media Request using this link: https://media-requests.ted.com/ \n",
+          "keywords": "TED TED-Ed TEDEd \"TED Education\" animation \"animated videos\" history math science myths riddles literature poetry psychology education \"mental health\" health space biology physics brain animals music philosophy",
+          "trackingAnalyticsAccountId": "UA-170299-24",
+          "unsubscribedTrailer": "A-oxDZ3AO74",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/4IV1jrayOW2Pg1SicaKe-gF8G2mmoFtlnI46CvlPFeGqklVSggcEijPaFni4lVv-qwqXHj_QUA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "YwK11syEYf9_Re06FUKz8Ceu4rE",
+      "id": "UC1v49A8-55_h-Re9RRWjyWA",
+      "snippet": {
+        "title": "Allan Di Donato",
+        "description": "",
+        "customUrl": "@allandidonato",
+        "publishedAt": "2012-10-28T03:05:47Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kkHeiuDYMwyPgkbK-XMNstaMgF_drFQroxbEHzSeGvOQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kkHeiuDYMwyPgkbK-XMNstaMgF_drFQroxbEHzSeGvOQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kkHeiuDYMwyPgkbK-XMNstaMgF_drFQroxbEHzSeGvOQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Allan Di Donato",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU1v49A8-55_h-Re9RRWjyWA"
+        }
+      },
+      "statistics": {
+        "viewCount": "389251",
+        "subscriberCount": "5820",
+        "hiddenSubscriberCount": false,
+        "videoCount": "157"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb",
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Allan Di Donato",
+          "keywords": "Mythology Humanities Religion Philosophy Pop-Culture",
+          "unsubscribedTrailer": "q8Yl3b9P8FU"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/oZcnpjIiShNjLsBL9-8uWI7gtURN6SgFNPpZTrOSJmyH4DEAWv3tRBRNfau_QbYQFS1Y3j2RxQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "RPCtqxmV1n-NlnlZBuHecq4vJvA",
+      "id": "UCmiIlSHKC2BkWNqE3MMm45w",
+      "snippet": {
+        "title": "Center for Innovation in Legal Education",
+        "description": "A center dedicated to improving legal education through research. Hosted at the S.J. Quinney College of Law at the University of Utah",
+        "customUrl": "@centerforinnovationinlegal3204",
+        "publishedAt": "2012-03-01T03:45:50Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_n1TRGzEfq2VDwl2sxLmojo14F8ijHfKzv5YfmHzu0=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_n1TRGzEfq2VDwl2sxLmojo14F8ijHfKzv5YfmHzu0=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_n1TRGzEfq2VDwl2sxLmojo14F8ijHfKzv5YfmHzu0=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Center for Innovation in Legal Education",
+          "description": "A center dedicated to improving legal education through research. Hosted at the S.J. Quinney College of Law at the University of Utah"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUmiIlSHKC2BkWNqE3MMm45w"
+        }
+      },
+      "statistics": {
+        "viewCount": "6931646",
+        "subscriberCount": "52800",
+        "hiddenSubscriberCount": false,
+        "videoCount": "170"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Center for Innovation in Legal Education",
+          "description": "A center dedicated to improving legal education through research. Hosted at the S.J. Quinney College of Law at the University of Utah",
+          "keywords": "\"learning science\" \"law school\" \"educational technology\" \"cognitive science\" \"legal education\"",
+          "unsubscribedTrailer": "FDhc90jyIdc",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/Boc0ijcX4ksixsg22To_3QI8Ahi2-333b9QGxofjS1r_4BxclFiaNuA5w9txh8hOdfYoehVYKw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "BmtYj5f9t1rwo7cnDMUJS8AvDUc",
+      "id": "UCw201f0cCR52IQQQzzucPig",
+      "snippet": {
+        "title": "Odyssey of History",
+        "description": "Odyssey of History is the premier destination for cinematic history documentaries and deep-dives into the most pivotal moments of human civilization. If you are looking for the best history documentaries, our channel delivers high-fidelity storytelling, rigorous research, and expert analysis of world history.\n\nFrom the rise and fall of ancient empires to the untold secrets of historical figures, we bring the past to life. Our mission is to provide an immersive educational experience, exploring the ancient world, medieval warfare, and the modern era.\n\nWhat We Explore:\n\nAncient Civilizations: Deep dives into Ancient Rome, Egypt, the Maya, and Greece.\n\nHistorical Mysteries: Investigating archaeological discoveries and unsolved enigmas.\n\nMilitary History: Detailed breakdowns of legendary battles and tactical warfare.\n\nBiographies: The true stories of conquerors, monarchs, and revolutionaries.\n\nTimeline of History: Understanding the Industrial Revolution, the World Wars, and the Cold War.\n",
+        "customUrl": "@odysseyofhistory",
+        "publishedAt": "2024-01-29T15:02:15.714414Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/3i6DcJ93vcuWINIzvKLAJklAdZl0ISE_WFYJZCj-BhdkCKMpvBaFvS5So8oXrAWq4l2gD1Yd5Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/3i6DcJ93vcuWINIzvKLAJklAdZl0ISE_WFYJZCj-BhdkCKMpvBaFvS5So8oXrAWq4l2gD1Yd5Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/3i6DcJ93vcuWINIzvKLAJklAdZl0ISE_WFYJZCj-BhdkCKMpvBaFvS5So8oXrAWq4l2gD1Yd5Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Odyssey of History",
+          "description": "Odyssey of History is the premier destination for cinematic history documentaries and deep-dives into the most pivotal moments of human civilization. If you are looking for the best history documentaries, our channel delivers high-fidelity storytelling, rigorous research, and expert analysis of world history.\n\nFrom the rise and fall of ancient empires to the untold secrets of historical figures, we bring the past to life. Our mission is to provide an immersive educational experience, exploring the ancient world, medieval warfare, and the modern era.\n\nWhat We Explore:\n\nAncient Civilizations: Deep dives into Ancient Rome, Egypt, the Maya, and Greece.\n\nHistorical Mysteries: Investigating archaeological discoveries and unsolved enigmas.\n\nMilitary History: Detailed breakdowns of legendary battles and tactical warfare.\n\nBiographies: The true stories of conquerors, monarchs, and revolutionaries.\n\nTimeline of History: Understanding the Industrial Revolution, the World Wars, and the Cold War.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUw201f0cCR52IQQQzzucPig"
+        }
+      },
+      "statistics": {
+        "viewCount": "129970",
+        "subscriberCount": "551",
+        "hiddenSubscriberCount": false,
+        "videoCount": "78"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/098wr",
+          "/m/01k8wb",
+          "/m/02vxn",
+          "/m/02jjt"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society",
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Film",
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Odyssey of History",
+          "description": "Odyssey of History is the premier destination for cinematic history documentaries and deep-dives into the most pivotal moments of human civilization. If you are looking for the best history documentaries, our channel delivers high-fidelity storytelling, rigorous research, and expert analysis of world history.\n\nFrom the rise and fall of ancient empires to the untold secrets of historical figures, we bring the past to life. Our mission is to provide an immersive educational experience, exploring the ancient world, medieval warfare, and the modern era.\n\nWhat We Explore:\n\nAncient Civilizations: Deep dives into Ancient Rome, Egypt, the Maya, and Greece.\n\nHistorical Mysteries: Investigating archaeological discoveries and unsolved enigmas.\n\nMilitary History: Detailed breakdowns of legendary battles and tactical warfare.\n\nBiographies: The true stories of conquerors, monarchs, and revolutionaries.\n\nTimeline of History: Understanding the Industrial Revolution, the World Wars, and the Cold War.\n",
+          "keywords": "\"History Documentary\" \"World History\" \"Ancient History\" \"Ancient Civilizations\" \"Documentaries 2026\" \"Odyssey of History\" \"Medieval History\" \"History Channel\" \"Historical Figures\" \"Deep Dive History\" \"Ancient Greece\" \"Viking History\" \"Industrial Revolution\" \"History Explained\" \"History for Sleep\" Relaxation Storytelling Insomnia \"Unsolved Mysteries\" \"Lost Civilisations\" \"Sleep Story\" Unwind \"Forgotten History\" \"Untold History\" \"Greek Mythology\" \"Roman History\" \"Historical Myths\" \"Dark History\"",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/AhJZaRThtI-OEHuqOWToCu3JGjcwtYT-uy40h3UnL_QDSDV4gQTJrcmaMkaD3uPCjMVYvQUeRQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "cXqlOmyqs2AiwI_XnXpRhxLq4BU",
+      "id": "UChrGS-_x3jikLYCFKldcRcw",
+      "snippet": {
+        "title": "Nick Sadler",
+        "description": "\rWelcome to the official channel of Nick Sadler – where creativity, technology, and business collide. \rI explore the tools and strategies driving the next generation of creators. Whether you're building a record label, launching a film, or scaling your creative business with AI, you're in the right place.\r\n\n🎵 The Label Machine – Tutorials, interviews, and strategies for building successful music brands.\r\n🎬 First Flights – Behind the scenes of film funding, distribution, and the future of independent cinema.\r\n🤖 AI for Creators – Practical workflows, tools, and prompts to scale creative businesses using AI.\rSubscribe for weekly content that helps you grow faster, create smarter, and stay ahead of the curve.\n",
+        "customUrl": "@nicksadlerofficial",
+        "publishedAt": "2018-11-01T20:05:54Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ltZW2zrNb0r9f2yLB4TK5avptUGwn7GSlB9V9lO3qhC9P1BqYYK2csaqiy9nKhtMdJvL_4UUQQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ltZW2zrNb0r9f2yLB4TK5avptUGwn7GSlB9V9lO3qhC9P1BqYYK2csaqiy9nKhtMdJvL_4UUQQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ltZW2zrNb0r9f2yLB4TK5avptUGwn7GSlB9V9lO3qhC9P1BqYYK2csaqiy9nKhtMdJvL_4UUQQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Nick Sadler",
+          "description": "\rWelcome to the official channel of Nick Sadler – where creativity, technology, and business collide. \rI explore the tools and strategies driving the next generation of creators. Whether you're building a record label, launching a film, or scaling your creative business with AI, you're in the right place.\r\n\n🎵 The Label Machine – Tutorials, interviews, and strategies for building successful music brands.\r\n🎬 First Flights – Behind the scenes of film funding, distribution, and the future of independent cinema.\r\n🤖 AI for Creators – Practical workflows, tools, and prompts to scale creative businesses using AI.\rSubscribe for weekly content that helps you grow faster, create smarter, and stay ahead of the curve.\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUhrGS-_x3jikLYCFKldcRcw"
+        }
+      },
+      "statistics": {
+        "viewCount": "1118415",
+        "subscriberCount": "6610",
+        "hiddenSubscriberCount": false,
+        "videoCount": "417"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/07c1v",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Technology",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Nick Sadler",
+          "description": "\rWelcome to the official channel of Nick Sadler – where creativity, technology, and business collide. \rI explore the tools and strategies driving the next generation of creators. Whether you're building a record label, launching a film, or scaling your creative business with AI, you're in the right place.\r\n\n🎵 The Label Machine – Tutorials, interviews, and strategies for building successful music brands.\r\n🎬 First Flights – Behind the scenes of film funding, distribution, and the future of independent cinema.\r\n🤖 AI for Creators – Practical workflows, tools, and prompts to scale creative businesses using AI.\rSubscribe for weekly content that helps you grow faster, create smarter, and stay ahead of the curve.\n",
+          "unsubscribedTrailer": "mWjxllaoSck"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/AhDxO84ryanagNbOtyoJofwt3IPDrxjOGaSd5zHdg_5_714qYpjyxEkcCvf7i5n_pRdhPVIA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "IjflequJVD5kexSkVQXp4-5sjsU",
+      "id": "UC4QBHK32zckCVflVnA900Jw",
+      "snippet": {
+        "title": "Stephen Petro",
+        "description": "I'm on a mission to make critical thinking a movement - are you with me? \n\nYou're probably just a TAD bit hyper-analytical like me, but you also want to achieve self-mastery without selling your soul and sacrificing your ethics... \n\nOn this channel, I distill my years of experience as a peer-reviewed value theorist (with expertise in ethical theory and decision theory and advanced knowledge of behavioral science and neuroscience), as well as 13+ years as an entrepreneur, into weekly videos teaching you how to use critical thinking to perform at the highest levels - ALL while having a massive impact on the larger world. \n\nIf you also believe in this vision - in the power of education and critical thinking to change the world - then I invite you to Think It Through with me! \n",
+        "customUrl": "@stephenpetro411",
+        "publishedAt": "2020-03-25T14:11:05.586073Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/vDjb7pmyiOaXBlXgxO0tFGbqZdk16s1Eny04oiEc8imiMnmOoAHUF-ehXRYSOv24mrJs-68QZg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/vDjb7pmyiOaXBlXgxO0tFGbqZdk16s1Eny04oiEc8imiMnmOoAHUF-ehXRYSOv24mrJs-68QZg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/vDjb7pmyiOaXBlXgxO0tFGbqZdk16s1Eny04oiEc8imiMnmOoAHUF-ehXRYSOv24mrJs-68QZg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Stephen Petro",
+          "description": "I'm on a mission to make critical thinking a movement - are you with me? \n\nYou're probably just a TAD bit hyper-analytical like me, but you also want to achieve self-mastery without selling your soul and sacrificing your ethics... \n\nOn this channel, I distill my years of experience as a peer-reviewed value theorist (with expertise in ethical theory and decision theory and advanced knowledge of behavioral science and neuroscience), as well as 13+ years as an entrepreneur, into weekly videos teaching you how to use critical thinking to perform at the highest levels - ALL while having a massive impact on the larger world. \n\nIf you also believe in this vision - in the power of education and critical thinking to change the world - then I invite you to Think It Through with me! \n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU4QBHK32zckCVflVnA900Jw"
+        }
+      },
+      "statistics": {
+        "viewCount": "7437102",
+        "subscriberCount": "98300",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1023"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Stephen Petro",
+          "description": "I'm on a mission to make critical thinking a movement - are you with me? \n\nYou're probably just a TAD bit hyper-analytical like me, but you also want to achieve self-mastery without selling your soul and sacrificing your ethics... \n\nOn this channel, I distill my years of experience as a peer-reviewed value theorist (with expertise in ethical theory and decision theory and advanced knowledge of behavioral science and neuroscience), as well as 13+ years as an entrepreneur, into weekly videos teaching you how to use critical thinking to perform at the highest levels - ALL while having a massive impact on the larger world. \n\nIf you also believe in this vision - in the power of education and critical thinking to change the world - then I invite you to Think It Through with me! \n",
+          "unsubscribedTrailer": "1OkHMSur52E"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/r82z2aWiIqVZHgcwdXbnTBrHfW0Tk1U8wmlxyYgngQGLn26UmdwywzeYnL2tEwK3ZkC-IiRp-6w"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "FQNy4I-VhFVo8n0xQfES1oWK3go",
+      "id": "UCk3u_P1wYZbbQkzj_OP0_wg",
+      "snippet": {
+        "title": "Indeed",
+        "description": "More people find jobs on Indeed than anywhere else. Indeed is the #1 job site in the world* with 580M job seeker profiles.** Indeed allows job seekers to search millions of jobs, post resumes, research companies and more in over 60 countries and 28 languages. And over 3.5M employers use Indeed to find and hire new employees. For more information, visit https://www.indeed.com. \n\nOn our YouTube channel, we feature career tips, highlight career paths and more. Subscribe for help in your job search. #Indeed #CareerTips \n\nGet better job matches when you complete your Indeed profile: https://go.indeed.com/4ER6C8\nDownload the Indeed mobile app: https://go.indeed.com/8EPR6X\nCreate a free Indeed account: https://go.indeed.com/7NA37Z\nFind your next job: https://go.indeed.com/findjobs \nGet more tips: https://go.indeed.com/RFW437\n\n*ComScore, Total Visits, March 2024\n**Indeed data (worldwide), job seeker accounts that have a unique, verified email address\n",
+        "customUrl": "@indeed",
+        "publishedAt": "2009-03-03T18:48:29Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/xYgeUTuRQ9vJKb3eiL16_5c17YIodfQigDjYIT90-uKE_vephfli7I2cNGNH2Ukn5nSjVHympFE=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/xYgeUTuRQ9vJKb3eiL16_5c17YIodfQigDjYIT90-uKE_vephfli7I2cNGNH2Ukn5nSjVHympFE=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/xYgeUTuRQ9vJKb3eiL16_5c17YIodfQigDjYIT90-uKE_vephfli7I2cNGNH2Ukn5nSjVHympFE=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Indeed",
+          "description": "More people find jobs on Indeed than anywhere else. Indeed is the #1 job site in the world* with 580M job seeker profiles.** Indeed allows job seekers to search millions of jobs, post resumes, research companies and more in over 60 countries and 28 languages. And over 3.5M employers use Indeed to find and hire new employees. For more information, visit https://www.indeed.com. \n\nOn our YouTube channel, we feature career tips, highlight career paths and more. Subscribe for help in your job search. #Indeed #CareerTips \n\nGet better job matches when you complete your Indeed profile: https://go.indeed.com/4ER6C8\nDownload the Indeed mobile app: https://go.indeed.com/8EPR6X\nCreate a free Indeed account: https://go.indeed.com/7NA37Z\nFind your next job: https://go.indeed.com/findjobs \nGet more tips: https://go.indeed.com/RFW437\n\n*ComScore, Total Visits, March 2024\n**Indeed data (worldwide), job seeker accounts that have a unique, verified email address\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUk3u_P1wYZbbQkzj_OP0_wg"
+        }
+      },
+      "statistics": {
+        "viewCount": "326981147",
+        "subscriberCount": "994000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1852"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/g/120y8l81",
+          "/m/098wr",
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Business",
+          "https://en.wikipedia.org/wiki/Society",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Indeed",
+          "description": "More people find jobs on Indeed than anywhere else. Indeed is the #1 job site in the world* with 580M job seeker profiles.** Indeed allows job seekers to search millions of jobs, post resumes, research companies and more in over 60 countries and 28 languages. And over 3.5M employers use Indeed to find and hire new employees. For more information, visit https://www.indeed.com. \n\nOn our YouTube channel, we feature career tips, highlight career paths and more. Subscribe for help in your job search. #Indeed #CareerTips \n\nGet better job matches when you complete your Indeed profile: https://go.indeed.com/4ER6C8\nDownload the Indeed mobile app: https://go.indeed.com/8EPR6X\nCreate a free Indeed account: https://go.indeed.com/7NA37Z\nFind your next job: https://go.indeed.com/findjobs \nGet more tips: https://go.indeed.com/RFW437\n\n*ComScore, Total Visits, March 2024\n**Indeed data (worldwide), job seeker accounts that have a unique, verified email address\n",
+          "keywords": "Indeed jobs job indeed.com \"job search\" \"find jobs\" hiring interview \"career advice\" \"career tips\" \"career coach\" \"job seeker\" \"job tips\" \"job advice\" \"career guide\"",
+          "trackingAnalyticsAccountId": "UA-90780-45",
+          "unsubscribedTrailer": "vC4wlYS2bkY",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/AnZnl543t_8je0Mg4CO2xVRJDNYhmGn-S9ajSElVSp45WZF5tJEKTeqeYsPQuaj2utyjhNSH"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Sgs-nWasWHe5acn540qRMSNghWU",
+      "id": "UCeYUHG6o0YguM-g23htdsSw",
+      "snippet": {
+        "title": "LearnFree",
+        "description": "For more than a decade, the Learnfree.org program has helped millions around the world learn the essential skills they need to live and work in the 21st century. From Microsoft Office and email to reading, math, and more, Learnfree.org offers tutorials in more than 190 topics. \nNotice: LearnFree (formerly GCFGlobal, managed by Goodwill International) is now operated by Setser Group Community, a registered U.S. 501(c)(3) nonprofit organization, [04 February 2026].\n",
+        "customUrl": "@learnfree_skills",
+        "publishedAt": "2007-02-27T15:22:42Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/PBhjyJHCoQ32HrTbgll_p2mArMDrzpR_RMnu3u_P8BQDEw3o_s_sDjaL8-P1sMgVz5Q4JRQq=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/PBhjyJHCoQ32HrTbgll_p2mArMDrzpR_RMnu3u_P8BQDEw3o_s_sDjaL8-P1sMgVz5Q4JRQq=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/PBhjyJHCoQ32HrTbgll_p2mArMDrzpR_RMnu3u_P8BQDEw3o_s_sDjaL8-P1sMgVz5Q4JRQq=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "LearnFree",
+          "description": "For more than a decade, the Learnfree.org program has helped millions around the world learn the essential skills they need to live and work in the 21st century. From Microsoft Office and email to reading, math, and more, Learnfree.org offers tutorials in more than 190 topics. \nNotice: LearnFree (formerly GCFGlobal, managed by Goodwill International) is now operated by Setser Group Community, a registered U.S. 501(c)(3) nonprofit organization, [04 February 2026].\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUeYUHG6o0YguM-g23htdsSw"
+        }
+      },
+      "statistics": {
+        "viewCount": "244797613",
+        "subscriberCount": "1220000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1464"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/01k8wb",
+          "/m/07c1v"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "LearnFree",
+          "description": "For more than a decade, the Learnfree.org program has helped millions around the world learn the essential skills they need to live and work in the 21st century. From Microsoft Office and email to reading, math, and more, Learnfree.org offers tutorials in more than 190 topics. \nNotice: LearnFree (formerly GCFGlobal, managed by Goodwill International) is now operated by Setser Group Community, a registered U.S. 501(c)(3) nonprofit organization, [04 February 2026].\n",
+          "keywords": "\"Free Tutorials\" \"Computer Training\" \"Free Online Classes\" \"Non Profit\" Excel PowerPoint Word Office Goodwill GCF GCFLearnFree GCFLearnFree.org",
+          "unsubscribedTrailer": "gVYxIwsxBP4"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/uhihRW4reE6gJjUABDMtFkW_rFk2DYRze1g-6F7fwaSIAEC802PXyi5mZoKlSeTFoQA52Mw-W7k"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "vRDRsveTCy6uzrGpU2qvT-7uDxA",
+      "id": "UCJdKr0Bgd_5saZYqLCa9mng",
+      "snippet": {
+        "title": "The Rubin Report",
+        "description": "Dave Rubin is a New York Times bestselling author, comedian, and TV personality best known for his political commentary. He is the host of The Rubin Report, a top-ranking talk show recognized as one of the most influential spaces for candid conversations about politics, culture, current events, and more.\n\nThe Rubin Report is powered by you, the viewers!\nThe message that we’re sharing about freedom and an honest exchange of ideas is connecting people all over the world. Now is your chance to be part of that message by contributing to our show which is fan-funded.\n\nSubscribe and click the notification bell to receive alerts for all our videos and visit https://rubinreport.com/support to support The Rubin Report.\n\nFor access to EXCLUSIVE content, join The Rubin Report Locals community at:\nhttp://RubinReport.Locals.com\n\nBuy “Don't Burn This Country” the follow up to Dave Rubin’s New York Times bestselling “Don’t Burn This Book” here: https://daverubin.com/book/",
+        "customUrl": "@rubinreport",
+        "publishedAt": "2012-09-05T20:31:20Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/7qiBPxzMUoehaWAPwBlfbvSnszzrRmumy2cs7w850IAbQbl5Y3zwlN_8HgHroTuSTicgw66h5p0=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/7qiBPxzMUoehaWAPwBlfbvSnszzrRmumy2cs7w850IAbQbl5Y3zwlN_8HgHroTuSTicgw66h5p0=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/7qiBPxzMUoehaWAPwBlfbvSnszzrRmumy2cs7w850IAbQbl5Y3zwlN_8HgHroTuSTicgw66h5p0=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Rubin Report",
+          "description": "Dave Rubin is a New York Times bestselling author, comedian, and TV personality best known for his political commentary. He is the host of The Rubin Report, a top-ranking talk show recognized as one of the most influential spaces for candid conversations about politics, culture, current events, and more.\n\nThe Rubin Report is powered by you, the viewers!\nThe message that we’re sharing about freedom and an honest exchange of ideas is connecting people all over the world. Now is your chance to be part of that message by contributing to our show which is fan-funded.\n\nSubscribe and click the notification bell to receive alerts for all our videos and visit https://rubinreport.com/support to support The Rubin Report.\n\nFor access to EXCLUSIVE content, join The Rubin Report Locals community at:\nhttp://RubinReport.Locals.com\n\nBuy “Don't Burn This Country” the follow up to Dave Rubin’s New York Times bestselling “Don’t Burn This Book” here: https://daverubin.com/book/"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUJdKr0Bgd_5saZYqLCa9mng"
+        }
+      },
+      "statistics": {
+        "viewCount": "2561750138",
+        "subscriberCount": "3190000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "10137"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/098wr",
+          "/m/05qt0"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society",
+          "https://en.wikipedia.org/wiki/Politics"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "The Rubin Report",
+          "description": "Dave Rubin is a New York Times bestselling author, comedian, and TV personality best known for his political commentary. He is the host of The Rubin Report, a top-ranking talk show recognized as one of the most influential spaces for candid conversations about politics, culture, current events, and more.\n\nThe Rubin Report is powered by you, the viewers!\nThe message that we’re sharing about freedom and an honest exchange of ideas is connecting people all over the world. Now is your chance to be part of that message by contributing to our show which is fan-funded.\n\nSubscribe and click the notification bell to receive alerts for all our videos and visit https://rubinreport.com/support to support The Rubin Report.\n\nFor access to EXCLUSIVE content, join The Rubin Report Locals community at:\nhttp://RubinReport.Locals.com\n\nBuy “Don't Burn This Country” the follow up to Dave Rubin’s New York Times bestselling “Don’t Burn This Book” here: https://daverubin.com/book/",
+          "keywords": "“the rubin report” “rubin “dave rubin” “news” “political news” “idw” “heterodox” “current events” “free speech” “freedom of speech science” “intellectual dark web” “critical thinking” “politics” “democracy” “polarization” “rubin” \"political correctness” “david rubin\"",
+          "unsubscribedTrailer": "45fA6Sry7_Y",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/K6YA0Y4TB5BtCDVcMLby39oBg4bSlW_piLFb3uerIPiQxq3m_2zIdk2ZeSA5-xEAI3xgJGBzTA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "DhMcnLsWDNwwFqJPr9tBHjRyZmw",
+      "id": "UCbFTvuJ_ePmUQZZnMkbyR8Q",
+      "snippet": {
+        "title": "Tawny Platis",
+        "description": "voice actor \ntawnyvoice.com\nmanagement@tawnyvoice.com \n",
+        "customUrl": "@thetawnyplatis",
+        "publishedAt": "2017-04-22T13:12:18Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Wglf2JkL8Ll_L4r_qwJK0HIwQLj_Av6TEBCMNQmobfvYL7NnhZCPvjRuv9PXQsjiplE5393-Qg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Wglf2JkL8Ll_L4r_qwJK0HIwQLj_Av6TEBCMNQmobfvYL7NnhZCPvjRuv9PXQsjiplE5393-Qg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Wglf2JkL8Ll_L4r_qwJK0HIwQLj_Av6TEBCMNQmobfvYL7NnhZCPvjRuv9PXQsjiplE5393-Qg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Tawny Platis",
+          "description": "voice actor \ntawnyvoice.com\nmanagement@tawnyvoice.com \n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUbFTvuJ_ePmUQZZnMkbyR8Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "186318476",
+        "subscriberCount": "484000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "834"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/02vxn",
+          "/m/02jjt"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Film",
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Tawny Platis",
+          "description": "voice actor \ntawnyvoice.com\nmanagement@tawnyvoice.com \n",
+          "keywords": "\"San Diego\" california \"voice actor\" \"voice over\" tawny platis widow \"tawny platis\" corporateverse \"if corporate training modules were honest\" cartoons \"cartoon voice\" \"funny corporate\" \"corporate jokes\" \"funny voice\" \"funny voice actor\" \"tawny comedian\" comedy funny comedian \"voice actor comedy\" \"voice actor comedian\" \"tawny comedy\" \"tawny comedian\" \"funny e learning\"",
+          "unsubscribedTrailer": "JfXLcCaiJ6g",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/oTT2G7zBV6zHncCmxjec2Y7WHzDdw0TB4rkq95YegU5ZrX8iljU3e9HhSMcRhNPn2zAY9_UBgkU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "N0B5yoOHKzqMTzWgnX-WEOxvUlg",
+      "id": "UC-jY3cVMchevuydjrJHnj1Q",
+      "snippet": {
+        "title": "Elite Audiobooks",
+        "description": "SUBSCRIBE To Never Miss Out",
+        "customUrl": "@elite_audiobooks",
+        "publishedAt": "2025-02-20T11:36:28.722241Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/lbBux4hrkWtqFJlx6m3ew4OfH6dQbqXDVHU2WPrQ93Upxnk1dCYVoYvx0_ZGhyIWqTsMfxVBoyU=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/lbBux4hrkWtqFJlx6m3ew4OfH6dQbqXDVHU2WPrQ93Upxnk1dCYVoYvx0_ZGhyIWqTsMfxVBoyU=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/lbBux4hrkWtqFJlx6m3ew4OfH6dQbqXDVHU2WPrQ93Upxnk1dCYVoYvx0_ZGhyIWqTsMfxVBoyU=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Elite Audiobooks",
+          "description": "SUBSCRIBE To Never Miss Out"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU-jY3cVMchevuydjrJHnj1Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "4628302",
+        "subscriberCount": "102000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "142"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/04rlf",
+          "/m/06bvp",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Religion",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Elite Audiobooks",
+          "description": "SUBSCRIBE To Never Miss Out",
+          "country": "US"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "DiL6EaJYExxYMsn7ulEUvq1vV3A",
+      "id": "UCmYesELO6axBrCuSpf7S9DQ",
+      "snippet": {
+        "title": "Mr. Beat",
+        "description": "For all sponsorship inquiries, please contact mrbeat@algebramedia.com. For other business contacts and endorsements see iammrbeat.com/about.html.\n\nMr. Beat is an educator, video producer, podcast host, and musician who specializes in making history and geography more engaging. He has written songs about all of the Presidents and has created music videos for all of them. Beat’s specialty is American history, but he also has a big passion for geography and economics. His channel features the series Presidential Elections in American History, Supreme Court Briefs, and Compared. Subscribe for a new video every week. \n\nSnail mail: Mr. Beat, PO Box 1982, Lawrence, KS 66044\n\nHow to support Mr. Beat: \nDonate for great perks on Patreon: https://www.patreon.com/iammrbeat\nDonate on Paypal: https://www.paypal.me/mrbeat\nBuy Mr. Beat a coffee: https://ko-fi.com/iammrbeat\n“Free” ways to show support:\nSubscribe to my channel\nTurn on notifications\nLike, share, and comment on my videos\n",
+        "customUrl": "@iammrbeat",
+        "publishedAt": "2009-08-24T17:25:02Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ezRUnhCiQ_4thLqq3stwkh_4GaZQA0sBfqbYqKCAD1gTvXMYGhycNxDXMpkr6peTATabut0W_bA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ezRUnhCiQ_4thLqq3stwkh_4GaZQA0sBfqbYqKCAD1gTvXMYGhycNxDXMpkr6peTATabut0W_bA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ezRUnhCiQ_4thLqq3stwkh_4GaZQA0sBfqbYqKCAD1gTvXMYGhycNxDXMpkr6peTATabut0W_bA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Mr. Beat",
+          "description": "For all sponsorship inquiries, please contact mrbeat@algebramedia.com. For other business contacts and endorsements see iammrbeat.com/about.html.\n\nMr. Beat is an educator, video producer, podcast host, and musician who specializes in making history and geography more engaging. He has written songs about all of the Presidents and has created music videos for all of them. Beat’s specialty is American history, but he also has a big passion for geography and economics. His channel features the series Presidential Elections in American History, Supreme Court Briefs, and Compared. Subscribe for a new video every week. \n\nSnail mail: Mr. Beat, PO Box 1982, Lawrence, KS 66044\n\nHow to support Mr. Beat: \nDonate for great perks on Patreon: https://www.patreon.com/iammrbeat\nDonate on Paypal: https://www.paypal.me/mrbeat\nBuy Mr. Beat a coffee: https://ko-fi.com/iammrbeat\n“Free” ways to show support:\nSubscribe to my channel\nTurn on notifications\nLike, share, and comment on my videos\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUmYesELO6axBrCuSpf7S9DQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "365974587",
+        "subscriberCount": "1370000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "911"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/098wr",
+          "/m/05qt0"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society",
+          "https://en.wikipedia.org/wiki/Politics"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Mr. Beat",
+          "description": "For all sponsorship inquiries, please contact mrbeat@algebramedia.com. For other business contacts and endorsements see iammrbeat.com/about.html.\n\nMr. Beat is an educator, video producer, podcast host, and musician who specializes in making history and geography more engaging. He has written songs about all of the Presidents and has created music videos for all of them. Beat’s specialty is American history, but he also has a big passion for geography and economics. His channel features the series Presidential Elections in American History, Supreme Court Briefs, and Compared. Subscribe for a new video every week. \n\nSnail mail: Mr. Beat, PO Box 1982, Lawrence, KS 66044\n\nHow to support Mr. Beat: \nDonate for great perks on Patreon: https://www.patreon.com/iammrbeat\nDonate on Paypal: https://www.paypal.me/mrbeat\nBuy Mr. Beat a coffee: https://ko-fi.com/iammrbeat\n“Free” ways to show support:\nSubscribe to my channel\nTurn on notifications\nLike, share, and comment on my videos\n",
+          "keywords": "\"history and politics\" \"explain videos\" \"history for kids\" apush apeuro history \"world history\" \"american history\" learning education \"history songs\" \"history podcast\" \"Geography King\" \"J.J. McCullough\" \"CGP Grey\" \"Vlogging Through History\" \"Mr. Terry History\" politics geography presidents states \"Johnny Harris\" oversimplified \"American presidents\" \"U.S. presidential history\" \"presidential facts\" \"presidential historian\"",
+          "unsubscribedTrailer": "WuL5ryc5_r0",
+          "defaultLanguage": "en",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/YUrgTl5cs8_HpT6CyQOrxBBPEcW0VVGuiTJQXHvKCdX8O8Q1c6k3cUUeLNftLdkupOIs6H27SWo"
+        }
+      },
+      "localizations": {
+        "es_MX": {
+          "title": "Canal de Estudios Sociales del Sr. Beat",
+          "description": "El Sr. Beat es un profesor que hace videos y canciones de la historia. Ha escrito canciones sobre todos los presidentes y ha creado videos musicales para todos ellos. Su última serie narra todas las elecciones presidenciales en la historia de Estados Unidos."
+        },
+        "en_US": {
+          "title": "Mr. Beat",
+          "description": "For all sponsorship inquiries, please contact mrbeat@algebramedia.com. For other business contacts and endorsements see iammrbeat.com/about.html.\n\nMr. Beat is an educator, video producer, podcast host, and musician who specializes in making history and geography more engaging. He has written songs about all of the Presidents and has created music videos for all of them. Beat’s specialty is American history, but he also has a big passion for geography and economics. His channel features the series Presidential Elections in American History, Supreme Court Briefs, and Compared. Subscribe for a new video every week. \n\nSnail mail: Mr. Beat, PO Box 1982, Lawrence, KS 66044\n\nHow to support Mr. Beat: \nDonate for great perks on Patreon: https://www.patreon.com/iammrbeat\nDonate on Paypal: https://www.paypal.me/mrbeat\nBuy Mr. Beat a coffee: https://ko-fi.com/iammrbeat\n“Free” ways to show support:\nSubscribe to my channel\nTurn on notifications\nLike, share, and comment on my videos\n"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "_jKzfnIKxqcTMQorDU7Yjrwv2rI",
+      "id": "UCv44qVWUB-Xz-C3IMWKhatg",
+      "snippet": {
+        "title": "Simply Resilient Me",
+        "description": "Hey, I’m Rachel — a Gen Xer, cancer survivor, and I believe life doesn’t come with a map, but it does come with lessons. On this channel, I share honest, practical, and sometimes sarcastic insights about resilience, midlife advice, life after cancer, mental health, and what it really means to live well.\nIf you’re over 40 (or just tired of pretending you’ve got it all figured out), you’ll find a mix of dry humor, grounded wisdom, and philosophy you can actually use — from Stoicism to Buddhism to everyday common sense. And if you’re younger, think of this as a shortcut to lessons you don’t have to learn the hard way.\nHere we talk about thriving in midlife (not disappearing into it), navigating stress, anger & negativity, finding resilience when plans fall apart, and the wisdom that comes with age and experience.\nThis isn’t about toxic positivity or quick fixes. It’s about truth, perspective, and finding your way forward — with a little laughter along the way.   Grab a coffee and join me\n",
+        "customUrl": "@simplyresilientme",
+        "publishedAt": "2023-05-05T20:11:00.023751Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/sImz-w4eKUD3bCSfGWn0CvGvQrsUqNUF3KcQoskgt763eNeyk-eepFVz9ix3dkuFLnSX1uk4wcM=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/sImz-w4eKUD3bCSfGWn0CvGvQrsUqNUF3KcQoskgt763eNeyk-eepFVz9ix3dkuFLnSX1uk4wcM=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/sImz-w4eKUD3bCSfGWn0CvGvQrsUqNUF3KcQoskgt763eNeyk-eepFVz9ix3dkuFLnSX1uk4wcM=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Simply Resilient Me",
+          "description": "Hey, I’m Rachel — a Gen Xer, cancer survivor, and I believe life doesn’t come with a map, but it does come with lessons. On this channel, I share honest, practical, and sometimes sarcastic insights about resilience, midlife advice, life after cancer, mental health, and what it really means to live well.\nIf you’re over 40 (or just tired of pretending you’ve got it all figured out), you’ll find a mix of dry humor, grounded wisdom, and philosophy you can actually use — from Stoicism to Buddhism to everyday common sense. And if you’re younger, think of this as a shortcut to lessons you don’t have to learn the hard way.\nHere we talk about thriving in midlife (not disappearing into it), navigating stress, anger & negativity, finding resilience when plans fall apart, and the wisdom that comes with age and experience.\nThis isn’t about toxic positivity or quick fixes. It’s about truth, perspective, and finding your way forward — with a little laughter along the way.   Grab a coffee and join me\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUv44qVWUB-Xz-C3IMWKhatg"
+        }
+      },
+      "statistics": {
+        "viewCount": "1253663",
+        "subscriberCount": "31800",
+        "hiddenSubscriberCount": false,
+        "videoCount": "123"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/0kt51"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Health"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Simply Resilient Me",
+          "description": "Hey, I’m Rachel — a Gen Xer, cancer survivor, and I believe life doesn’t come with a map, but it does come with lessons. On this channel, I share honest, practical, and sometimes sarcastic insights about resilience, midlife advice, life after cancer, mental health, and what it really means to live well.\nIf you’re over 40 (or just tired of pretending you’ve got it all figured out), you’ll find a mix of dry humor, grounded wisdom, and philosophy you can actually use — from Stoicism to Buddhism to everyday common sense. And if you’re younger, think of this as a shortcut to lessons you don’t have to learn the hard way.\nHere we talk about thriving in midlife (not disappearing into it), navigating stress, anger & negativity, finding resilience when plans fall apart, and the wisdom that comes with age and experience.\nThis isn’t about toxic positivity or quick fixes. It’s about truth, perspective, and finding your way forward — with a little laughter along the way.   Grab a coffee and join me\n",
+          "keywords": "\"gen x life lessons\" \"overcoming life challenges\" \"breast cancer survivor stories\" \"gratitude practice\" \"embracing aging\" \"thriving after 50\" \"midlife empowerment\" \"wisdom for everyday living\" \"mental health after 50\" \"practical mindfulness\" \"practical buddhism\" \"midlife advice\" \"stoicism for women\" \"stoic philosophy\" \"midlife philosophy\" \"simplify your life\" \"calm and mindful living\" \"protecting your peace\" \"finding calm in chaos\" resilience \"midlife motivation\" \"gut health\" \"midlife lessons\"",
+          "unsubscribedTrailer": "jMI-KQMAWhE",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/oriD62t4xFPjAOY-pSvS4ZRSMC9yuSX1bCFu-nac7EKCa2X-3a9oExFFIqE2uQF102TKnLv5CmQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "bcZbHnvIodnHieRvFDLBkAkdp3E",
+      "id": "UCc_xdkOBgSYLmXTn-VSQ4uA",
+      "snippet": {
+        "title": "QualiaSoup (archive)",
+        "description": "\"To the very last, the desire to debate, to understand more. To the very last, doubt. This permanent doubt, the deep source of science.\" Carlo Rovelli, 'Reality is not what it seems: the journey to quantum gravity'\n\nNot on (and never was on) Twitter, Facebook, or any other social media platform.",
+        "customUrl": "@qualiasoup",
+        "publishedAt": "2008-03-22T12:17:15Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/PhK9Mfdh21JZ4_3GjWhcnbbleq_g6jC8GON4xFMOuiA9Wy9iZINjFcuUSXP_CTM0E1lWrdPDtQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/PhK9Mfdh21JZ4_3GjWhcnbbleq_g6jC8GON4xFMOuiA9Wy9iZINjFcuUSXP_CTM0E1lWrdPDtQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/PhK9Mfdh21JZ4_3GjWhcnbbleq_g6jC8GON4xFMOuiA9Wy9iZINjFcuUSXP_CTM0E1lWrdPDtQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "QualiaSoup (archive)",
+          "description": "\"To the very last, the desire to debate, to understand more. To the very last, doubt. This permanent doubt, the deep source of science.\" Carlo Rovelli, 'Reality is not what it seems: the journey to quantum gravity'\n\nNot on (and never was on) Twitter, Facebook, or any other social media platform."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUc_xdkOBgSYLmXTn-VSQ4uA"
+        }
+      },
+      "statistics": {
+        "viewCount": "4564731",
+        "subscriberCount": "151000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "12"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/06bvp",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Religion",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "QualiaSoup (archive)",
+          "description": "\"To the very last, the desire to debate, to understand more. To the very last, doubt. This permanent doubt, the deep source of science.\" Carlo Rovelli, 'Reality is not what it seems: the journey to quantum gravity'\n\nNot on (and never was on) Twitter, Facebook, or any other social media platform.",
+          "keywords": "Atheism Science Philosophy Evolution Morality Critical thinking",
+          "unsubscribedTrailer": "XdddbYILel0"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/JTWWEQPOi0eAY29PWZeVv2274oiM8dwNc0HV4kWNHsMZQZq-xOacUXkIzjrUCsNpP7UHE4CJ_Fc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ehB_ttMSktBO6VV58gCX_jho2Nc",
+      "id": "UClHVl2N3jPEbkNJVx-ItQIQ",
+      "snippet": {
+        "title": "HealthyGamerGG",
+        "description": "Content, coaching, and community from Dr. K's brain into yours.\nhttps://healthygamer.gg/\n",
+        "customUrl": "@healthygamergg",
+        "publishedAt": "2019-01-17T14:13:32Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/tt1Nf16qbXj6hfK8ZLW0grwu4JgEkX0VBcFvOvhEvazBiVfy1Dnf-7D9_nBIKyCfwzA8FzEpWA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/tt1Nf16qbXj6hfK8ZLW0grwu4JgEkX0VBcFvOvhEvazBiVfy1Dnf-7D9_nBIKyCfwzA8FzEpWA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/tt1Nf16qbXj6hfK8ZLW0grwu4JgEkX0VBcFvOvhEvazBiVfy1Dnf-7D9_nBIKyCfwzA8FzEpWA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "HealthyGamerGG",
+          "description": "Content, coaching, and community from Dr. K's brain into yours.\nhttps://healthygamer.gg/\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUlHVl2N3jPEbkNJVx-ItQIQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "767678048",
+        "subscriberCount": "3250000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2649"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/02jjt",
+          "/m/0kt51",
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Health",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "HealthyGamerGG",
+          "description": "Content, coaching, and community from Dr. K's brain into yours.\nhttps://healthygamer.gg/\n",
+          "keywords": "DrK \"healthy gamer\" \"Mental Health\" Psych Psychiatrist \"tech addiction\" \"life purpose\" failure interviews",
+          "trackingAnalyticsAccountId": "UA-108929445-3",
+          "unsubscribedTrailer": "e0ec2-E5Xq8",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/onTi0OJsUxUT3lL4QgWw-vcp4mMtr6C1ALferAPvGWaNuLhFNWpcp5chayNwnWRejsVyuzcw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "jXtDYu5FemyWzsbuLwJLVYMrav8",
+      "id": "UCPqwspsmjhZnwuee3SiYzAg",
+      "snippet": {
+        "title": "meg",
+        "description": "my name is meg \n\nbusiness inquiries only: normalgirlbusiness@gmail.com",
+        "customUrl": "@normalgirlmakesclothes",
+        "publishedAt": "2016-07-14T21:59:59Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/K_4Ho5cXWJIqM7RvnowZMnofQyx0lwpOBeGsItAM5aR38zdvUCcp05yhn6zA0YO12M5NjfZAaA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/K_4Ho5cXWJIqM7RvnowZMnofQyx0lwpOBeGsItAM5aR38zdvUCcp05yhn6zA0YO12M5NjfZAaA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/K_4Ho5cXWJIqM7RvnowZMnofQyx0lwpOBeGsItAM5aR38zdvUCcp05yhn6zA0YO12M5NjfZAaA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "meg",
+          "description": "my name is meg \n\nbusiness inquiries only: normalgirlbusiness@gmail.com"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUPqwspsmjhZnwuee3SiYzAg"
+        }
+      },
+      "statistics": {
+        "viewCount": "1076691",
+        "subscriberCount": "25200",
+        "hiddenSubscriberCount": false,
+        "videoCount": "60"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/032tl",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Fashion",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Hobby"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "meg",
+          "description": "my name is meg \n\nbusiness inquiries only: normalgirlbusiness@gmail.com"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/9DOADoU01hclbn7NbMxEPmGjO8eQeCvsbVxZF3dqY0AmqWGZzzRZnOBVk4UMC2EIjsjeAWs_ig"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "9IYIBt-855Vt2symgA3tUxK8LTM",
+      "id": "UCa9ugMV3Dq0ev_H1N0spQSQ",
+      "snippet": {
+        "title": "Grow To The Top",
+        "description": "We post original audiobooks about success strategies, personal growth, manifestation, entrepreneurship, mindfulness, meditation, money mindset, self actualization, mental wellness,  and law of attraction. If you suffer from time poverty or you need more productivity tools to get big things done, you are in the right place. Or maybe you are more interested in interpersonal skill, soft skills and lifestyle design? We also talk about that.",
+        "customUrl": "@growtothetop",
+        "publishedAt": "2022-04-24T14:13:02.530297Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/vAyAwQoab3m0tg9Yu_5r1-mkwU5H2GIW9uTub1vH4e7sZ1rq7r6SJHxxqAIeHjA2FG_z8ENi8A=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/vAyAwQoab3m0tg9Yu_5r1-mkwU5H2GIW9uTub1vH4e7sZ1rq7r6SJHxxqAIeHjA2FG_z8ENi8A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/vAyAwQoab3m0tg9Yu_5r1-mkwU5H2GIW9uTub1vH4e7sZ1rq7r6SJHxxqAIeHjA2FG_z8ENi8A=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Grow To The Top",
+          "description": "We post original audiobooks about success strategies, personal growth, manifestation, entrepreneurship, mindfulness, meditation, money mindset, self actualization, mental wellness,  and law of attraction. If you suffer from time poverty or you need more productivity tools to get big things done, you are in the right place. Or maybe you are more interested in interpersonal skill, soft skills and lifestyle design? We also talk about that."
+        },
+        "country": "IT"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUa9ugMV3Dq0ev_H1N0spQSQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "5146638",
+        "subscriberCount": "146000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "454"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/04rlf",
+          "/m/0kt51",
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Health",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Grow To The Top",
+          "description": "We post original audiobooks about success strategies, personal growth, manifestation, entrepreneurship, mindfulness, meditation, money mindset, self actualization, mental wellness,  and law of attraction. If you suffer from time poverty or you need more productivity tools to get big things done, you are in the right place. Or maybe you are more interested in interpersonal skill, soft skills and lifestyle design? We also talk about that.",
+          "keywords": "\"time poverty\" \"self actualization\" psichology \"interpersonal skills\" \"productivity tools\" \"mental wellness\" \"success strategies\" \"practical wisdom\" \"soft skills\" \"mental health\" \"personal growth\" \"lifestyle design\" \"how to master your emotions\" \"mental health awareness\" \"self discipline the neuroscience\" \"hustle culture\" \"spiritual growth\" \"weekly wisdom\" \"get big things done\" \"work hard in silence\" \"how to increase your influence\" spirituality \"be obsessed with success\" \"grow to the top\"",
+          "country": "IT"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/InPo2wlN1TpdRWFEq2k_RMAN9xx37bmfY_yCcK-SmpSIt9JCtnEOO-xiwq5BHt5NKEL7CutY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "isqR9OIpVNXeQKswLd1_VVCC0Qs",
+      "id": "UCB9YSi17SOPOSYf7J-22zVA",
+      "snippet": {
+        "title": "Inspiration Keeper",
+        "description": "",
+        "customUrl": "@inspirationkeeper",
+        "publishedAt": "2023-05-02T03:12:15.946403Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/inVPZJokzPHoz4wdH0Qe9AM-y5O0-QN0fq_FAB08tZH6RUL2kV_2VhoB-jkswRF9IXB5yYNqRw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/inVPZJokzPHoz4wdH0Qe9AM-y5O0-QN0fq_FAB08tZH6RUL2kV_2VhoB-jkswRF9IXB5yYNqRw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/inVPZJokzPHoz4wdH0Qe9AM-y5O0-QN0fq_FAB08tZH6RUL2kV_2VhoB-jkswRF9IXB5yYNqRw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Inspiration Keeper",
+          "description": ""
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUB9YSi17SOPOSYf7J-22zVA"
+        }
+      },
+      "statistics": {
+        "viewCount": "24657",
+        "subscriberCount": "77",
+        "hiddenSubscriberCount": false,
+        "videoCount": "19"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/0kt51",
+          "/m/098wr",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Health",
+          "https://en.wikipedia.org/wiki/Society",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Inspiration Keeper",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/dVc-zZqvjXdzbeJHO40_Tls9QXm4e3tz54i2hsVeR7EuewTJfJNx-ktdsVlsYBo_34zPgM2u"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ZOHc0iCzQh_MmTOita4l-3heVFs",
+      "id": "UCo9QgwWCNEhDxL1gH-jxa8Q",
+      "snippet": {
+        "title": "Bite-sized Philosophy",
+        "description": "These clips are carefully edited from the full lectures. I watched every single Dr. Peterson lecture at least twice. I hope people can benefit from the unhealthy amount of time and effort I have put into this channel. The clips are easy to share and easier to get into than the full length lectures, but they are not a substitute. Every clip has a time stamped link in the description to the according lecture.",
+        "customUrl": "@bitesizedphilosophy",
+        "publishedAt": "2017-03-02T15:09:43Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nQQAIa7-HZ6j0gnLt0YP5DbMeZctwVCkmyhz5vcsnZ-Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nQQAIa7-HZ6j0gnLt0YP5DbMeZctwVCkmyhz5vcsnZ-Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nQQAIa7-HZ6j0gnLt0YP5DbMeZctwVCkmyhz5vcsnZ-Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Bite-sized Philosophy",
+          "description": "These clips are carefully edited from the full lectures. I watched every single Dr. Peterson lecture at least twice. I hope people can benefit from the unhealthy amount of time and effort I have put into this channel. The clips are easy to share and easier to get into than the full length lectures, but they are not a substitute. Every clip has a time stamped link in the description to the according lecture."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUo9QgwWCNEhDxL1gH-jxa8Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "141723268",
+        "subscriberCount": "531000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "317"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb",
+          "/m/098wr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Bite-sized Philosophy",
+          "description": "These clips are carefully edited from the full lectures. I watched every single Dr. Peterson lecture at least twice. I hope people can benefit from the unhealthy amount of time and effort I have put into this channel. The clips are easy to share and easier to get into than the full length lectures, but they are not a substitute. Every clip has a time stamped link in the description to the according lecture.",
+          "keywords": "\"Jordan Peterson\" Psychology Philosophy \"Jordan B. Peterson\"",
+          "unsubscribedTrailer": "JA5iEKvHNxk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "uV9bj9Py617PF6zJ-dvOjvfvbrE",
+      "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+      "snippet": {
+        "title": "TEDx Talks",
+        "description": "TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage. TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.\n\nFor more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com.",
+        "customUrl": "@tedx",
+        "publishedAt": "2009-06-23T16:00:48Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "TEDx Talks",
+          "description": "TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage. TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.\n\nFor more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUsT0YIqwnpJCM-mx7-gSA4Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "8851975953",
+        "subscriberCount": "44200000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "257114"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "TEDx Talks",
+          "description": "TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage. TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.\n\nFor more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com.",
+          "keywords": "TEDx TED \"TEDx Talks\" Talks Entertainment Design Lectures Education",
+          "trackingAnalyticsAccountId": "UA-40781755-9",
+          "unsubscribedTrailer": "DqCnUxA-BIU"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/d1GMFYOxKyGOsrcfDuiWE3eqc8Zo10U9Cvx2QRMnn7TLB4vYjsu7aw1CI1bDJ7f6a5NOdvUO3w"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "5tQfeHkcebycrCtb5OFqFyL7gGo",
+      "id": "UCKoxe9WPWQso-vIdZCzeMug",
+      "snippet": {
+        "title": "Dalia Shkedy",
+        "description": "",
+        "customUrl": "@daliashkedy",
+        "publishedAt": "2014-02-13T04:39:43Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_ncq25yoX6hLebWGNQF0I5eVYJo2uNyaUWjgGHI6jY=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_ncq25yoX6hLebWGNQF0I5eVYJo2uNyaUWjgGHI6jY=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_ncq25yoX6hLebWGNQF0I5eVYJo2uNyaUWjgGHI6jY=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Dalia Shkedy",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUKoxe9WPWQso-vIdZCzeMug"
+        }
+      },
+      "statistics": {
+        "viewCount": "9694136",
+        "subscriberCount": "13300",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1263"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/05qt0",
+          "/m/098wr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Dalia Shkedy"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "kkmZYTmd7zCBazAc5ekA4diY-5U",
+      "id": "UC6ljfWeohdemZbQqs2UmLzA",
+      "snippet": {
+        "title": "Snap Language",
+        "description": "Snap Language specializes in language and linguistics, promoting advanced communication skills for work, school, and everyday situations.\n\nWe support the development of reading, vocabulary, grammar, and writing skills, targeting personal, academic, and professional improvement; and college-readiness. Instructors can use our videos as supporting materials.\n\nBecome a member and get perks https://youtube.com/snaplanguage/join\n",
+        "customUrl": "@snaplanguage",
+        "publishedAt": "2014-05-02T20:40:51Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/GkO2vQSRdEapiHm6apwz3kyH6yzRaOVQ6fel7_-qA5TqBwYsCz3cmqmf7aT-D_Tg-jjsG5yntA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/GkO2vQSRdEapiHm6apwz3kyH6yzRaOVQ6fel7_-qA5TqBwYsCz3cmqmf7aT-D_Tg-jjsG5yntA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/GkO2vQSRdEapiHm6apwz3kyH6yzRaOVQ6fel7_-qA5TqBwYsCz3cmqmf7aT-D_Tg-jjsG5yntA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Snap Language",
+          "description": "Snap Language specializes in language and linguistics, promoting advanced communication skills for work, school, and everyday situations.\n\nWe support the development of reading, vocabulary, grammar, and writing skills, targeting personal, academic, and professional improvement; and college-readiness. Instructors can use our videos as supporting materials.\n\nBecome a member and get perks https://youtube.com/snaplanguage/join\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU6ljfWeohdemZbQqs2UmLzA"
+        }
+      },
+      "statistics": {
+        "viewCount": "5132866",
+        "subscriberCount": "72800",
+        "hiddenSubscriberCount": false,
+        "videoCount": "89"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Snap Language",
+          "description": "Snap Language specializes in language and linguistics, promoting advanced communication skills for work, school, and everyday situations.\n\nWe support the development of reading, vocabulary, grammar, and writing skills, targeting personal, academic, and professional improvement; and college-readiness. Instructors can use our videos as supporting materials.\n\nBecome a member and get perks https://youtube.com/snaplanguage/join\n",
+          "keywords": "language linguistics literacy reading writing comprehension college developmental \"language arts\" vocabulary grammar improvement sociolinguistics \"test preparation\" lesson ESL teaching strategy GED \"aprender ingles\" \"imparare l'inglese\" \"выучить английский язык\" 学英语 تعلم الإنجليزية \"socio linguistics\" \"grammar and style\" \"how to\" \"free lessons\" \"live stream\" \"online lessons\" etymology \"advanced vocabulary\" phonetics phonology morphology syntax semantics \"historical linguistics\" \"language bias\"",
+          "unsubscribedTrailer": "xMy0rPLmvJE",
+          "defaultLanguage": "en",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/n4JHyp1JOai_wGB0XvnK3iyFswedx0vcpgjeSfjwmvZq2QNG6bEMVCkjGVVdm_Jt-A9S2Dco9GQ"
+        }
+      },
+      "localizations": {
+        "es_MX": {
+          "title": "Snap Language",
+          "description": "Snap Language se especializa en ayudarle a perfeccionar sus habilidades lingüísticas y comunicativas para mejorar su vida en la escuela, en el trabajo, y en situaciones cotidianas. También es útil para maestros de inglés como material de apoyo en sus clases.\n\n[CC] Los videos son en inglés con subtítulos en inglés, español y portugués."
+        },
+        "en_US": {
+          "title": "Snap Language",
+          "description": "Snap Language specializes in language and linguistics, promoting advanced communication skills for work, school, and everyday situations.\n\nWe support the development of reading, vocabulary, grammar, and writing skills, targeting personal, academic, and professional improvement; and college-readiness. Instructors can use our videos as supporting materials.\n\nBecome a member and get perks https://youtube.com/snaplanguage/join\n"
+        },
+        "pt_BR": {
+          "title": "Snap Language",
+          "description": "Snap Language se especializa em língua e linguística assim como em apoiá-lo no aperfeiçoamento de suas habilidades linguísticas e comunicativas no âmbito escolar e profissional na escola e na vida cotidiana. Nossos materiais também são úteis para professores de inglês como material de apoio em suas aulas. Nossos vídeos são legendados em inglês. Vários também tem legendas disponíveis em português e espanhol.\n\nVerifique os benefícios que pode receber como membro do canal https://youtube.com/snaplanguage/join"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ccAncPRsLt5z0ndkGbMeIpOCSBE",
+      "id": "UCy8LEbkFDPMOBx_78JhRcBw",
+      "snippet": {
+        "title": "Kira Kosarin",
+        "description": "Actor, creator, word nerd, host of In Case It Helps Podcast ",
+        "customUrl": "@kirakosarin",
+        "publishedAt": "2010-02-06T00:57:37Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/f_u3t5CW_QbJMAllrHnJNF8sDHI9pFU7EIOLRG6UweZoArzKMS_G6NNbgitO_OWosFZxOU2g8t8=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/f_u3t5CW_QbJMAllrHnJNF8sDHI9pFU7EIOLRG6UweZoArzKMS_G6NNbgitO_OWosFZxOU2g8t8=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/f_u3t5CW_QbJMAllrHnJNF8sDHI9pFU7EIOLRG6UweZoArzKMS_G6NNbgitO_OWosFZxOU2g8t8=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Kira Kosarin",
+          "description": "Actor, creator, word nerd, host of In Case It Helps Podcast "
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUy8LEbkFDPMOBx_78JhRcBw"
+        }
+      },
+      "statistics": {
+        "viewCount": "210478302",
+        "subscriberCount": "1330000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "419"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/02jjt",
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Kira Kosarin",
+          "description": "Actor, creator, word nerd, host of In Case It Helps Podcast ",
+          "keywords": "Thundermans Phoebe \"behind the scenes\" vlog nickelodeon \"paramount plus\" podcast self-improvement",
+          "unsubscribedTrailer": "fqVskZTR6Is",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/k_JLG95mtBTZEVHnaOTi1bEgNmFF8VQw7dNnvVOPXrDzQeFpfAA-ah9u06wk5UkAvHQqElRl"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "k8YRirIQrf3Srp2mkw-y1tYt4AQ",
+      "id": "UC-tLyAaPbRZiYrOJxAGB7dQ",
+      "snippet": {
+        "title": "Pursuit of Wonder",
+        "description": "Fostering reflection through powerful ideas and stories.\n\nWonder is the feeling of curiosity and appreciation inspired by something beautiful, inexplicable, or unfamiliar. At Pursuit of Wonder, we create work with the aim of producing that feeling. \n\nThrough video essays, short stories, guided experiences, books, and more, we explore a wide range of topics related to philosophy, psychology, science, literature, well-being, and more. We believe in facing the challenges and complexities of life head-on, and in doing so, we strive to inspire a reconnection with child-like wonder and a comfort with the uncertainty and absurdity of existence.  \n",
+        "customUrl": "@pursuitofwonder",
+        "publishedAt": "2017-02-13T01:44:19Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_n6sKEuv0Htuprgy4xckZIGNU0HfAfCk8ub7v9_7P1Kru4=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_n6sKEuv0Htuprgy4xckZIGNU0HfAfCk8ub7v9_7P1Kru4=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_n6sKEuv0Htuprgy4xckZIGNU0HfAfCk8ub7v9_7P1Kru4=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Pursuit of Wonder",
+          "description": "Fostering reflection through powerful ideas and stories.\n\nWonder is the feeling of curiosity and appreciation inspired by something beautiful, inexplicable, or unfamiliar. At Pursuit of Wonder, we create work with the aim of producing that feeling. \n\nThrough video essays, short stories, guided experiences, books, and more, we explore a wide range of topics related to philosophy, psychology, science, literature, well-being, and more. We believe in facing the challenges and complexities of life head-on, and in doing so, we strive to inspire a reconnection with child-like wonder and a comfort with the uncertainty and absurdity of existence.  \n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU-tLyAaPbRZiYrOJxAGB7dQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "240051021",
+        "subscriberCount": "3410000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "313"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Pursuit of Wonder",
+          "description": "Fostering reflection through powerful ideas and stories.\n\nWonder is the feeling of curiosity and appreciation inspired by something beautiful, inexplicable, or unfamiliar. At Pursuit of Wonder, we create work with the aim of producing that feeling. \n\nThrough video essays, short stories, guided experiences, books, and more, we explore a wide range of topics related to philosophy, psychology, science, literature, well-being, and more. We believe in facing the challenges and complexities of life head-on, and in doing so, we strive to inspire a reconnection with child-like wonder and a comfort with the uncertainty and absurdity of existence.  \n",
+          "keywords": "self-help self-improvement happiness emotion well-being education learning humanity social society knowledge success wealth love relationships friendship health \"better living\" life"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/udgwnyRQw0gzu7d4QB2r-fl2XDMTBulJ79CjSlsuDC4_pGvTtZ-nDjH2qgphqB5eP_KjCeOyn7w"
+        }
+      }
+    }
+  ]
+}

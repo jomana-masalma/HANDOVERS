@@ -1,0 +1,8 @@
+{
+  "stage": 3,
+  "video_nodes": 49,
+  "channel_nodes": 43,
+  "edges_total": 60,
+  "edges_published": 49,
+  "edges_same_channel": 11
+}

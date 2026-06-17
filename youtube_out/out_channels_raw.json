@@ -1,0 +1,372 @@
+{
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "uV9bj9Py617PF6zJ-dvOjvfvbrE",
+      "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+      "snippet": {
+        "title": "TEDx Talks",
+        "description": "TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage. TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.\n\nFor more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com.",
+        "customUrl": "@tedx",
+        "publishedAt": "2009-06-23T16:00:48Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "TEDx Talks",
+          "description": "TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage. TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.\n\nFor more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUsT0YIqwnpJCM-mx7-gSA4Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "8851975953",
+        "subscriberCount": "44200000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "257114"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "TEDx Talks",
+          "description": "TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage. TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.\n\nFor more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com.",
+          "keywords": "TEDx TED \"TEDx Talks\" Talks Entertainment Design Lectures Education",
+          "trackingAnalyticsAccountId": "UA-40781755-9",
+          "unsubscribedTrailer": "DqCnUxA-BIU"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/d1GMFYOxKyGOsrcfDuiWE3eqc8Zo10U9Cvx2QRMnn7TLB4vYjsu7aw1CI1bDJ7f6a5NOdvUO3w"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "143c0anuKGRaOZWdVjTzRwoukLQ",
+      "id": "UCDYT9mM3L_ByrPYMyl0MGGg",
+      "snippet": {
+        "title": "BBC Ideas",
+        "description": "Do you have a curious mind? You’re in the right place.\n\nOur aim at BBC Ideas is to feed your curiosity, to open your mind to new perspectives and to leave you that little bit smarter. Stick around if you want to learn more about science, philosophy, psychology, self-improvement and more. We've also got some incredible animations for you to enjoy, so dive in!\n\nLet us know what you think and make sure to subscribe.\n\nYou can also visit our website to see all of our videos: https://www.bbc.co.uk/ideas\n\nWe work closely with a number of partners including The Open University, the Royal Society, University of Oxford Social Sciences division and UKRI ( UK Research and Innovation). \n",
+        "customUrl": "@bbcideas",
+        "publishedAt": "2018-10-26T10:12:40Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/5WHFmAwJO1KXGUblwV9H7mCgo-6ffw24a_tnDJ6I20k3wc0N1z77ps0CJsc_XrCUTYH_nGi-Jw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/5WHFmAwJO1KXGUblwV9H7mCgo-6ffw24a_tnDJ6I20k3wc0N1z77ps0CJsc_XrCUTYH_nGi-Jw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/5WHFmAwJO1KXGUblwV9H7mCgo-6ffw24a_tnDJ6I20k3wc0N1z77ps0CJsc_XrCUTYH_nGi-Jw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "BBC Ideas",
+          "description": "Do you have a curious mind? You’re in the right place.\n\nOur aim at BBC Ideas is to feed your curiosity, to open your mind to new perspectives and to leave you that little bit smarter. Stick around if you want to learn more about science, philosophy, psychology, self-improvement and more. We've also got some incredible animations for you to enjoy, so dive in!\n\nLet us know what you think and make sure to subscribe.\n\nYou can also visit our website to see all of our videos: https://www.bbc.co.uk/ideas\n\nWe work closely with a number of partners including The Open University, the Royal Society, University of Oxford Social Sciences division and UKRI ( UK Research and Innovation). \n"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUDYT9mM3L_ByrPYMyl0MGGg"
+        }
+      },
+      "statistics": {
+        "viewCount": "42686270",
+        "subscriberCount": "680000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "569"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/01k8wb",
+          "/m/0kt51"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Health"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "BBC Ideas",
+          "description": "Do you have a curious mind? You’re in the right place.\n\nOur aim at BBC Ideas is to feed your curiosity, to open your mind to new perspectives and to leave you that little bit smarter. Stick around if you want to learn more about science, philosophy, psychology, self-improvement and more. We've also got some incredible animations for you to enjoy, so dive in!\n\nLet us know what you think and make sure to subscribe.\n\nYou can also visit our website to see all of our videos: https://www.bbc.co.uk/ideas\n\nWe work closely with a number of partners including The Open University, the Royal Society, University of Oxford Social Sciences division and UKRI ( UK Research and Innovation). \n",
+          "keywords": "education explainer philosophy history \"short films\" \"curious minds\" learning science \"bbc ideas\" bbcideas self-improvement animations psychology",
+          "unsubscribedTrailer": "E4bvQZRC6Bo",
+          "country": "GB"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/7FJ7cONLOYRrNqtQJA6l51Ralh9jXAPhCDdDEJotRVM8KtcsYs2LbnAs2E9ydpgCu6lt6RNgWw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "UgDYUF4_Hnsn8f0aJx_ToIYtNqM",
+      "id": "UCsooa4yRKGN_zEE8iknghZA",
+      "snippet": {
+        "title": "TED-Ed",
+        "description": "TED-Ed’s mission is to create lessons worth sharing. Feed and expand your curiosity with our award-winning animated shorts - published on YouTube and available with supplemental learning materials on ed.ted.com.\n\nWant to suggest an idea for a TED-Ed animation, nominate an educator or animator? Visit our website at: http://ed.ted.com/get_involved.\n\nConsider backing us on Patreon. By doing so, you directly support our nonprofit mission to create free, high-quality educational content: https://www.patreon.com/teded\n\nFor more information on using TED-Ed content for commercial purposes (e.g. employee learning, in a film, or in an online course), please submit a Media Request using this link: https://media-requests.ted.com/ \n",
+        "customUrl": "@teded",
+        "publishedAt": "2011-03-01T20:33:10Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/PKUi-Lc3VFjUfsIhjK3n-FJDNBf-XQLdg4G4bv4fPFF96D3MVnkbub9ePpLoWdmdFgl5I1Zd=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/PKUi-Lc3VFjUfsIhjK3n-FJDNBf-XQLdg4G4bv4fPFF96D3MVnkbub9ePpLoWdmdFgl5I1Zd=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/PKUi-Lc3VFjUfsIhjK3n-FJDNBf-XQLdg4G4bv4fPFF96D3MVnkbub9ePpLoWdmdFgl5I1Zd=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "TED-Ed",
+          "description": "TED-Ed’s mission is to create lessons worth sharing. Feed and expand your curiosity with our award-winning animated shorts - published on YouTube and available with supplemental learning materials on ed.ted.com.\n\nWant to suggest an idea for a TED-Ed animation, nominate an educator or animator? Visit our website at: http://ed.ted.com/get_involved.\n\nConsider backing us on Patreon. By doing so, you directly support our nonprofit mission to create free, high-quality educational content: https://www.patreon.com/teded\n\nFor more information on using TED-Ed content for commercial purposes (e.g. employee learning, in a film, or in an online course), please submit a Media Request using this link: https://media-requests.ted.com/ \n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUsooa4yRKGN_zEE8iknghZA"
+        }
+      },
+      "statistics": {
+        "viewCount": "4564917292",
+        "subscriberCount": "22500000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2338"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/0kt51",
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Health",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "TED-Ed",
+          "description": "TED-Ed’s mission is to create lessons worth sharing. Feed and expand your curiosity with our award-winning animated shorts - published on YouTube and available with supplemental learning materials on ed.ted.com.\n\nWant to suggest an idea for a TED-Ed animation, nominate an educator or animator? Visit our website at: http://ed.ted.com/get_involved.\n\nConsider backing us on Patreon. By doing so, you directly support our nonprofit mission to create free, high-quality educational content: https://www.patreon.com/teded\n\nFor more information on using TED-Ed content for commercial purposes (e.g. employee learning, in a film, or in an online course), please submit a Media Request using this link: https://media-requests.ted.com/ \n",
+          "keywords": "TED TED-Ed TEDEd \"TED Education\" animation \"animated videos\" history math science myths riddles literature poetry psychology education \"mental health\" health space biology physics brain animals music philosophy",
+          "trackingAnalyticsAccountId": "UA-170299-24",
+          "unsubscribedTrailer": "A-oxDZ3AO74",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/4IV1jrayOW2Pg1SicaKe-gF8G2mmoFtlnI46CvlPFeGqklVSggcEijPaFni4lVv-qwqXHj_QUA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "sjDs80m-1lCnQV62gtnsnFGjJ0E",
+      "id": "UCr3cBLTYmIK9kY0F_OdFWFQ",
+      "snippet": {
+        "title": "Casually Explained",
+        "description": "If you're looking for the answers to life's questions and Wikipedia was under scheduled maintenance, look no further, Casually Explained is here to help.\n\n",
+        "customUrl": "@casuallyexplained",
+        "publishedAt": "2015-12-07T22:39:35Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lAO_lHZfWaYLuWbSBxQzUkPLQ-2xRvPdSC8KpvfUWzfX4=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lAO_lHZfWaYLuWbSBxQzUkPLQ-2xRvPdSC8KpvfUWzfX4=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lAO_lHZfWaYLuWbSBxQzUkPLQ-2xRvPdSC8KpvfUWzfX4=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Casually Explained",
+          "description": "If you're looking for the answers to life's questions and Wikipedia was under scheduled maintenance, look no further, Casually Explained is here to help.\n\n"
+        },
+        "country": "CA"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUr3cBLTYmIK9kY0F_OdFWFQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "524400407",
+        "subscriberCount": "4190000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "107"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Casually Explained",
+          "description": "If you're looking for the answers to life's questions and Wikipedia was under scheduled maintenance, look no further, Casually Explained is here to help.\n\n",
+          "keywords": "explanations satire parody funny casually explained",
+          "unsubscribedTrailer": "xa-4IAR_9Yw",
+          "country": "CA"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/ULGwLbnXjMUAiScq0nH0WxrViR1fAiBd8Uf8CNxNrrB7HmGXJhk6og-b9RrZoRWZWFm-ahZeYg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "fuLY7gE5N4_PfqKSAzwhqgb5-y8",
+      "id": "UCpvhlSLzg2LT89FNUuN-Sig",
+      "snippet": {
+        "title": "Wireless Philosophy",
+        "description": "Learn about Philosophy with professors from Yale, Stanford, Oxford, MIT, and more!  130+ animated videos.  An official Khan Academy Partner.\n\nOur mission is to introduce people to the practice of philosophy by making videos that are freely available in a form that is entertaining, interesting and accessible to people with no background in the subject.",
+        "customUrl": "@wirelessphilosophy",
+        "publishedAt": "2013-04-16T12:51:08Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lx2Vtld02rrLV4cBc5XpTStzNYT1paKiMy3o1k66R7E9c=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lx2Vtld02rrLV4cBc5XpTStzNYT1paKiMy3o1k66R7E9c=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lx2Vtld02rrLV4cBc5XpTStzNYT1paKiMy3o1k66R7E9c=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Wireless Philosophy",
+          "description": "Learn about Philosophy with professors from Yale, Stanford, Oxford, MIT, and more!  130+ animated videos.  An official Khan Academy Partner.\n\nOur mission is to introduce people to the practice of philosophy by making videos that are freely available in a form that is entertaining, interesting and accessible to people with no background in the subject."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUpvhlSLzg2LT89FNUuN-Sig"
+        }
+      },
+      "statistics": {
+        "viewCount": "29046435",
+        "subscriberCount": "364000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "223"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Wireless Philosophy",
+          "description": "Learn about Philosophy with professors from Yale, Stanford, Oxford, MIT, and more!  130+ animated videos.  An official Khan Academy Partner.\n\nOur mission is to introduce people to the practice of philosophy by making videos that are freely available in a form that is entertaining, interesting and accessible to people with no background in the subject.",
+          "keywords": "\"philosophy education\" \"philosophy videos\" \"critical thinking\" \"wireless philosophy\" philosophy wphi",
+          "trackingAnalyticsAccountId": "UA-41088917-2",
+          "unsubscribedTrailer": "PqjdRAERWLc",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/2R8Fmk0jExRe3c6fQHUhhyl2YORFOaaxmVq879eqQZi0QrDW5oE9jFwT5SNaS-H9yA0TxPtrLms"
+        }
+      }
+    }
+  ],
+  "resolved_from_handles": [
+    "@TEDEd",
+    "@CasuallyExplained",
+    "@TEDx",
+    "@bbcideas",
+    "@WirelessPhilosophy"
+  ]
+}

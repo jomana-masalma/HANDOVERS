@@ -1,0 +1,1123 @@
+{
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "e8-ztYOjStHjjmBv4OC8NUhtmpA",
+      "id": "dItUGF8GdTw",
+      "snippet": {
+        "publishedAt": "2016-03-15T14:58:40Z",
+        "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+        "title": "5 tips to improve your critical thinking - Samantha Agoos",
+        "description": "View full lesson: http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos\n\nEvery day, a sea of decisions stretches before us, and it’s impossible to make a perfect choice every time. But there are many ways to improve our chances — and one particularly effective technique is critical thinking. Samantha Agoos describes a 5-step process that may help you with any number of problems. \n\nLesson by Samantha Agoos, animation by Nick Hilditch.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dItUGF8GdTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dItUGF8GdTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dItUGF8GdTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dItUGF8GdTw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dItUGF8GdTw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED-Ed",
+        "tags": [
+          "Samantha Agoos",
+          "Nick Hilditch",
+          "critical thinking",
+          "decision making",
+          "how to make decision",
+          "critical analysis",
+          "rational thinking",
+          "TED",
+          "TED-Ed",
+          "TED Ed",
+          "TEDEducation"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "5 tips to improve your critical thinking - Samantha Agoos",
+          "description": "View full lesson: http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos\n\nEvery day, a sea of decisions stretches before us, and it’s impossible to make a perfect choice every time. But there are many ways to improve our chances — and one particularly effective technique is critical thinking. Samantha Agoos describes a 5-step process that may help you with any number of problems. \n\nLesson by Samantha Agoos, animation by Nick Hilditch."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11574457",
+        "likeCount": "257684",
+        "favoriteCount": "0",
+        "commentCount": "3140"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/dItUGF8GdTw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "sk": {
+          "title": "5 tipov na zlepšenie vášho kritického myslenia – Samantha Agoos",
+          "description": "Celá lekcia: http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos\n\nKaždý deň sa pred nami rozprestiera more informácií a je nemožné zakaždým spraviť dokonalú voľbu. Ale je veľa spôsobov, ako zlepšiť naše šance – a jednou obzvlášť efektívnou technikou je kritické myslenie. Samantha Agoos opisuje 5-krokový proces, ktorý vám môže pomôcť s veľkým počtom problémov.\n\nLekcia: Samantha Agoos, animácia: Nick Hilditch."
+        },
+        "fa": {
+          "title": "۵ نکته برای بهبود تفکر نقادانه شما - سامانتا آگوس",
+          "description": "درس کامل را در لینک زیر ببینید:\n http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos\n\nهر روز، دریایی از تصمیم‌ها در برابر ماست، و غیر ممکن است که هر بار بهترین انتخاب را داشته باشیم. اما روش‌های بسیاری وجود دارد تا شانس خود را بالا ببرید ... به ویژه یک روش مؤثر تفکر نقادانه است. سامانتا آگوس فرآیند ۵ مرحله‌ای را توصیف می‌کند که به شما در بسیاری از مسائل کمک می‌کند.\n\nدرس از سامانتا آگوس، انیمیشن از نیک هیلدیچ"
+        },
+        "zh-Hant": {
+          "title": "5 個技巧提高「明辨性思維」的能力 - 薩曼塔·阿古斯",
+          "description": "完整課程： http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos\n\n每天，無數的抉擇攤在我們面前，而且不可能每次都作出最適當的選擇。但有許多方式可提高這可能性──一個非常有效的技巧，就是「明辨性思維」。薩曼塔．阿古斯敘述了五個步驟可協助你解決不少問題。\n\n課程內容：薩曼塔·阿古斯\n動畫製作：尼克希·爾迪奇"
+        },
+        "en": {
+          "title": "5 tips to improve your critical thinking - Samantha Agoos",
+          "description": "View full lesson: http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos\n\nEvery day, a sea of decisions stretches before us, and it’s impossible to make a perfect choice every time. But there are many ways to improve our chances — and one particularly effective technique is critical thinking. Samantha Agoos describes a 5-step process that may help you with any number of problems. \n\nLesson by Samantha Agoos, animation by Nick Hilditch."
+        },
+        "ja": {
+          "title": "批判的思考を向上させる５つのコツ — サマンサ・アグース",
+          "description": "私たちの日常は決断を迫られる場面にあふれており、常に完璧な選択をすることは不可能です。しかし、良い選択をする確率を上げる方法はたくさんあり、中でも特に効果的なのは批判的思考です。サマンサ・アグースが説明する５段階のプロセスで、問題がいくらでも解決できるようになるかもしれませんよ。\n\n講師：サマンサ・アグース、アニメーション：ニック・ヒルディッチ\n＊このビデオの教材 : http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos"
+        },
+        "ru": {
+          "title": "5 приёмов, улучшающих критическое мышление — Саманта Агус",
+          "description": "Полный урок по ссылке: http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos\n\nЕжедневно перед нами простирается море решений, и не каждый раз удаётся сделать идеальный выбор. Но есть способы, помогающие увеличить наши шансы и одна из таких методик, доказавшая свою эффективность, — критическое мышление. Саманта Агус рассказывает о 5-ступенчатом методе, который может помочь вам справиться с любым количеством проблем.\n\nУрок Саманты Агус, анимация Ника Хилдича."
+        },
+        "iw": {
+          "title": "5 טיפים לשיפור החשיבה הביקורתית שלכם - סמנתה אגוס",
+          "description": "צפו בשיעור המלא: http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos\n\nכל יום, ים של החלטות נפרש לפנינו, וזה בלתי אפשרי לעשות החלטות מושלמות כל פעם. אבל יש הרבה דרכים לשפר את הסיכויים שלנו -- ושיטה יעילה במיוחד היא חשיבה ביקורתית. סמנתה אגוס מתארת תהליך של 5 שלבים שאולי יעזור לכם עם כל מספר של בעיות.\n\nשיעור מתא סמנתה אגוס, אנימציה של ניק הילדיץ'."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lxHnzWI6o2j_zpRLxF8UCCfI6CA",
+      "id": "qMrnVkDH2Ak",
+      "snippet": {
+        "publishedAt": "2018-03-01T14:26:38Z",
+        "channelId": "UCr3cBLTYmIK9kY0F_OdFWFQ",
+        "title": "Casually Explained: Critical Thinking",
+        "description": "Watch out for those deceptive sachets of fruity flavours.\n\nSubscribe to Mr. Explained: https://goo.gl/IEE7wl  \nFind me here too:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qMrnVkDH2Ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qMrnVkDH2Ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qMrnVkDH2Ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qMrnVkDH2Ak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qMrnVkDH2Ak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Casually Explained",
+        "tags": [
+          "levels of thinking",
+          "critical thinking",
+          "stand up comedy",
+          "funny",
+          "animation",
+          "casually explained",
+          "stick figure animation",
+          "brain meme",
+          "thinking meme",
+          "envelope laser rectangle",
+          "critical thinking skills",
+          "education",
+          "problem solving",
+          "thinking",
+          "philosophy",
+          "what is critical thinking",
+          "logic",
+          "creative thinking",
+          "critical analysis",
+          "personal development",
+          "how to think critically"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Casually Explained: Critical Thinking",
+          "description": "Watch out for those deceptive sachets of fruity flavours.\n\nSubscribe to Mr. Explained: https://goo.gl/IEE7wl  \nFind me here too:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT3M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4178340",
+        "likeCount": "171996",
+        "favoriteCount": "0",
+        "commentCount": "2502"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/qMrnVkDH2Ak\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ru": {
+          "title": "Небрежно объяснено: критическое мышление",
+          "description": "Остерегайтесь этих обманчивых пакетиков с фруктовыми ароматами.\n\nПодпишитесь на Mr. Explained: https://goo.gl/IEE7wl\nНайдите меня здесь:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "bn": {
+          "title": "আকস্মিকভাবে ব্যাখ্যা করা হয়েছে: সমালোচনামূলক চিন্তাভাবনা",
+          "description": "ফলের স্বাদের এই প্রতারণামূলক প্যাকেটগুলি থেকে সাবধান থাকুন।\n\nমিস্টার এক্সপ্লেন্ড সাবস্ক্রাইব করুন: https://goo.gl/IEE7wl \nআমাকে এখানেও খুঁজুন:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "de-DE": {
+          "title": "Einfach erklärt: Kritisches Denken",
+          "description": "Vorsicht vor irreführenden Fruchtsaftpäckchen!\n\nAbonniere Mr. Explained: https://goo.gl/IEE7wl Du findest mich auch hier:\n\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "fr-FR": {
+          "title": "Explication simple : La pensée critique",
+          "description": "Attention aux sachets trompeurs aux arômes fruités !\n\nAbonnez-vous à Mr. Explained : https://goo.gl/IEE7wl\n\nRetrouvez-moi aussi ici :\n\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n\n►https://www.facebook.com/CasuallyExplained/\n\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "ko": {
+          "title": "가볍게 설명하자면: 비판적 사고",
+          "description": "과일 향이 나는 속이는 사셰를 조심하세요.\n\nMr. Explained 구독하기: https://goo.gl/IEE7wl\n저도 여기서 찾아보세요:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "nl-NL": {
+          "title": "Terloops uitgelegd: kritisch denken",
+          "description": "Pas op voor die misleidende zakjes fruitsmaken.\n\nAbonneer je op Mr. Explained: https://goo.gl/IEE7wl\nVind me ook hier:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "es-US": {
+          "title": "Explicado de forma sencilla: Pensamiento crítico",
+          "description": "¡Ojo con esos sobres engañosos de sabores frutales!\n\nSuscríbete a Mr. Explained: https://goo.gl/IEE7wl También puedes encontrarme aquí:\n\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "ta": {
+          "title": "சாதாரணமாக விளக்கப்பட்டது: விமர்சன சிந்தனை",
+          "description": "பழச் சுவைகளின் ஏமாற்றும் சாக்கெட்டுகளைப் பாருங்கள்.\n\nதிரு. விளக்கத்திற்கு குழுசேரவும்: https://goo.gl/IEE7wl \nஎன்னையும் இங்கே கண்டுபிடியுங்கள்:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "pl": {
+          "title": "W luźnym tłumaczeniu: Myślenie krytyczne",
+          "description": "Uważajcie na te zwodnicze saszetki z owocowymi smakami.\n\nSubskrybuj Mr. Explained: https://goo.gl/IEE7wl\nZnajdź mnie również tutaj:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "pt-BR": {
+          "title": "Explicado de forma simples: Pensamento crítico",
+          "description": "Cuidado com aqueles sachês enganosos de sabores frutados.\n\nInscreva-se no canal Mr. Explained: https://goo.gl/IEE7wl\n\nMe encontre também aqui:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "ja": {
+          "title": "気軽に解説：批判的思考",
+          "description": "フルーツ風味の偽サシェにはご注意ください。\n\nMr. Explained のチャンネル登録はこちら: https://goo.gl/IEE7wl\nこちらでもフォローしてください:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "id": {
+          "title": "Dijelaskan Secara Santai: Berpikir Kritis",
+          "description": "Waspadalah terhadap sachet rasa buah yang menipu itu.\n\nBerlangganan Mr. Explained: https://goo.gl/IEE7wl\nTemukan saya juga di sini:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "tr": {
+          "title": "Raslantıyı açıklayın: Eleştirel Düşünme",
+          "description": "Meyveli tatların aldatıcı paketlerine dikkat edin.\n\nMr. Explained'e abone olun: https://goo.gl/IEE7wl\nBeni buralarda da bulabilirsiniz:\n►https: //castbox.fm/channel/Casually-Explained-id1088721?\n►https: //www.facebook.com/CasuallyExplained/\n►https: //twitter.com/CasuallyE\n►https: //www.instagram.com/casually_explained/\n►https: //www.reddit.com/r/casuallyexplained/"
+        },
+        "it": {
+          "title": "Spiegazione informale: il pensiero critico",
+          "description": "Attenzione a quelle bustine ingannevoli di aromi fruttati.\n\nIscriviti a Mr. Explained: https://goo.gl/IEE7wl\nMi trovi anche qui:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "en-GB": {
+          "title": "Casually Explained: Critical Thinking",
+          "description": "Watch out for those deceptive sachets of fruity flavours.\n\nSubscribe to Mr. Explained: https://goo.gl/IEE7wl  \nFind me here too:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "ar": {
+          "title": "شرح عرضي: التفكير النقدي",
+          "description": "احذر من تلك الأكياس الخادعة بنكهات الفواكه.\n\nاشترك في برنامج \"السيد المُفسّر\": https://goo.gl/IEE7wl\nتجدني هنا أيضًا:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "hi": {
+          "title": "आकस्मिक रूप से समझाया गया: आलोचनात्मक सोच",
+          "description": "फलों के स्वाद वाले इन भ्रामक पैकेटों से सावधान रहें।\n\nMr. Explained को सब्सक्राइब करें: https://goo.gl/IEE7wl\nमुझे यहाँ भी ढूँढें:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "uk": {
+          "title": "Невимушено пояснено: критичне мислення",
+          "description": "Остерігайтеся цих оманливих пакетиків з фруктовими смаками.\n\nПідпишіться на Mr. Explained: https://goo.gl/IEE7wl\nЗнайдіть мене також тут:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "pa": {
+          "title": "ਆਮ ਤੌਰ 'ਤੇ ਸਮਝਾਇਆ ਗਿਆ: ਆਲੋਚਨਾਤਮਕ ਸੋਚ",
+          "description": "ਫਲਾਂ ਦੇ ਸੁਆਦਾਂ ਵਾਲੇ ਧੋਖੇਬਾਜ਼ ਪਾਊਚਾਂ ਤੋਂ ਸਾਵਧਾਨ ਰਹੋ।\n\nਮਿਸਟਰ ਐਕਸਪਲੇਂਡ ਨੂੰ ਸਬਸਕ੍ਰਾਈਬ ਕਰੋ: https://goo.gl/IEE7wl \nਮੈਨੂੰ ਇੱਥੇ ਵੀ ਲੱਭੋ:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "iw": {
+          "title": "הסבר אגבי: חשיבה ביקורתית",
+          "description": "היזהרו משקיקים מטעים של טעמי פירות.\n\nהירשמו ל-Mr. Explained: https://goo.gl/IEE7wl\nמצאו אותי גם כאן:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/\n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        },
+        "ml": {
+          "title": "യാദൃശ്ചികമായി വിശദീകരിച്ചു: വിമർശനാത്മക ചിന്ത",
+          "description": "പഴങ്ങളുടെ രുചിക്കൂട്ടുകളുടെ വഞ്ചനാപരമായ സാച്ചെകൾ സൂക്ഷിക്കുക.\n\nമിസ്റ്റർ എക്സ്പ്ലെയിൻഡ് സബ്സ്ക്രൈബ് ചെയ്യുക: https://goo.gl/IEE7wl \nഎന്നെയും ഇവിടെ കണ്ടെത്തൂ:\n►https://castbox.fm/channel/Casually-Explained-id1088721?\n►https://www.facebook.com/CasuallyExplained/ \n►https://twitter.com/CasuallyE\n►https://www.instagram.com/casually_explained/\n►https://www.reddit.com/r/casuallyexplained/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t2v1K4sIsIcJolfeEhXkPzF9_8g",
+      "id": "vNDYUlxNIAA",
+      "snippet": {
+        "publishedAt": "2021-04-12T15:00:44Z",
+        "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+        "title": "This tool will help improve your critical thinking - Erick Wilberding",
+        "description": "Explore the technique known as the Socratic Method, which uses questions to examine a person’s values, principles, and beliefs. \n\n--\n\nSocrates, one of the founding fathers of Western philosophical thought, was on trial. Many believed he was an enemy of the state, accusing the philosopher of corrupting the youth and refusing to recognize their gods. But Socrates wasn’t feared for claiming to have all the answers, but rather, for asking too many questions. Erick Wilberding digs into the technique known as the Socratic Method.\n\nLesson by Erick Wilberding, directed by Draško Ivezić.\n\nSupport Our Non-Profit Mission\n----------------------------------------------\nSupport us on Patreon: http://bit.ly/TEDEdPatreon\nCheck out our merch: http://bit.ly/TEDEDShop\n----------------------------------------------\n\nConnect With Us\n----------------------------------------------\nSign up for our newsletter: http://bit.ly/TEDEdNewsletter\nFollow us on Facebook: http://bit.ly/TEDEdFacebook\nFind us on Twitter: http://bit.ly/TEDEdTwitter\nPeep us on Instagram: http://bit.ly/TEDEdInstagram\n----------------------------------------------\n\nKeep Learning\n----------------------------------------------\nView full lesson: https://ed.ted.com/lessons/this-tool-will-help-improve-your-critical-thinking-erick-wilberding\nDig deeper with additional resources: https://ed.ted.com/lessons/this-tool-will-help-improve-your-critical-thinking-erick-wilberding#digdeeper\n\nAnimator's website: http://adriaticanimation.hr/\n----------------------------------------------\n\nThank you so much to our patrons for your support! Without you this video would not be possible! Amaury BISIAUX, sarim haq, Jay M, Constantino Victor Delgado, Andrea Galvagni, Andrew Tweddle, Laurel-Ann Rice, Fernando A. Endo, Courtney Marcott, Anna-Alicia Brooks, Mustafa, Helen Lee, pam morgan, Juan Pablo Rodriguez Morales, ANNE FINE, Gerardo Castro, Siddharth Toshniwal, Justice Boehmer, Michel-Ange Hortegat, Enes Kirimi,  Aravind C V, ND, Samyogita Hardikar, Vanessa Graulich, Vandana Gunwani, LvL042, Abdulmohsin Almadi, Andrew Brodski, John van den Berg, Anandha Krishnan, Geoffrey Bultitude, Mi Mi, Thomas Rothert, Christopher McVay, Izhari Ishak Aksa, Declan Manning, Javier Aldavaz, Ivan Yeung, Jaime Camacho, Irene Au, Роман Валесюк, LunarQueen, Iza, Brian Elieson, Paul, Grayson Garbarino, Oge O, Weronika Falkowska, Stefano Esposito and Nevin Spoljaric.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vNDYUlxNIAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vNDYUlxNIAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vNDYUlxNIAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vNDYUlxNIAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vNDYUlxNIAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED-Ed",
+        "tags": [
+          "socratic method",
+          "socratic questioning",
+          "socrates",
+          "philosophical questions",
+          "philosophical debate",
+          "athens",
+          "ancient athens",
+          "philosophy",
+          "morality",
+          "plato",
+          "xenophon",
+          "socratic debate",
+          "socratic dialogue",
+          "justice",
+          "injustice",
+          "unexamined assumptions",
+          "debate",
+          "arguments",
+          "circular logic",
+          "renaissance",
+          "legal education",
+          "hypothetical situations",
+          "education",
+          "history",
+          "animation",
+          "Erick Wilberding",
+          "Draško Ivezić",
+          "TED",
+          "TED-Ed",
+          "TED Ed",
+          "Teded",
+          "Ted Education"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "This tool will help improve your critical thinking - Erick Wilberding",
+          "description": "Explore the technique known as the Socratic Method, which uses questions to examine a person’s values, principles, and beliefs. \n\n--\n\nSocrates, one of the founding fathers of Western philosophical thought, was on trial. Many believed he was an enemy of the state, accusing the philosopher of corrupting the youth and refusing to recognize their gods. But Socrates wasn’t feared for claiming to have all the answers, but rather, for asking too many questions. Erick Wilberding digs into the technique known as the Socratic Method.\n\nLesson by Erick Wilberding, directed by Draško Ivezić.\n\nSupport Our Non-Profit Mission\n----------------------------------------------\nSupport us on Patreon: http://bit.ly/TEDEdPatreon\nCheck out our merch: http://bit.ly/TEDEDShop\n----------------------------------------------\n\nConnect With Us\n----------------------------------------------\nSign up for our newsletter: http://bit.ly/TEDEdNewsletter\nFollow us on Facebook: http://bit.ly/TEDEdFacebook\nFind us on Twitter: http://bit.ly/TEDEdTwitter\nPeep us on Instagram: http://bit.ly/TEDEdInstagram\n----------------------------------------------\n\nKeep Learning\n----------------------------------------------\nView full lesson: https://ed.ted.com/lessons/this-tool-will-help-improve-your-critical-thinking-erick-wilberding\nDig deeper with additional resources: https://ed.ted.com/lessons/this-tool-will-help-improve-your-critical-thinking-erick-wilberding#digdeeper\n\nAnimator's website: http://adriaticanimation.hr/\n----------------------------------------------\n\nThank you so much to our patrons for your support! Without you this video would not be possible! Amaury BISIAUX, sarim haq, Jay M, Constantino Victor Delgado, Andrea Galvagni, Andrew Tweddle, Laurel-Ann Rice, Fernando A. Endo, Courtney Marcott, Anna-Alicia Brooks, Mustafa, Helen Lee, pam morgan, Juan Pablo Rodriguez Morales, ANNE FINE, Gerardo Castro, Siddharth Toshniwal, Justice Boehmer, Michel-Ange Hortegat, Enes Kirimi,  Aravind C V, ND, Samyogita Hardikar, Vanessa Graulich, Vandana Gunwani, LvL042, Abdulmohsin Almadi, Andrew Brodski, John van den Berg, Anandha Krishnan, Geoffrey Bultitude, Mi Mi, Thomas Rothert, Christopher McVay, Izhari Ishak Aksa, Declan Manning, Javier Aldavaz, Ivan Yeung, Jaime Camacho, Irene Au, Роман Валесюк, LunarQueen, Iza, Brian Elieson, Paul, Grayson Garbarino, Oge O, Weronika Falkowska, Stefano Esposito and Nevin Spoljaric."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7760805",
+        "likeCount": "241070",
+        "favoriteCount": "0",
+        "commentCount": "3110"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/vNDYUlxNIAA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Religion"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "This tool will help improve your critical thinking - Erick Wilberding",
+          "description": "Explore the technique known as the Socratic Method, which uses questions to examine a person’s values, principles, and beliefs. \n\n--\n\nSocrates, one of the founding fathers of Western philosophical thought, was on trial. Many believed he was an enemy of the state, accusing the philosopher of corrupting the youth and refusing to recognize their gods. But Socrates wasn’t feared for claiming to have all the answers, but rather, for asking too many questions. Erick Wilberding digs into the technique known as the Socratic Method.\n\nLesson by Erick Wilberding, directed by Draško Ivezić.\n\nSupport Our Non-Profit Mission\n----------------------------------------------\nSupport us on Patreon: http://bit.ly/TEDEdPatreon\nCheck out our merch: http://bit.ly/TEDEDShop\n----------------------------------------------\n\nConnect With Us\n----------------------------------------------\nSign up for our newsletter: http://bit.ly/TEDEdNewsletter\nFollow us on Facebook: http://bit.ly/TEDEdFacebook\nFind us on Twitter: http://bit.ly/TEDEdTwitter\nPeep us on Instagram: http://bit.ly/TEDEdInstagram\n----------------------------------------------\n\nKeep Learning\n----------------------------------------------\nView full lesson: https://ed.ted.com/lessons/this-tool-will-help-improve-your-critical-thinking-erick-wilberding\nDig deeper with additional resources: https://ed.ted.com/lessons/this-tool-will-help-improve-your-critical-thinking-erick-wilberding#digdeeper\n\nAnimator's website: http://adriaticanimation.hr/\n----------------------------------------------\n\nThank you so much to our patrons for your support! Without you this video would not be possible! Amaury BISIAUX, sarim haq, Jay M, Constantino Victor Delgado, Andrea Galvagni, Andrew Tweddle, Laurel-Ann Rice, Fernando A. Endo, Courtney Marcott, Anna-Alicia Brooks, Mustafa, Helen Lee, pam morgan, Juan Pablo Rodriguez Morales, ANNE FINE, Gerardo Castro, Siddharth Toshniwal, Justice Boehmer, Michel-Ange Hortegat, Enes Kirimi,  Aravind C V, ND, Samyogita Hardikar, Vanessa Graulich, Vandana Gunwani, LvL042, Abdulmohsin Almadi, Andrew Brodski, John van den Berg, Anandha Krishnan, Geoffrey Bultitude, Mi Mi, Thomas Rothert, Christopher McVay, Izhari Ishak Aksa, Declan Manning, Javier Aldavaz, Ivan Yeung, Jaime Camacho, Irene Au, Роман Валесюк, LunarQueen, Iza, Brian Elieson, Paul, Grayson Garbarino, Oge O, Weronika Falkowska, Stefano Esposito and Nevin Spoljaric."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OFSFJ2veZDUS8MjBfvhPvHycb5E",
+      "id": "Bry8J78Awq0",
+      "snippet": {
+        "publishedAt": "2025-05-06T17:00:15Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "4 tips for developing critical thinking skills | Steve Pearlman, Ph.D. | TEDxCapeMay",
+        "description": "“Critical thinking” increasingly stands as the most sought-after skill that has long been too fleeting to define. Employers rate it as a pinnacle skill, but one of which they see too little, and educators claim to teach it, but over half of Millennials recently failed a simple Mindedge critical thinking test. So, what is critical thinking? Analysis? Information literacy? Thinking outside the box? Informal logic? Problem-solving? Evaluating data? Decision science? What if all of our efforts to define critical thinking as above have been the core problem with teaching it?\n\nWhat if, instead of using our brains to devise conceptions of critical thinking, we eliminated the noise and revolutionized a way to teach people how to think better by tracing critical thinking back to its core evolutionary survival mechanisms? \n\nWith over 35-years of experience in higher education, Steve founded the first academic office in higher education with a specialized focus on critical thinking.  Author of America’s Critical Thinking Crisis, he has been featured on NPR, Fox News Radio, The Chronicle of Higher Education, The Atlanta Journal Constitution, CBS Atlanta, The Hill, and a plethora of podcasts.  Steve founded The Critical Thinking Institute and is a keynote speaker on critical thinking for businesses, universities, conferences, and the U.S. military.  With over 40-years of experience, Steve is also a sought-after martial arts instructor for his unique theoretical approach to training. Most of all, he’s a devoted father, an endeavor which stretches his own critical thinking most of all. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bry8J78Awq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bry8J78Awq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bry8J78Awq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bry8J78Awq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bry8J78Awq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "tags": [
+          "Big problems",
+          "Education",
+          "English",
+          "Evolution",
+          "Humanities",
+          "Philosophy",
+          "Physiology",
+          "TEDxTalks",
+          "[TEDxEID:56982]"
+        ],
+        "categoryId": "29",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "4 tips for developing critical thinking skills | Steve Pearlman, Ph.D. | TEDxCapeMay",
+          "description": "“Critical thinking” increasingly stands as the most sought-after skill that has long been too fleeting to define. Employers rate it as a pinnacle skill, but one of which they see too little, and educators claim to teach it, but over half of Millennials recently failed a simple Mindedge critical thinking test. So, what is critical thinking? Analysis? Information literacy? Thinking outside the box? Informal logic? Problem-solving? Evaluating data? Decision science? What if all of our efforts to define critical thinking as above have been the core problem with teaching it?\n\nWhat if, instead of using our brains to devise conceptions of critical thinking, we eliminated the noise and revolutionized a way to teach people how to think better by tracing critical thinking back to its core evolutionary survival mechanisms? \n\nWith over 35-years of experience in higher education, Steve founded the first academic office in higher education with a specialized focus on critical thinking.  Author of America’s Critical Thinking Crisis, he has been featured on NPR, Fox News Radio, The Chronicle of Higher Education, The Atlanta Journal Constitution, CBS Atlanta, The Hill, and a plethora of podcasts.  Steve founded The Critical Thinking Institute and is a keynote speaker on critical thinking for businesses, universities, conferences, and the U.S. military.  With over 40-years of experience, Steve is also a sought-after martial arts instructor for his unique theoretical approach to training. Most of all, he’s a devoted father, an endeavor which stretches his own critical thinking most of all. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT17M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "747450",
+        "likeCount": "24832",
+        "favoriteCount": "0",
+        "commentCount": "430"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Bry8J78Awq0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "4 tips for developing critical thinking skills | Steve Pearlman, Ph.D. | TEDxCapeMay",
+          "description": "“Critical thinking” increasingly stands as the most sought-after skill that has long been too fleeting to define. Employers rate it as a pinnacle skill, but one of which they see too little, and educators claim to teach it, but over half of Millennials recently failed a simple Mindedge critical thinking test. So, what is critical thinking? Analysis? Information literacy? Thinking outside the box? Informal logic? Problem-solving? Evaluating data? Decision science? What if all of our efforts to define critical thinking as above have been the core problem with teaching it?\n\nWhat if, instead of using our brains to devise conceptions of critical thinking, we eliminated the noise and revolutionized a way to teach people how to think better by tracing critical thinking back to its core evolutionary survival mechanisms? \n\nWith over 35-years of experience in higher education, Steve founded the first academic office in higher education with a specialized focus on critical thinking.  Author of America’s Critical Thinking Crisis, he has been featured on NPR, Fox News Radio, The Chronicle of Higher Education, The Atlanta Journal Constitution, CBS Atlanta, The Hill, and a plethora of podcasts.  Steve founded The Critical Thinking Institute and is a keynote speaker on critical thinking for businesses, universities, conferences, and the U.S. military.  With over 40-years of experience, Steve is also a sought-after martial arts instructor for his unique theoretical approach to training. Most of all, he’s a devoted father, an endeavor which stretches his own critical thinking most of all. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hMPFGGUPSwGfl_ezIyEfy2qqbrA",
+      "id": "NHjgKe7JMNE",
+      "snippet": {
+        "publishedAt": "2021-01-21T15:15:00Z",
+        "channelId": "UCDYT9mM3L_ByrPYMyl0MGGg",
+        "title": "Five simple strategies to sharpen your critical thinking | BBC Ideas",
+        "description": "Is the sky really blue? That might seem obvious. But sometimes things are more nuanced and complicated than you think. Here are five strategies to boost your critical thinking skills.\n\nAnimated by Ana Stefaniak. Made in partnership with The Open University. \n\nIf you enjoyed this, you might like to watch this video next. Why we see faces in clouds 👉  https://www.youtube.com/watch?v=fcM6rqFzuw4\n\nSubscribe to BBC Ideas 👉  https://bbc.in/2F6ipav\r\n____________________________\r\nDo you have a curious mind? You’re in the right place.\r\n\r\nOur aim on BBC Ideas is to feed your curiosity, to open your mind to new perspectives, and to leave you that little bit smarter.  \r\n\r\nSo dive in. Let us know what you think. And make sure to subscribe!  👉https://bbc.in/2F6ipav\r\n \r\nVisit our website to see all of our videos: https://www.bbc.com/ideas\r\nAnd follow BBC Ideas on Twitter: https://twitter.com/bbcideas\r\n\r\n#bbcideas #criticalthinking #trainyourbrain",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NHjgKe7JMNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NHjgKe7JMNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHjgKe7JMNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NHjgKe7JMNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NHjgKe7JMNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BBC Ideas",
+        "tags": [
+          "bbc ideas",
+          "bbcideas",
+          "short films",
+          "curious minds",
+          "learning",
+          "science",
+          "philosophy",
+          "self-improvement",
+          "explainer",
+          "psychology",
+          "animations",
+          "critical thinking",
+          "train your brain",
+          "how to win an argument",
+          "how to get better at arguments",
+          "debating",
+          "ad hominem",
+          "ad hominem fallacy",
+          "straw man fallacy",
+          "confirmation bias",
+          "Five simple strategies to sharpen your critical thinking",
+          "Is the sky really blue?",
+          "why is the sky blue",
+          "blue sky",
+          "blue wavelength"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Five simple strategies to sharpen your critical thinking | BBC Ideas",
+          "description": "Is the sky really blue? That might seem obvious. But sometimes things are more nuanced and complicated than you think. Here are five strategies to boost your critical thinking skills.\n\nAnimated by Ana Stefaniak. Made in partnership with The Open University. \n\nIf you enjoyed this, you might like to watch this video next. Why we see faces in clouds 👉  https://www.youtube.com/watch?v=fcM6rqFzuw4\n\nSubscribe to BBC Ideas 👉  https://bbc.in/2F6ipav\r\n____________________________\r\nDo you have a curious mind? You’re in the right place.\r\n\r\nOur aim on BBC Ideas is to feed your curiosity, to open your mind to new perspectives, and to leave you that little bit smarter.  \r\n\r\nSo dive in. Let us know what you think. And make sure to subscribe!  👉https://bbc.in/2F6ipav\r\n \r\nVisit our website to see all of our videos: https://www.bbc.com/ideas\r\nAnd follow BBC Ideas on Twitter: https://twitter.com/bbcideas\r\n\r\n#bbcideas #criticalthinking #trainyourbrain"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "940321",
+        "likeCount": "24401",
+        "favoriteCount": "0",
+        "commentCount": "306"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/NHjgKe7JMNE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-GB": {
+          "title": "Five simple strategies to sharpen your critical thinking | BBC Ideas",
+          "description": "Is the sky really blue? That might seem obvious. But sometimes things are more nuanced and complicated than you think. Here are five strategies to boost your critical thinking skills.\n\nAnimated by Ana Stefaniak. Made in partnership with The Open University. \n\nIf you enjoyed this, you might like to watch this video next. Why we see faces in clouds 👉  https://www.youtube.com/watch?v=fcM6rqFzuw4\n\nSubscribe to BBC Ideas 👉  https://bbc.in/2F6ipav\r\n____________________________\r\nDo you have a curious mind? You’re in the right place.\r\n\r\nOur aim on BBC Ideas is to feed your curiosity, to open your mind to new perspectives, and to leave you that little bit smarter.  \r\n\r\nSo dive in. Let us know what you think. And make sure to subscribe!  👉https://bbc.in/2F6ipav\r\n \r\nVisit our website to see all of our videos: https://www.bbc.com/ideas\r\nAnd follow BBC Ideas on Twitter: https://twitter.com/bbcideas\r\n\r\n#bbcideas #criticalthinking #trainyourbrain"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JVc7eB2lbPAOt6-gGUDMIXRmBuQ",
+      "id": "Cum3k-Wglfw",
+      "snippet": {
+        "publishedAt": "2014-08-01T17:09:32Z",
+        "channelId": "UCpvhlSLzg2LT89FNUuN-Sig",
+        "title": "CRITICAL THINKING - Fundamentals: Introduction to Critical Thinking [HD]",
+        "description": "Geoff Pynn (Northern Illinois University) gets you started on the critical thinking journey. He tells you what critical thinking is, what an argument is, and what the difference between a deductive and an ampliative argument is.\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/Fhgq/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cum3k-Wglfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cum3k-Wglfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cum3k-Wglfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cum3k-Wglfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cum3k-Wglfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wireless Philosophy",
+        "tags": [
+          "Critical Thinking (Literature Subject)",
+          "wireless philosophy",
+          "wi-phi",
+          "Philosophy (Field Of Study)",
+          "Logic (Quotation Subject)",
+          "Geoff Pynn",
+          "Northern Illinois University (College/University)",
+          "Ampliative",
+          "Deductive",
+          "Argumentation Theory (Field Of Study)"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "CRITICAL THINKING - Fundamentals: Introduction to Critical Thinking [HD]",
+          "description": "Geoff Pynn (Northern Illinois University) gets you started on the critical thinking journey. He tells you what critical thinking is, what an argument is, and what the difference between a deductive and an ampliative argument is.\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/Fhgq/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1903119",
+        "likeCount": "25816",
+        "favoriteCount": "0",
+        "commentCount": "799"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Cum3k-Wglfw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "CRITICAL THINKING - Fundamentals: Introduction to Critical Thinking [HD]",
+          "description": "Geoff Pynn (Northern Illinois University) gets you started on the critical thinking journey. He tells you what critical thinking is, what an argument is, and what the difference between a deductive and an ampliative argument is.\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/Fhgq/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JwoE7m-_8Vl2yUnYcYHxopzvpPM",
+      "id": "pvWzQ1MmSns",
+      "snippet": {
+        "publishedAt": "2025-01-23T17:28:46Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Self-awareness and critical thinking in the age of AI | Harvey Singh | TEDxGreensboro",
+        "description": "In the age of AI, fostering self-awareness, proprioception, and critical thinking is crucial for personal growth and building a more harmonious world. Harvey Singh, CEO and founder of Instancy, brings over three decades of experience to pioneering AI-Agent Learning and Learning Ecosystems. As a seasoned entrepreneur in the EdTech industry, he develops generative AI systems to personalize learning for global corporations and educational institutions. Harvey is passionate about leveraging technological and human psychological revolutions to empower individuals to develop their full human potential and create a harmonious society. He holds a Master’s in Computer Science and Education from Stanford and started his career at Apple’s ACOT project.\n\n“Amid the AI revolution, humanity needs wisdom through self-reflection to create a harmonious future.” This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pvWzQ1MmSns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pvWzQ1MmSns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pvWzQ1MmSns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pvWzQ1MmSns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pvWzQ1MmSns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "tags": [
+          "AI",
+          "English",
+          "Neuroscience",
+          "Science",
+          "Self improvement",
+          "Self-help",
+          "TEDxTalks",
+          "Technology",
+          "[TEDxEID:58062]"
+        ],
+        "categoryId": "29",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Self-awareness and critical thinking in the age of AI | Harvey Singh | TEDxGreensboro",
+          "description": "In the age of AI, fostering self-awareness, proprioception, and critical thinking is crucial for personal growth and building a more harmonious world. Harvey Singh, CEO and founder of Instancy, brings over three decades of experience to pioneering AI-Agent Learning and Learning Ecosystems. As a seasoned entrepreneur in the EdTech industry, he develops generative AI systems to personalize learning for global corporations and educational institutions. Harvey is passionate about leveraging technological and human psychological revolutions to empower individuals to develop their full human potential and create a harmonious society. He holds a Master’s in Computer Science and Education from Stanford and started his career at Apple’s ACOT project.\n\n“Amid the AI revolution, humanity needs wisdom through self-reflection to create a harmonious future.” This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT17M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4558",
+        "likeCount": "175",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/pvWzQ1MmSns\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Self-awareness and critical thinking in the age of AI | Harvey Singh | TEDxGreensboro",
+          "description": "In the age of AI, fostering self-awareness, proprioception, and critical thinking is crucial for personal growth and building a more harmonious world. Harvey Singh, CEO and founder of Instancy, brings over three decades of experience to pioneering AI-Agent Learning and Learning Ecosystems. As a seasoned entrepreneur in the EdTech industry, he develops generative AI systems to personalize learning for global corporations and educational institutions. Harvey is passionate about leveraging technological and human psychological revolutions to empower individuals to develop their full human potential and create a harmonious society. He holds a Master’s in Computer Science and Education from Stanford and started his career at Apple’s ACOT project.\n\n“Amid the AI revolution, humanity needs wisdom through self-reflection to create a harmonious future.” This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bQC8s3QuRILkcw2C4vwaiCKnsjQ",
+      "id": "3lPnN8omdPA",
+      "snippet": {
+        "publishedAt": "2025-12-28T16:00:11Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How to Stop AI from Killing Your Critical Thinking | Advait Sarkar | TED",
+        "description": "Chatbots might help you get work done faster — but at what cost? When we outsource our reasoning to artificial intelligence, we reduce ourselves to \"middle managers for our own thoughts,\" says AI and design researcher Advait Sarkar. He examines the cognitive trade-offs of using AI at work and introduces a different kind of tool: one that encourages critical thinking, nudges reflection and actually helps you get smarter. (Recorded at TEDAI Vienna on September 26, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/advaitsarkar\n\nhttps://youtu.be/3lPnN8omdPA\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3lPnN8omdPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3lPnN8omdPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3lPnN8omdPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3lPnN8omdPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3lPnN8omdPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "tags": [
+          "TEDTalk",
+          "TEDTalks",
+          "TED Talk",
+          "TED Talks",
+          "TED",
+          "ai",
+          "technology",
+          "computers",
+          "work",
+          "brain"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to Stop AI from Killing Your Critical Thinking | Advait Sarkar | TED",
+          "description": "Chatbots might help you get work done faster — but at what cost? When we outsource our reasoning to artificial intelligence, we reduce ourselves to \"middle managers for our own thoughts,\" says AI and design researcher Advait Sarkar. He examines the cognitive trade-offs of using AI at work and introduces a different kind of tool: one that encourages critical thinking, nudges reflection and actually helps you get smarter. (Recorded at TEDAI Vienna on September 26, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/advaitsarkar\n\nhttps://youtu.be/3lPnN8omdPA\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "391269",
+        "likeCount": "12400",
+        "favoriteCount": "0",
+        "commentCount": "381"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/3lPnN8omdPA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "How to Stop AI from Killing Your Critical Thinking | Advait Sarkar | TED",
+          "description": "Chatbots might help you get work done faster — but at what cost? When we outsource our reasoning to artificial intelligence, we reduce ourselves to \"middle managers for our own thoughts,\" says AI and design researcher Advait Sarkar. He examines the cognitive trade-offs of using AI at work and introduces a different kind of tool: one that encourages critical thinking, nudges reflection and actually helps you get smarter. (Recorded at TEDAI Vienna on September 26, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/advaitsarkar\n\nhttps://youtu.be/3lPnN8omdPA\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #AI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gQvM7myikwvWR3mKE0n0YvWUEu8",
+      "id": "m8WomdCLBqE",
+      "snippet": {
+        "publishedAt": "2025-09-04T17:01:06Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Is AI making us dumber? Maybe. | Charlie Gedeon | TEDxSherbrooke Street West",
+        "description": "We keep asking how AI can help students succeed. But what are they really learning?\n\nIn this thoughtful and challenging TEDx talk, university instructor and UX designer Charlie Gedeon explores how artificial intelligence is revealing and accelerating the cracks in modern education. From students outsourcing decisions to ChatGPT to the quiet disappearance of critical thinking, Charlie unpacks how AI is reinforcing a system built to reward grades over growth.\n\nWith personal anecdotes, sharp systems thinking, and a call for collective responsibility, this talk asks: If AI is the teacher, what is the lesson? Charlie Gedeon is a university instructor, entrepreneur, and interaction designer. He studies how technology changes how we think and learn, and how systems shape behaviour. His work focuses on reimagining digital tools and learning experiences to support critical thinking, rather than replace it. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m8WomdCLBqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m8WomdCLBqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m8WomdCLBqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m8WomdCLBqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m8WomdCLBqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "tags": [
+          "Academic",
+          "Decision making",
+          "Design",
+          "Education",
+          "English",
+          "Students",
+          "TEDxTalks",
+          "Teaching",
+          "[TEDxEID:62786]"
+        ],
+        "categoryId": "29",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Is AI making us dumber? Maybe. | Charlie Gedeon | TEDxSherbrooke Street West",
+          "description": "We keep asking how AI can help students succeed. But what are they really learning?\n\nIn this thoughtful and challenging TEDx talk, university instructor and UX designer Charlie Gedeon explores how artificial intelligence is revealing and accelerating the cracks in modern education. From students outsourcing decisions to ChatGPT to the quiet disappearance of critical thinking, Charlie unpacks how AI is reinforcing a system built to reward grades over growth.\n\nWith personal anecdotes, sharp systems thinking, and a call for collective responsibility, this talk asks: If AI is the teacher, what is the lesson? Charlie Gedeon is a university instructor, entrepreneur, and interaction designer. He studies how technology changes how we think and learn, and how systems shape behaviour. His work focuses on reimagining digital tools and learning experiences to support critical thinking, rather than replace it. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "303063",
+        "likeCount": "8628",
+        "favoriteCount": "0",
+        "commentCount": "502"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/m8WomdCLBqE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Is AI making us dumber? Maybe. | Charlie Gedeon | TEDxSherbrooke Street West",
+          "description": "We keep asking how AI can help students succeed. But what are they really learning?\n\nIn this thoughtful and challenging TEDx talk, university instructor and UX designer Charlie Gedeon explores how artificial intelligence is revealing and accelerating the cracks in modern education. From students outsourcing decisions to ChatGPT to the quiet disappearance of critical thinking, Charlie unpacks how AI is reinforcing a system built to reward grades over growth.\n\nWith personal anecdotes, sharp systems thinking, and a call for collective responsibility, this talk asks: If AI is the teacher, what is the lesson? Charlie Gedeon is a university instructor, entrepreneur, and interaction designer. He studies how technology changes how we think and learn, and how systems shape behaviour. His work focuses on reimagining digital tools and learning experiences to support critical thinking, rather than replace it. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lYYIIcur0d3kBckZHJWAHmbHFVY",
+      "id": "ZkXrTHpnQrQ",
+      "snippet": {
+        "publishedAt": "2025-12-26T16:00:54Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "Why Are People Starting to Sound Like ChatGPT? | Adam Aleksic | TED",
+        "description": "Algorithms and AI don't just show us reality — they warp it in ways that benefit platforms built to exploit people for profit, says etymologist Adam Aleksic. From ChatGPT influencing our word choices to Spotify turning a data cluster into a new musical genre, he reveals how new technology subconsciously shapes our language, trends and sense of identity. \"These aren't neutral tools,\" he says, encouraging us to constantly ask ourselves: How am I being influenced? (Created in collaboration with ‪@ignite; Recorded at TEDNext 2025 on November 11, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/adamaleksic25\n\nhttps://youtu.be/ZkXrTHpnQrQ\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Language",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZkXrTHpnQrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZkXrTHpnQrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZkXrTHpnQrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZkXrTHpnQrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZkXrTHpnQrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "tags": [
+          "TEDTalk",
+          "TEDTalks",
+          "TED Talk",
+          "TED Talks",
+          "TED",
+          "language",
+          "ai",
+          "technology"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Why Are People Starting to Sound Like ChatGPT? | Adam Aleksic | TED",
+          "description": "Algorithms and AI don't just show us reality — they warp it in ways that benefit platforms built to exploit people for profit, says etymologist Adam Aleksic. From ChatGPT influencing our word choices to Spotify turning a data cluster into a new musical genre, he reveals how new technology subconsciously shapes our language, trends and sense of identity. \"These aren't neutral tools,\" he says, encouraging us to constantly ask ourselves: How am I being influenced? (Created in collaboration with ‪@ignite; Recorded at TEDNext 2025 on November 11, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/adamaleksic25\n\nhttps://youtu.be/ZkXrTHpnQrQ\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Language"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "534172",
+        "likeCount": "34782",
+        "favoriteCount": "0",
+        "commentCount": "1604"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ZkXrTHpnQrQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Why Are People Starting to Sound Like ChatGPT? | Adam Aleksic | TED",
+          "description": "Algorithms and AI don't just show us reality — they warp it in ways that benefit platforms built to exploit people for profit, says etymologist Adam Aleksic. From ChatGPT influencing our word choices to Spotify turning a data cluster into a new musical genre, he reveals how new technology subconsciously shapes our language, trends and sense of identity. \"These aren't neutral tools,\" he says, encouraging us to constantly ask ourselves: How am I being influenced? (Created in collaboration with ‪@ignite; Recorded at TEDNext 2025 on November 11, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/adamaleksic25\n\nhttps://youtu.be/ZkXrTHpnQrQ\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #Language"
+        }
+      }
+    }
+  ]
+}

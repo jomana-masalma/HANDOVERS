@@ -1,0 +1,1705 @@
+{
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a_R5bNN9YM7lRHcmun4ty0XjfUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dItUGF8GdTw"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-15T14:58:40Z",
+        "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+        "title": "5 tips to improve your critical thinking - Samantha Agoos",
+        "description": "View full lesson: http://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos Every day, a sea of decisions ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dItUGF8GdTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dItUGF8GdTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dItUGF8GdTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TED-Ed",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-15T14:58:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T2D8di_3_0akv03dz7oDVN0uVhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HnJ1bqXUnIM"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-02T09:58:44Z",
+        "channelId": "UCIdMuFFD42OKezEDsxzYqcA",
+        "title": "What is Critical Thinking?",
+        "description": "Critical Thinking encompasses six vital skills: problem solving, analysis, creative thinking, interpretation, evaluation, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HnJ1bqXUnIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HnJ1bqXUnIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HnJ1bqXUnIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Macat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-02T09:58:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_vNpDRbQIA213xGAX6J00ZRFNgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qMrnVkDH2Ak"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-01T14:26:38Z",
+        "channelId": "UCr3cBLTYmIK9kY0F_OdFWFQ",
+        "title": "Casually Explained: Critical Thinking",
+        "description": "Watch out for those deceptive sachets of fruity flavours. Subscribe to Mr. Explained: https://goo.gl/IEE7wl Find me here too: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qMrnVkDH2Ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qMrnVkDH2Ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qMrnVkDH2Ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Casually Explained",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-01T14:26:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pxBwAAqfOhfEpfWj0zMMcPI6hd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x0vUsxhMczI"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-07T16:14:54Z",
+        "channelId": "UCo9QgwWCNEhDxL1gH-jxa8Q",
+        "title": "Jordan Peterson - The Best Way To Learn Critical Thinking",
+        "description": "original source: https://youtu.be/nsZ8XqHPjI4?t=2h17m35s Psychology Professor Dr. Jordan B. Peterson says that the best way to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x0vUsxhMczI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x0vUsxhMczI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x0vUsxhMczI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bite-sized Philosophy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-07T16:14:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dqKvR9Y6PbkiSg4lIYyqt1emlxA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vNDYUlxNIAA"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-12T15:00:44Z",
+        "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+        "title": "This tool will help improve your critical thinking - Erick Wilberding",
+        "description": "Explore the technique known as the Socratic Method, which uses questions to examine a person's values, principles, and beliefs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vNDYUlxNIAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vNDYUlxNIAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vNDYUlxNIAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TED-Ed",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-12T15:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OxP6MaJMnlLL26Il9iuxdzyFaao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XFLcHOA-Q0g"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-25T10:19:49Z",
+        "channelId": "UCa9ugMV3Dq0ev_H1N0spQSQ",
+        "title": "Critical Thinking Mastery: Transform Your Mindset for Ultimate Personal Growth (Audiobook)",
+        "description": "Download executive summary (FREE for the first 50 people): https://growtothetop.ck.page/0b15ad7902 Buy the full ebook ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XFLcHOA-Q0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XFLcHOA-Q0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XFLcHOA-Q0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grow To The Top",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-25T10:19:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ro0u1UsKYMiV9IjoPa3ZtlT8wzY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cum3k-Wglfw"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-01T17:09:32Z",
+        "channelId": "UCpvhlSLzg2LT89FNUuN-Sig",
+        "title": "CRITICAL THINKING - Fundamentals: Introduction to Critical Thinking [HD]",
+        "description": "Geoff Pynn (Northern Illinois University) gets you started on the critical thinking journey. He tells you what critical thinking is, what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cum3k-Wglfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cum3k-Wglfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cum3k-Wglfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wireless Philosophy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-08-01T17:09:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xZCTYl0FhiH5W1iv3GWwJA43PoE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "shNDOQxNvYk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-31T19:38:22Z",
+        "channelId": "UCpyvWfo9diMIMi_wX5LUbSQ",
+        "title": "Overview of Critical Thinking",
+        "description": "In this video, Dr. Linda Elder provides a broad overview of critical thinking. The Paul-Elder Framework for Critical Thinking ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/shNDOQxNvYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/shNDOQxNvYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/shNDOQxNvYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Foundation for Critical Thinking",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-31T19:38:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mcvNkySWrnidollxHNGXHTjJpjg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t62FZR5baZ4"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-19T00:24:18Z",
+        "channelId": "UCv1V80afSeqIRQHH0v5mOMw",
+        "title": "5 Tips to Improve Your Critical Thinking Skills | Enhance Critical Thinking #motivation #focus",
+        "description": "Unlock your potential and boost your decision-making abilities with 5 practical tips to improve your critical thinking skills! In this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t62FZR5baZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t62FZR5baZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t62FZR5baZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Focused Felix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-19T00:24:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tDrBbeCxYex2LZviMs4cDHliAEQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rn_7aJP5BTw"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-07T00:02:58Z",
+        "channelId": "UCd_XOjIb81hCJyWux1pn4Mg",
+        "title": "What is critical thinking? An expert psychologist tells | Psychlopaedia",
+        "description": "Psychologist Diane Halpern on what critical thinking is, how this skill should be taught and why it is key to thriving in a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rn_7aJP5BTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rn_7aJP5BTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rn_7aJP5BTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Psychlopaedia.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-07T00:02:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TTCx8VVNQagTa2jYhrOvT2Rtyvo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wq5o1CCeXQw"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-25T19:00:57Z",
+        "channelId": "UCy8LEbkFDPMOBx_78JhRcBw",
+        "title": "Another CRITICAL THINKING Practice Test!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wq5o1CCeXQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wq5o1CCeXQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wq5o1CCeXQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kira Kosarin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-25T19:00:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6lcuaRlD_FhZQRxrCBND_lts_HQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bry8J78Awq0"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-06T17:00:15Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "4 tips for developing critical thinking skills | Steve Pearlman, Ph.D. | TEDxCapeMay",
+        "description": "Critical thinking” increasingly stands as the most sought-after skill that has long been too fleeting to define. Employers rate it as a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bry8J78Awq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bry8J78Awq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bry8J78Awq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-06T17:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6SH9f7SPBKW2P3lvMY_PRx7QXtE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JOFrjc6u47U"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-16T15:57:13Z",
+        "channelId": "UCvf3duzvoSMzVLtqLE12jSQ",
+        "title": "How to Improve Your Critical Thinking Skills",
+        "description": "Imagine mastering a skill so powerful that it not only transforms how you think and make decisions but also elevates your entire ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JOFrjc6u47U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JOFrjc6u47U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JOFrjc6u47U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Phil McKinney",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-16T15:57:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HLpoxZMmkFd879C30hcPNcBELpI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ETQwiYQYoSg"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-12T15:30:14Z",
+        "channelId": "UCO5QSoES5yn2Dw7YixDYT5Q",
+        "title": "The Death of Critical Thinking: How Stupidity Took Over",
+        "description": "Follow Aperture on Spotify and take these thoughts with you anywhere.: https://bit.ly/aperturepod IQ and critical thinking skills are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ETQwiYQYoSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ETQwiYQYoSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ETQwiYQYoSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aperture",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-12T15:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BuZknpOI-Hc7VIVQaymmaqqUD8U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M5Ul29QtZl4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-19T00:15:02Z",
+        "channelId": "UCB9YSi17SOPOSYf7J-22zVA",
+        "title": "How to learn critical thinking | Jordan Peterson",
+        "description": "Shorts How to learn critical thinking Jordan Peterson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M5Ul29QtZl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M5Ul29QtZl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5Ul29QtZl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inspiration Keeper",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-19T00:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dk2yAXClebwz7RR0IRM1A0RYCKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0hoE8mtUS1E"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-28T18:00:00Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Encourage critical thinking with 3 questions | Brian Oshiro | TEDxXiguan",
+        "description": "Do you know what kind of questions teachers and parents ask children has a great effect on whether they can develop critical ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0hoE8mtUS1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0hoE8mtUS1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0hoE8mtUS1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-28T18:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iWSe7QJcAAOG-YkVCSseZJrecaw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5i__NqoAI7Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-29T13:00:10Z",
+        "channelId": "UC6g61Cqdkk3zQGXH6EPVgAQ",
+        "title": "Critical Thinking in the Age of AI",
+        "description": "What makes human thinking different from AI? In this video, I'll show you what AI can't do — and how to think more clearly, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5i__NqoAI7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5i__NqoAI7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5i__NqoAI7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Shae",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-29T13:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "llkuskLoyzxvoAoc7WgviT97oJ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3lPnN8omdPA"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-28T16:00:11Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How to Stop AI from Killing Your Critical Thinking | Advait Sarkar | TED",
+        "description": "Chatbots might help you get work done faster — but at what cost? When we outsource our reasoning to artificial intelligence, we ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3lPnN8omdPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3lPnN8omdPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3lPnN8omdPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-28T16:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IMZLFY-qM56GxO4xSoPKi2CSxys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LqelpONZvpw"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-10T09:00:24Z",
+        "channelId": "UCv44qVWUB-Xz-C3IMWKhatg",
+        "title": "The Stupidity Epidemic: Why Critical Thinking is Dying",
+        "description": "Stupidity isn't just a lack of intelligence—it's the refusal to think critically, and it's everywhere. In this video, we dive into The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LqelpONZvpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LqelpONZvpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LqelpONZvpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Simply Resilient Me",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-10T09:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u8eUYhiHQIt247yinjK5fB1GUBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-eEBuqwY-nE"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-30T13:57:07Z",
+        "channelId": "UCeYUHG6o0YguM-g23htdsSw",
+        "title": "What is Critical Thinking?",
+        "description": "In this video, you'll strategies to improve your critical thinking skills.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-eEBuqwY-nE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-eEBuqwY-nE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-eEBuqwY-nE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LearnFree",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-30T13:57:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QGDAfZw5UhrBfFq3dz8zwjQBcoc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kpFfde3rNFs"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-05T11:00:00Z",
+        "channelId": "UC6zbKG1pqq2do-_oa9QFliA",
+        "title": "Tommy DeVoss: From Black Hat to Bug Bounty LEGEND (Ep. 164)",
+        "description": "Episode 164: In this episode of Critical Thinking - Bug Bounty Podcast Justin sits down with Tommy DeVoss to talk about his origin ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kpFfde3rNFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kpFfde3rNFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kpFfde3rNFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Critical Thinking - Bug Bounty Podcast",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-05T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D6jYicm55kHjLP4oYhCWIfBR4EY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J0yEAE5owWw"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-01T17:44:57Z",
+        "channelId": "UCmiIlSHKC2BkWNqE3MMm45w",
+        "title": "Episode 1.1: What is Critical Thinking?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J0yEAE5owWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J0yEAE5owWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J0yEAE5owWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Center for Innovation in Legal Education",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-01T17:44:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mKLBG2keBtLI4IkHg46kWCjn-jw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5cDl0I3zusk"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-06T23:17:27Z",
+        "channelId": "UC1v49A8-55_h-Re9RRWjyWA",
+        "title": "Critical Thinking - Episode 1 - What is Critical Thinking?",
+        "description": "An overview of what we will cover in the course of this series, as well as a description of Critical Thinking and much of what it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5cDl0I3zusk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5cDl0I3zusk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5cDl0I3zusk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Allan Di Donato",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-06T23:17:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jXz6TfH_jXia5yEMIfl282GYw4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lsarAAg8IRc"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-21T01:15:02Z",
+        "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+        "title": "Listen to Student Have His Mind Changed in Real Time by Critical Thinking Teacher",
+        "description": "Dave Rubin of “The Rubin Report” reacts to a DM clip of Warren Smith of the Secret Scholar Society using J.K. Rowling to give his ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lsarAAg8IRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lsarAAg8IRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lsarAAg8IRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Rubin Report",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-21T01:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3PPxuz0jIdIHNzvfxOdB4kRKQDQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RyAsI0LmQxc"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-13T12:56:19Z",
+        "channelId": "UCw201f0cCR52IQQQzzucPig",
+        "title": "Why CRITICAL Thinking Matters | A Teacher’s POWERFUL Message on Injustice &amp; Empathy",
+        "description": "This inspiring clip highlights a teacher's powerful perspective on injustice, empathy, and critical thinking—skills that shape our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RyAsI0LmQxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RyAsI0LmQxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RyAsI0LmQxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Odyssey of History",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-13T12:56:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IMZLFY-qM56GxO4xSoPKi2CSxys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LqelpONZvpw"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-10T09:00:24Z",
+        "channelId": "UCv44qVWUB-Xz-C3IMWKhatg",
+        "title": "The Stupidity Epidemic: Why Critical Thinking is Dying",
+        "description": "Stupidity isn't just a lack of intelligence—it's the refusal to think critically, and it's everywhere. In this video, we dive into The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LqelpONZvpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LqelpONZvpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LqelpONZvpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Simply Resilient Me",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-10T09:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jXz6TfH_jXia5yEMIfl282GYw4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lsarAAg8IRc"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-21T01:15:02Z",
+        "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+        "title": "Listen to Student Have His Mind Changed in Real Time by Critical Thinking Teacher",
+        "description": "Dave Rubin of “The Rubin Report” reacts to a DM clip of Warren Smith of the Secret Scholar Society using J.K. Rowling to give his ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lsarAAg8IRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lsarAAg8IRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lsarAAg8IRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Rubin Report",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-21T01:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D6jYicm55kHjLP4oYhCWIfBR4EY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J0yEAE5owWw"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-01T17:44:57Z",
+        "channelId": "UCmiIlSHKC2BkWNqE3MMm45w",
+        "title": "Episode 1.1: What is Critical Thinking?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J0yEAE5owWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J0yEAE5owWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J0yEAE5owWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Center for Innovation in Legal Education",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-01T17:44:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mKLBG2keBtLI4IkHg46kWCjn-jw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5cDl0I3zusk"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-06T23:17:27Z",
+        "channelId": "UC1v49A8-55_h-Re9RRWjyWA",
+        "title": "Critical Thinking - Episode 1 - What is Critical Thinking?",
+        "description": "An overview of what we will cover in the course of this series, as well as a description of Critical Thinking and much of what it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5cDl0I3zusk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5cDl0I3zusk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5cDl0I3zusk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Allan Di Donato",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-06T23:17:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3PPxuz0jIdIHNzvfxOdB4kRKQDQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RyAsI0LmQxc"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-13T12:56:19Z",
+        "channelId": "UCw201f0cCR52IQQQzzucPig",
+        "title": "Why CRITICAL Thinking Matters | A Teacher’s POWERFUL Message on Injustice &amp; Empathy",
+        "description": "This inspiring clip highlights a teacher's powerful perspective on injustice, empathy, and critical thinking—skills that shape our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RyAsI0LmQxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RyAsI0LmQxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RyAsI0LmQxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Odyssey of History",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-13T12:56:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_6SfxGYsvybgv1nkczJvhy0ARw8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OIIJvqTHHrU"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-18T22:18:56Z",
+        "channelId": "UCbFTvuJ_ePmUQZZnMkbyR8Q",
+        "title": "Why you have critical thinking skills",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OIIJvqTHHrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OIIJvqTHHrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OIIJvqTHHrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tawny Platis",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-18T22:18:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wf98Ltl7PVN91foTqZBgfVoogqM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z-F7mZ8A3Vs"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-21T21:30:05Z",
+        "channelId": "UChrGS-_x3jikLYCFKldcRcw",
+        "title": "6 steps to train ChatGPT for critical thinking #AI #ChatGPT #CriticalThinking",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z-F7mZ8A3Vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z-F7mZ8A3Vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-F7mZ8A3Vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nick Sadler",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-21T21:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ng9VMBNedjJYiNFbwNh5EpONTRw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6TNQnE2GVDI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T05:50:40Z",
+        "channelId": "UCafEZMU5s8geb9oIly6xTrg",
+        "title": "How social media discourages critical thinking",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6TNQnE2GVDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6TNQnE2GVDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6TNQnE2GVDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Robin Waldun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T05:50:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WSh3KHSCTRIiA4XYkvNizbS9wFU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-FxVjgbV2rQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-04T03:55:40Z",
+        "channelId": "UCPqwspsmjhZnwuee3SiYzAg",
+        "title": "critical thinking crisis: the effects on movies, social media &amp; information",
+        "description": "sorry this video was late, it's been a crazy past week and a half LOL article I was talking about: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-FxVjgbV2rQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-FxVjgbV2rQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-FxVjgbV2rQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "meg",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-04T03:55:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Bb1gdfR-Kaa9o0HXxbpQqHNTBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6OLPL5p0fMg"
+      },
+      "snippet": {
+        "publishedAt": "2009-12-24T10:37:36Z",
+        "channelId": "UCc_xdkOBgSYLmXTn-VSQ4uA",
+        "title": "Critical Thinking",
+        "description": "A look at some of the principles of critical thinking. Croatian Subtitles: Nikola Portuguese subtitles: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6OLPL5p0fMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6OLPL5p0fMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6OLPL5p0fMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "QualiaSoup (archive)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-12-24T10:37:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "886DiAWQJDSJhx8J4EVOf217ITg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QVwTVM1Iv1c"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-04T13:39:54Z",
+        "channelId": "UCSm6LfBZ-jOghQ_UEM6fzOA",
+        "title": "Critical Thinking Skills: A Process for Better Problem Solving and Decision Making",
+        "description": "The United States Department of Labor has identified critical thinking as the foundation for key skills such as problem-solving, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QVwTVM1Iv1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QVwTVM1Iv1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QVwTVM1Iv1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HRDQ-U",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-04T13:39:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i2WyRMR8I5lTdUTmPgUGce1UXvc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cuQ2LMld1Dg"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-04T22:00:33Z",
+        "channelId": "UCk3u_P1wYZbbQkzj_OP0_wg",
+        "title": "5 Ways to Improve Your Critical Thinking Skills | Indeed Career Tips",
+        "description": "Get better job matches when you complete your Indeed profile: https://go.indeed.com/4ER6C8 Employers value critical thinkers ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cuQ2LMld1Dg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cuQ2LMld1Dg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cuQ2LMld1Dg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Indeed",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-04T22:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g0L9tfIQGHXRE0Jtw4M48AgFtCI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gxglts0Sw5I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-19T17:04:04Z",
+        "channelId": "UC-tLyAaPbRZiYrOJxAGB7dQ",
+        "title": "This Simple Tool Will Improve Your Critical Thinking",
+        "description": "Go to this link https://boot.dev/?promo=WONDER and use my code WONDER to get 25% off your first payment for boot.dev.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gxglts0Sw5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gxglts0Sw5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gxglts0Sw5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pursuit of Wonder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-19T17:04:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Pq5dOvG8ybLEHvzmbTrV2gfrhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5AFZgnxXK24"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-06T00:27:56Z",
+        "channelId": "UCKoxe9WPWQso-vIdZCzeMug",
+        "title": "Bring Back Critical Thinking!",
+        "description": "Oh god, you guys, another thing that was totally insane about Generation X. And I don't even know if I can talk about this anymore, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5AFZgnxXK24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5AFZgnxXK24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5AFZgnxXK24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dalia Shkedy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-06T00:27:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "akXvBW2DFXz43hAvNGw6XnlNQNQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tOFPtiM48qg"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-08T22:01:02Z",
+        "channelId": "UC-jY3cVMchevuydjrJHnj1Q",
+        "title": "Train Your Brain to Outsmart Any Situation - Improve Your Critical Thinking Skills | Audiobook",
+        "description": "Grab Your Free Gift Now → 22 Life-Changing Books Summarized in One Quick Read: https://bit.ly/46k66n8.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tOFPtiM48qg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tOFPtiM48qg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tOFPtiM48qg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elite Audiobooks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-08T22:01:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ii8UuyGjKJ4cEU0c3q-1zDBgndI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cHbQdS2sY0c"
+      },
+      "snippet": {
+        "publishedAt": "2013-10-17T02:07:49Z",
+        "channelId": "UCmYesELO6axBrCuSpf7S9DQ",
+        "title": "A Guide to Critical Thinking",
+        "description": "Mr. Beat explains what critical thinking is and gives advice for how to critically think. He critically thinks about critical thinking.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cHbQdS2sY0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cHbQdS2sY0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cHbQdS2sY0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mr. Beat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-10-17T02:07:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RW20Yo8ykahkfYOxlnhNcJiDYoU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m2eINI4WXkc"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-04T15:11:40Z",
+        "channelId": "UCeYUHG6o0YguM-g23htdsSw",
+        "title": "Using Brain Teasers to Build Critical Thinking Skills",
+        "description": "In this video, you'll learn more about critical thinking with brain teasers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m2eINI4WXkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m2eINI4WXkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m2eINI4WXkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LearnFree",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-04T15:11:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gmnjxB59GE0K5QUvnABJi3v0rY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zhDKyJM59TQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-04T21:00:37Z",
+        "channelId": "UClHVl2N3jPEbkNJVx-ItQIQ",
+        "title": "Why Critical Thinking Is So Important In Today&#39;s World @TheIcedCoffeeHour",
+        "description": "Check out Dr. K's Guide to Mental Health: https://bit.ly/3ESAerp Full video: https://youtu.be/tUGHoUqIjJc Our Healthy Gamer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zhDKyJM59TQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zhDKyJM59TQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zhDKyJM59TQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HealthyGamerGG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-04T21:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mjh4R6QY89Is3ZrkZaG7dlS9SAI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xppCGRZ1Rvc"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-05T11:00:46Z",
+        "channelId": "UCoO1dS6Eml7VwK8eIc64Lwg",
+        "title": "Books to help improve your critical thinking",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xppCGRZ1Rvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xppCGRZ1Rvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xppCGRZ1Rvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Kitab Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-05T11:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BrV3fg3migYRDX5uyp07oSVaWKs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iOGvwPmKOqQ"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-08T23:03:03Z",
+        "channelId": "UC6ljfWeohdemZbQqs2UmLzA",
+        "title": "Critical thinking and reading",
+        "description": "Critical thinking is an essential skill in reading--and in life. Learn the definition of critical thinking, how it applies to reading, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iOGvwPmKOqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iOGvwPmKOqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iOGvwPmKOqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Snap Language",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-08T23:03:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I6f8RYHMZASusaKHW3jg41n6Woc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ntPzlY0A1P8"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-22T15:16:26Z",
+        "channelId": "UC4QBHK32zckCVflVnA900Jw",
+        "title": "Critical Thinking Beats IQ (Here’s Why)",
+        "description": "Discover how critical thinking beats IQ in making informed decisions and solving complex problems. Developing strong critical ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ntPzlY0A1P8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ntPzlY0A1P8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ntPzlY0A1P8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stephen Petro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-22T15:16:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rDq3QHbzisDR8smN6ypsfYQj6rM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jAiba2Di260"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-28T16:29:31Z",
+        "channelId": "UCpBRZ6j0oAkjyd3FLr4yPtA",
+        "title": "Critical Thinking #dharmendrasir #gyrussulcus #philosophy #industry #society #education #psychology",
+        "description": "How Netflix & TikTok Control Your Mind – Adorno & Horkheimer Explained\" \"The Culture Industry: Why Everything Feels the Same ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jAiba2Di260/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jAiba2Di260/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jAiba2Di260/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GYRUS SULCUS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-28T16:29:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TZvqjXNluco3rrObiFZfHFzJqo0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "otOmBj5PASE"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-05T12:58:04Z",
+        "channelId": "UC6iOzmjzne02G018D-tUjDA",
+        "title": "Logic and Critical Thinking Chapter 1 | Freshman Full Course",
+        "description": "Join our Telegram Channel t.me/Startutorials In this video we will learn Logic and Critical Thinking Chapter 1 FULL COURSE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/otOmBj5PASE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/otOmBj5PASE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/otOmBj5PASE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Star Tutorials",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-05T12:58:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8T0P5aoP5e6kYRX7fNla7edpGUk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eJnvehWcrhY"
+      },
+      "snippet": {
+        "publishedAt": "2011-01-25T16:08:23Z",
+        "channelId": "UCVEbUWk96dmaDFwenptsx5Q",
+        "title": "Critical Thinking: Issues, Claims, Arguments",
+        "description": "In this lecture and discussion from his Fayetteville State University Critical Thinking class, Dr. Sadler discusses several ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eJnvehWcrhY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eJnvehWcrhY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eJnvehWcrhY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fayetteville State University",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-01-25T16:08:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DQ1nEs_ZcmJGdtdjF5TpaY3FvG4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RyqFD5OAJ40"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-29T22:14:37Z",
+        "channelId": "UC_keKSGNMdbEQ4DrfL1mrfA",
+        "title": "Critical Thinking Lecture: an introduction to critical thinking",
+        "description": "A short 10 minute academic lecture on critical thinking skills by Academic English UK: includes a definition, alternative thinking ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RyqFD5OAJ40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RyqFD5OAJ40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RyqFD5OAJ40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academic English UK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-29T22:14:37Z"
+      }
+    }
+  ],
+  "query": "critical thinking"
+}
