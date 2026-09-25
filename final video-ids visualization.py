@@ -1,24 +1,4 @@
-"""
-Streamlit — **Final video-IDs visualization** (read-only dashboard).
-
-Shows **exactly what is on disk** for the 10 curated videos:
-
-- **Stage 1A metadata** — ``videos.list``: views, likes, **commentCount** (YouTube headline stat, not rows ingested).
-- **Stage 1 comments** — first-pass ``out_video_comments.jsonl`` (top + reply **rows**).
-- **Round 2** — incremental folder (may be empty if run stopped early).
-- **Round 3** — deeper incremental **new** rows only.
-- **Cumulative** — unique ``commentId`` union (stage 1 ∪ round 3; round 2 if any).
-- **Transcripts** — ``out_video_transcripts.json`` when present.
-
-No API calls. No invented counts.
-
-**Layout (algae-dashboard pattern):** the large **map panel** shows the **parent → child graph** (Pyvis).
-Beside or below: **comment rows** with ``parentCommentId`` / ``commentId`` / ``level`` (same relations in table form).
-
-Run::
-
-  streamlit run final_video_ids_visualization.py
-"""
+"""Read-only dashboard for the 10 curated videos: comments, transcripts, and reply graph."""
 
 from __future__ import annotations
 
@@ -104,7 +84,7 @@ def _coverage_map(rows: List[Dict[str, str]], vid_key: str = "videoId") -> Dict[
 
 @st.cache_data(show_spinner=False)
 def load_summary_bundle(youtube_out: str) -> Dict[str, Any]:
-    """Step 1 — fast: CSV + comment JSONL counts only (no full transcript bodies)."""
+    """Counts from the saved CSV and comment files."""
     root = Path(youtube_out).expanduser().resolve()
     bundle: Dict[str, Any] = {"root": str(root), "paths": {}}
 
@@ -235,7 +215,7 @@ def _merge_unique_rows(
 
 @st.cache_data(show_spinner="Loading cumulative comments…")
 def load_cumulative_rows(youtube_out: str) -> List[Dict[str, Any]]:
-    """Step 3 — merge stage 1 + round 2 + round 3 comment rows (for network)."""
+    """Stage 1, round 2, and round 3 comment rows, with duplicate comment IDs removed."""
     root = Path(youtube_out).expanduser().resolve()
     s1 = _load_jsonl(root / P_STAGE1_COMMENTS_JSONL)
     if not s1:
@@ -247,7 +227,7 @@ def load_cumulative_rows(youtube_out: str) -> List[Dict[str, Any]]:
 
 @st.cache_data(show_spinner="Loading transcripts…")
 def load_transcripts(youtube_out: str) -> List[Dict[str, Any]]:
-    """Step 2 — full transcript JSON (load only when you open that tab)."""
+    """Saved transcript text."""
     return _load_json_array(Path(youtube_out).expanduser().resolve() / P_CT_TRANSCRIPTS_JSON)
 
 
@@ -465,7 +445,7 @@ def _render_reply_network_panel(
     panel_height: int = 640,
     default_scope: str = "All 10 videos",
 ) -> None:
-    """Live parent→child graph in the algae map panel (cumulative rows)."""
+    """Parent → child graph for the loaded comment rows."""
     st.markdown('<p class="yt-section-label">Graph</p>', unsafe_allow_html=True)
     with st.container(border=True):
         cum_rows = load_cumulative_rows(str(root))
@@ -512,7 +492,7 @@ def _render_reply_network_panel(
             "Reply reach (thread size)": "reach",
         }
         layout = st.radio(
-            "Gephi-style layout",
+            "Layout",
             [
                 "1 — Hierarchical (threads top → bottom)",
                 "2 — Force-directed (whole graph, drag & zoom)",
@@ -522,13 +502,13 @@ def _render_reply_network_panel(
         )
         mode = "hierarchical" if str(layout).startswith("1") else "force"
         st.caption(
-            "**1 — Hierarchical** — directed tree (roots at top, replies below), physics off. "
-            "**2 — Force** — Barnes–Hut physics on the **whole** network; drag nodes and zoom."
+            "Hierarchical: thread starters at the top, replies below. "
+            "Force: the whole network. Drag a node or zoom."
         )
 
         with st.expander("Thread ranking", expanded=False, key="map_net_thread_rank"):
             st.caption(
-                "Gephi **Data Laboratory** preview: thread roots ranked by direct replies in this scope."
+                "Thread starters ranked by how many direct replies they have in this view."
             )
             lb = thread_leaderboard(net_rows, limit=25)
             if lb:
@@ -635,7 +615,7 @@ def _queue_dashboard_video_sync(video_id: str) -> None:
 
 
 def _migrate_graph_layout_session() -> None:
-    """Map old layout radio labels to Gephi-style options (avoids invalid widget state)."""
+    """Keep an older layout choice mapped to the current layout labels."""
     val = st.session_state.get("map_net_layout")
     if not val or str(val).startswith(("1", "2")):
         return

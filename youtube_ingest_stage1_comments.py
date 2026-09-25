@@ -1,19 +1,8 @@
 """
-YouTube Data API v3 ingestion — Stage 1 (API access + ethical clearance alignment).
+Stage 1 ingest for the curated videos and channels.
 
-Design intent (matches the cross-platform / canonical-schema report):
-- Use only the official YouTube Data API v3 (no scraping, no unofficial endpoints).
-- This job uses *public* read operations. Authentication is an API key on the query string;
-  OAuth is not required for publicly available video/channel metadata exposed by these
-  endpoints. Reserve OAuth for future scopes that access private or user-specific data.
-- Quota discipline: prefer ID-driven `videos.list` / `channels.list` (low unit cost per call
-  in the default quota model); use `search.list` sparingly (higher cost) — only where IDs are
-  unknown (handle resolution, topic search).
-- Data handling: persist API JSON for analysis and derived flat/canonical projections.
-  Do not download media files; metadata + engagement fields only (per API / policy posture).
-
-Endpoints used: videos.list, channels.list, search.list.
-
+Uses the official YouTube Data API v3: videos.list, channels.list, and search.list.
+Public read with an API key. Does not download media.
 """
 
 from __future__ import annotations

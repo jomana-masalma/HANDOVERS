@@ -1,10 +1,5 @@
 """
-Shared Pyvis / vis.js reply graph for Streamlit (directed: parentCommentId → commentId).
-
-Publication-style **card** layout: legend strip, white canvas, muted edges, clear
-**parent → reply** arrows. Short on-canvas labels; full detail on hover.
-
-Used by ``streamlit comments round three.py``. Requires ``pyvis`` (see ``requirements.txt``).
+Reply graph for the dashboard. Each arrow goes from parentCommentId to the reply.
 """
 
 from __future__ import annotations
@@ -31,11 +26,11 @@ from youtube_streamlit_theme import (
     YT_TOPIC_PALETTE,
 )
 
-# --- Analysis / styling (Gephi-style encodings on the same parent→reply graph) ---
+# Node color, size, and edge width for the reply graph.
 
 _TOPIC_PALETTE: Dict[str, Tuple[str, str]] = dict(YT_TOPIC_PALETTE)
 
-# Distinct hues for multi-video graphs (fill, border) — OKabe–Ito inspired + extras
+# Distinct hues for multi-video graphs (fill, border).
 _VIDEO_SWATCHES: List[Tuple[str, str]] = [
     ("#ede9fe", "#5b21b6"),
     ("#cffafe", "#0e7490"),
@@ -396,10 +391,7 @@ def thread_leaderboard(
     *,
     limit: int = 20,
 ) -> List[Dict[str, Any]]:
-    """
-    Rank **thread roots** by reply volume and likes (Gephi-style “Data Laboratory” summary).
-    Only rows present in ``video_rows`` are counted.
-    """
+    """Rank thread starters by reply count and likes."""
     by_id: Dict[str, Dict[str, Any]] = {}
     for r in video_rows:
         cid = r.get("commentId")
@@ -561,7 +553,7 @@ def build_reply_network_html(
         )
     else:
         legend_extras += (
-            '<span class="rnet-legend-item"><b>Layout</b> 2 — Force-directed (Barnes–Hut, whole graph)</span>'
+            '<span class="rnet-legend-item"><b>Layout</b> 2 — Force-directed (whole graph)</span>'
         )
 
     canvas_h = max(400, int(network_height_px))

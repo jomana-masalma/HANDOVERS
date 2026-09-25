@@ -1,9 +1,4 @@
-"""
-Calm YouTube-inspired palette for Streamlit dashboards (comments / ingest UI).
-
-Colors approximate YouTube web UI: warm white surfaces, #0f0f0f text, soft grays,
-muted red accent — not neon brand red.
-"""
+"""Colors for the comments and network dashboard."""
 
 from __future__ import annotations
 
