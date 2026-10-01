@@ -6,9 +6,7 @@ Run only when you intentionally want live YouTube API calls (needs YOUTUBE_API_K
 from __future__ import annotations
 
 import argparse
-import base64
 import csv
-import html as html_module
 import io
 import json
 import logging
@@ -24,8 +22,8 @@ import requests
 
 YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3"
 
-# --- Curated inputs (mentor PDF) ---
-# Fixed mentor list: we already know video IDs, so we call videos.list directly (low quota).
+# --- Curated inputs (PDF) ---
+# Fixed list:known video IDs, so I will call videos.list directly (low quota).
 VIDEO_URLS: List[str] = [
     "https://www.youtube.com/watch?v=dItUGF8GdTw",
     "https://www.youtube.com/watch?v=qMrnVkDH2Ak",
@@ -89,9 +87,6 @@ class IngestConfig:
     search_page_size: int = 25
     request_delay_s: float = 0.05
     user_agent: str = "stage1-youtube-ingest/1.0 (research; YouTube Data API v3)"
-    generate_html_report: bool = True
-
-
 def setup_logging(verbose: bool) -> None:
     # -v gives DEBUG (API params, pagination); default INFO shows progress only.
     level = logging.DEBUG if verbose else logging.INFO
@@ -222,7 +217,7 @@ def search_videos(
     items: List[Dict[str, Any]] = []
     page_token: Optional[str] = None
     for _ in range(max_pages):
-        # search.list is higher quota cost than list endpoints, so we keep:
+        # search.list is higher quota cost than list endpoints, so I keep:
         # - a small controlled page_size
         # - a small max_pages (feasibility sample, not full crawl)
         params: Dict[str, Any] = {
@@ -802,13 +797,8 @@ def main() -> int:
         search_query=args.search_query,
         search_max_pages=args.search_pages,
         search_page_size=min(max(1, args.search_page_size), 50),
-        generate_html_report=not args.no_html_report,
     )
-    report = run_ingestion(cfg)
-    if args.open_report and report is not None:
-        uri = report.resolve().as_uri()
-        logging.info("Opening report in browser: %s", uri)
-        webbrowser.open(uri)
+    run_ingestion(cfg)
     return 0
 
 
