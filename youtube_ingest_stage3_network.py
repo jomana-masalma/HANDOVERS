@@ -99,7 +99,7 @@ def build_edges(records: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
             {"source": source, "target": target, "edge_type": edge_type, "weight": weight}
         )
 
-    # Group videos by channel to create same_channel edges (light co-occurrence layer).
+    # Group videos by channel to create same_channel edges .
     by_channel: Dict[str, List[str]] = {}
     for row in records:
         video_id = row.get("post_id")
@@ -114,8 +114,8 @@ def build_edges(records: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     for channel_id, video_nodes in by_channel.items():
         if len(video_nodes) < 2:
             continue
-        # Connect each pair once (undirected logic exported as two directed edges is optional;
-        # here we link the first video as hub to keep the graph readable for small samples).
+      
+        # here link the first video as hub to keep the graph readable for small samples).
         hub = video_nodes[0]
         for other in video_nodes[1:]:
             add_edge(hub, other, "same_channel")
@@ -163,7 +163,7 @@ def run_stage3(cfg: Stage3Config) -> Path:
     summary_path = cfg.output_dir / "stage3_network_summary.json"
     summary_path.write_text(json.dumps(summary, indent=2), encoding="utf-8")
 
-    # Optional pandas sanity check — helps the user verify imports quickly.
+    # Optional pandas check — help to verify imports quickly.
     pd.DataFrame(nodes).to_csv(cfg.output_dir / "nodes_pandas_check.csv", index=False)
 
     logging.info(
