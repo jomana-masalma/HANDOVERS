@@ -1,7 +1,7 @@
 """
-Optional enrichment — captions/transcripts (when permitted).
+Optional enrichment — captions/transcripts .
 
-Important reality check (why this is optional):
+ optional:
 - With an API key alone, YouTube does NOT provide transcript text.
 - Caption track access typically requires OAuth and depends on whether captions exist and
   whether the authenticated account has permission to access/download them.
@@ -83,7 +83,6 @@ def build_youtube_service(cfg: TranscriptConfig):
 
 def choose_caption_track(items: List[Dict[str, Any]], preferred_languages: List[str]) -> Optional[Dict[str, Any]]:
     """
-    Pick one caption track to download.
     Simple selection logic:
     - Prefer a track with language in preferred_languages
     - Otherwise take the first track
