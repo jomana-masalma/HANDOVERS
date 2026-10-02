@@ -12,7 +12,7 @@ import pandas as pd
 import streamlit as st
 
 
-# Default folder sits next to this script so it runs without extra config.
+#  so it runs without extra config.
 DEFAULT_OUT_DIR = Path("./youtube_out")
 
 
@@ -146,7 +146,7 @@ def main() -> None:
     tab1, tab2, tab3 = st.tabs(["Curated videos", "Curated channels", "Search results"])
 
     with tab1:
-        st.subheader("Curated videos (from mentor list)")
+        st.subheader("Curated videos (from fixed list, curted videos)")
         if df_videos.empty:
             st.warning("No curated video data found. Run the ingestion script first.")
         else:
