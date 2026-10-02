@@ -23,7 +23,7 @@ import requests
 YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3"
 
 # --- Curated inputs (PDF) ---
-# Fixed list:known video IDs, so I will call videos.list directly (low quota).
+# Fixed list:known video IDs, call videos.list directly (low quota).
 VIDEO_URLS: List[str] = [
     "https://www.youtube.com/watch?v=dItUGF8GdTw",
     "https://www.youtube.com/watch?v=qMrnVkDH2Ak",
@@ -106,16 +106,16 @@ def extract_video_id(url: str) -> str:
 
 @dataclass(frozen=True)
 class YouTubeApiClient:
-    # Thin HTTP wrapper: one place for auth, errors, and polite delay between calls.
+    # Thin HTTP wrapper: one place for auth, errors, and no much delay between calls.
     api_key: str
     session: requests.Session
     request_delay_s: float
 
     def get(self, resource: str, params: Dict[str, Any]) -> Dict[str, Any]:
-        # Centralize request behavior:
+        #  request behavior:
         # - add the API key consistently
-        # - fail fast with readable error payloads (useful for quota / auth debugging)
-        # - optional tiny delay so we don't spam the API during pagination
+        # - fail fast with readable error payloads
+        # - optional tiny delay , don't spam the API during pagination
         url = f"{YOUTUBE_API_BASE}/{resource.lstrip('/')}"
         q = dict(params)
         q["key"] = self.api_key
@@ -144,7 +144,7 @@ def chunked(seq: Sequence[str], n: int) -> Iterable[List[str]]:
 def videos_list(client: YouTubeApiClient, video_ids: Sequence[str]) -> List[Dict[str, Any]]:
     items: List[Dict[str, Any]] = []
     for batch in chunked(list(video_ids), 50):
-        # Why batch? The API accepts up to 50 IDs per request; batching saves quota/time.
+        #  The API accepts up to 50 IDs per request; to save quota.
         data = client.get(
             "videos",
             {"part": VIDEO_PARTS, "id": ",".join(batch), "maxResults": 50},
@@ -217,7 +217,7 @@ def search_videos(
     items: List[Dict[str, Any]] = []
     page_token: Optional[str] = None
     for _ in range(max_pages):
-        # search.list is higher quota cost than list endpoints, so I keep:
+        # search.list is higher quota cost than list endpoints, so:
         # - a small controlled page_size
         # - a small max_pages (feasibility sample, not full crawl)
         params: Dict[str, Any] = {
@@ -314,7 +314,7 @@ def canonical_video_record(
     channel_lookup: Optional[Dict[str, Dict[str, Any]]] = None,
 ) -> Dict[str, Any]:
     """
-    Map a videos.list item toward the Stage 1 canonical entity shape (platform-agnostic names).
+    Map a videos.list item toward the Stage 1 canonical entity shape .
     """
     sn = video_item.get("snippet") or {}
     st = video_item.get("statistics") or {}
@@ -398,7 +398,7 @@ def write_mentor_html_report(
     search_raw_count: int,
 ) -> Path:
     """
-    One-file HTML summary for reviewers: tables + matplotlib charts (embedded PNG).
+    One-file HTML summary for reviewe: tables + matplotlib charts (embedded PNG).
     Opens in any browser; no extra viewer tools required.
     """
 
