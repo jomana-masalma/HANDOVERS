@@ -2,7 +2,7 @@
 Stage 2: normalize and validate Stage 1 outputs.
 
 No YouTube API calls here. Reads files from youtube_out/ (Stage 1) 
-Why a separate Stage 2?
+separate stage :
 - Stage 1 saves raw API JSON + first-pass canonical JSONL.
 - Stage 2 checks completeness, merges curated + search records, and prepares
   one clean file for dashboards and network scripts (Stage 3).
@@ -122,7 +122,7 @@ def run_stage2(cfg: Stage2Config) -> Path:
                 "valid": len([i for i in issues if not i.startswith("warning:")]) == 0,
             }
         )
-        # Keep all rows; warnings are informational for downstream review.
+        #  for downstream review.
         clean_records.append(row)
 
     cfg.output_dir.mkdir(parents=True, exist_ok=True)
