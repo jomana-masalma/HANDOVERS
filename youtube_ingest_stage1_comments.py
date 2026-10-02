@@ -252,7 +252,7 @@ def write_json(path: Path, obj: Any) -> None:
 
 
 def write_csv_flat(path: Path, rows: List[Dict[str, Any]], fieldnames: List[str]) -> None:
-    # Write deterministic CSV columns for analyst-friendly tabular review.
+    # Write CSV columns for analyst-friendly tabular review.
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)
@@ -262,7 +262,7 @@ def write_csv_flat(path: Path, rows: List[Dict[str, Any]], fieldnames: List[str]
 
 
 def write_jsonl(path: Path, rows: Iterable[Dict[str, Any]]) -> None:
-    # Emit one-record-per-line JSON for pipeline and streaming compatibility.
+    # Emit one-record-per-line JSON for pipeline .
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as f:
         for row in rows:
@@ -302,7 +302,7 @@ def flatten_channel_item(item: Dict[str, Any]) -> Dict[str, Any]:
 
 
 def channel_context_by_id(channels: Sequence[Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
-    # Build quick channel lookup so video records can be enriched cheaply.
+    #  quick channel lookup so video records can be enriched easily.
     out: Dict[str, Dict[str, Any]] = {}
     for ch in channels:
         cid = ch.get("id")
@@ -325,7 +325,7 @@ def canonical_video_record(
     channel_lookup: Optional[Dict[str, Dict[str, Any]]] = None,
 ) -> Dict[str, Any]:
     """
-    Map a videos.list item toward the Stage 1 canonical entity shape (platform-agnostic names).
+    Map a videos.list item toward the Stage 1 canonical entity shape.
     """
     sn = video_item.get("snippet") or {}
     st = video_item.get("statistics") or {}
@@ -408,7 +408,7 @@ def run_ingestion(cfg: IngestConfig) -> None:
         )
         raise SystemExit(2)
 
-    # Prepare shared HTTP session and identify this client with User-Agent.
+    # Prepare shared HTTP session .
     session = requests.Session()
     session.headers["User-Agent"] = cfg.user_agent
 
@@ -579,5 +579,4 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    # Keep command-line exit behavior explicit.
     raise SystemExit(main())
