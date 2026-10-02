@@ -65,7 +65,7 @@ The two comment files are in the main folder. Dashboard 2 reads `out_video_comme
 | `out_search_enriched_videos.json` | Those search hits with views, likes, and duration filled in |
 | `out_search_enriched_channels.json` | Channels for the search hits |
 | `out_search_enriched_channels_flat.csv` | Those search channels in a table |
-| `out_canonical_curated_videos.jsonl` | Curated videos, one per line, for Stage 2. Label: `curated_mentor_list` |
+| `out_canonical_curated_videos.jsonl` | Curated videos, one per line, for Stage 2. Label: `curated_videos` |
 | `out_canonical_search_videos.jsonl` | Search videos, one per line, for Stage 2 |
 
 ## youtube_out/stage2
