@@ -85,7 +85,7 @@ _VIDEO_LEGEND_GRADIENT = (
 
 def _topic_bucket(text_plain: str) -> str:
     """
-    Lightweight text buckets (no ML). Tuned for discussion / critical-thinking style threads.
+   critical-thinking style threads.
     """
     t = text_plain.lower()
     if any(
