@@ -75,7 +75,7 @@ class YouTubeApiClient:
 
 def read_stage1_video_ids(out_dir: Path) -> List[str]:
     """
-    Prefer Stage 1 curated videos output. This avoids requiring the user to retype IDs.
+    Prefer Stage 1 curated videos output. This avoids requiring to retype IDs.
     Falls back to search-enriched videos if curated is missing.
     """
     candidates = [
@@ -104,10 +104,10 @@ def iter_commentthreads(
     max_threads: int,
 ) -> Iterable[Dict[str, Any]]:
     """
-    Generator over commentThreads.list pages.
+    over commentThreads.list pages.
 
-    Why page tokens:
-    - Comment threads are paginated. We stop early after max_threads to control quota/time.
+     page tokens:
+    - Comment threads are paginated.stop early after max_threads to control quota/time.
     """
     page_token: Optional[str] = None
     seen = 0
